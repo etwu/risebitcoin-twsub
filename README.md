@@ -1,4 +1,4 @@
-# The rise and rise of Bitcoin 比特幣的崛起 正體中文電影字幕
+# The Rise and Rise of Bitcoin 比特幣的崛起 正體中文電影字幕
 
 電影官方網站： http://bitcoindoc.com
 
