@@ -1,0 +1,8874 @@
+1
+00:00:19,552 --> 00:00:21,120
+Don't be filming my passwords.
+
+2
+00:00:24,824 --> 00:00:26,792
+<i>I used to have a shirt in high school</i>
+
+3
+00:00:26,794 --> 00:00:31,363
+<i>that said "technology must be used
+to liberate the individual."</i>
+
+4
+00:00:31,365 --> 00:00:33,265
+<i>And I didn't really know what
+it meant for years,</i>
+
+5
+00:00:33,267 --> 00:00:35,634
+<i>'cause I didn't really think about it.</i>
+
+6
+00:00:35,636 --> 00:00:38,670
+<i>But today I look back and I'm like, "oh man,
+hell yeah, I like that shirt."</i>
+
+7
+00:00:38,672 --> 00:00:41,774
+<i>I'm glad I wore that shirt,
+'cause it's how I really feel today.</i>
+
+8
+00:00:41,776 --> 00:00:43,709
+My name is Daniel Mross.
+
+9
+00:00:43,711 --> 00:00:48,047
+Today is may 3rd, 2012.
+
+10
+00:00:49,849 --> 00:00:51,984
+<i>I go through college and watch
+the Internet come</i>
+
+11
+00:00:51,986 --> 00:00:54,286
+<i>and all these different things.
+And now, like, Bitcoin,</i>
+
+12
+00:00:54,288 --> 00:00:57,489
+<i>it's just a single technology built
+on top of the Internet,</i>
+
+13
+00:00:57,491 --> 00:00:59,124
+<i>but it's so fascinating
+because there's so many</i>
+
+14
+00:00:59,126 --> 00:01:01,660
+<i>freaking things you can do with it.</i>
+
+15
+00:01:01,662 --> 00:01:03,162
+<i>It's also just a big experiment.</i>
+
+16
+00:01:03,164 --> 00:01:04,663
+<i>There's no guarantees with it.</i>
+
+17
+00:01:06,299 --> 00:01:08,434
+<i>We might just all be wasting our time...</i>
+
+18
+00:01:09,903 --> 00:01:11,437
+<i>Exploring concepts and ideas.</i>
+
+19
+00:01:11,439 --> 00:01:13,739
+<i>It's at this crossroads of technology</i>
+
+20
+00:01:13,741 --> 00:01:16,341
+<i>and philosophy and politics and everything.</i>
+
+21
+00:01:17,844 --> 00:01:21,747
+<i>Just be a part of it. It's fun.</i>
+
+22
+00:01:21,749 --> 00:01:23,482
+<i>It's crazy though, but it's fun.</i>
+
+23
+00:01:24,918 --> 00:01:26,452
+<i>Um, first question is</i>
+
+24
+00:01:26,454 --> 00:01:28,587
+<i>what is Bitcoin?</i>
+
+25
+00:01:33,193 --> 00:01:34,993
+<i>I can't tell you what Bitcoin is</i>
+
+26
+00:01:34,995 --> 00:01:36,428
+<i>in just a few sentences.</i>
+
+27
+00:01:36,430 --> 00:01:39,431
+<i>It takes time to understand it,</i>
+
+28
+00:01:39,433 --> 00:01:41,667
+<i>the same way it took people
+time to understand</i>
+
+29
+00:01:41,669 --> 00:01:43,135
+<i>what the Internet was</i>
+
+30
+00:01:43,137 --> 00:01:45,003
+<i>back in 1994.</i>
+
+31
+00:01:45,005 --> 00:01:48,140
+That little Mark with the "a"
+and then the ring around it.
+
+32
+00:01:48,142 --> 00:01:50,109
+- "At"?
+- See, that's what I said.
+
+33
+00:01:50,111 --> 00:01:52,811
+- Mm-hmm.
+- Katie said she thought it was "about."
+
+34
+00:01:52,813 --> 00:01:56,181
+- <i> Yeah.</i>
+- Elizabeth Vargas: <i>Oh, Internet is...</i>
+
+35
+00:01:56,183 --> 00:01:58,283
+<i- >- - That massive computer network...
+</i> - <i> Right.</i>
+
+36
+00:01:58,285 --> 00:02:00,452
+<i>...the one that's becoming really big now.</i>
+
+37
+00:02:00,454 --> 00:02:02,955
+Allison, can you explain what Internet is?
+
+38
+00:02:04,657 --> 00:02:06,492
+<i>When the Internet was taking off,</i>
+
+39
+00:02:06,494 --> 00:02:08,327
+<i>I was in college at Virginia tech</i>
+
+40
+00:02:08,329 --> 00:02:10,229
+<i>studying computer science.</i>
+
+41
+00:02:10,231 --> 00:02:13,165
+<i>Looking back, it's amazing to think about</i>
+
+42
+00:02:13,167 --> 00:02:15,167
+<i>how much the world was changing.</i>
+
+43
+00:02:15,169 --> 00:02:16,802
+<i>Hey, Dan, ready for the game?</i>
+
+44
+00:02:16,804 --> 00:02:18,971
+I'm just finishing up here
+with my new kayaking friends.
+
+45
+00:02:18,973 --> 00:02:20,239
+Kayaking friends on your computer?
+
+46
+00:02:20,241 --> 00:02:22,674
+Yeah, I just got America online.
+
+47
+00:02:22,676 --> 00:02:25,210
+<i>That same type of innovation
+is happening again</i>
+
+48
+00:02:25,212 --> 00:02:26,812
+<i>with Bitcoin.</i>
+
+49
+00:02:26,814 --> 00:02:28,514
+It's the smartest people in the room
+
+50
+00:02:28,516 --> 00:02:31,450
+that are the most excited about this.
+So what are they seeing?
+
+51
+00:02:31,452 --> 00:02:34,887
+<i>The Internet changed the way
+the world communicates</i>
+
+52
+00:02:34,889 --> 00:02:37,756
+<i>Bitcoin changes the way money works.</i>
+
+53
+00:02:37,758 --> 00:02:41,527
+You can basically put a bank in your pocket.
+
+54
+00:02:41,529 --> 00:02:42,794
+Psst!
+
+55
+00:02:42,796 --> 00:02:44,463
+Wanna buy some secret stuff?
+
+56
+00:02:44,465 --> 00:02:46,131
+There is now a new note
+
+57
+00:02:46,133 --> 00:02:47,432
+that people are starting to talk about--
+
+58
+00:02:47,434 --> 00:02:48,600
+The Bitcoin.
+
+59
+00:02:48,602 --> 00:02:50,369
+The money of the future.
+
+60
+00:02:54,340 --> 00:02:56,141
+<i>Bitcoin was created to provide</i>
+
+61
+00:02:56,143 --> 00:02:58,010
+<i>an alternative to the banking system.</i>
+
+62
+00:02:58,012 --> 00:02:59,011
+<i>We're in the midst</i>
+
+63
+00:02:59,013 --> 00:03:01,146
+<i>of a serious financial crisis</i>
+
+64
+00:03:01,148 --> 00:03:02,681
+and the federal government is responding
+
+65
+00:03:02,683 --> 00:03:04,116
+with decisive action.
+
+66
+00:03:07,654 --> 00:03:09,788
+<i>Unlike most currencies,</i>
+
+67
+00:03:09,790 --> 00:03:12,958
+<i>Bitcoins are issued according
+to a set of fixed rules.</i>
+
+68
+00:03:12,960 --> 00:03:15,761
+<i>The idea was to create money whose value</i>
+
+69
+00:03:15,763 --> 00:03:19,298
+<i>couldn't be manipulated by
+a central authority.</i>
+
+70
+00:03:19,300 --> 00:03:21,433
+The government, no matter
+how many guns they draw,
+
+71
+00:03:21,435 --> 00:03:24,336
+cannot change a mathematical problem.
+
+72
+00:03:24,338 --> 00:03:26,939
+<i>They can point their guns at "two plus two,"</i>
+
+73
+00:03:26,941 --> 00:03:28,301
+<i>but it's always gonna equal four.</i>
+
+74
+00:03:32,645 --> 00:03:34,379
+<i>It's fascinating to imagine</i>
+
+75
+00:03:34,381 --> 00:03:37,115
+<i>what it means to have global
+decentralized money.</i>
+
+76
+00:03:38,785 --> 00:03:40,018
+<i>And that's what's happening.</i>
+
+77
+00:04:12,820 --> 00:04:15,454
+My five-year-old's birthday.
+
+78
+00:04:15,456 --> 00:04:17,089
+First round of burgers is ready.
+
+79
+00:04:17,091 --> 00:04:19,091
+Second round is going on in a second.
+
+80
+00:04:20,159 --> 00:04:22,261
+First round of burgers is ready!
+
+81
+00:04:23,731 --> 00:04:25,130
+First round.
+
+82
+00:04:26,733 --> 00:04:29,167
+Eliza Mross: <i>Dan has always
+been an idea guy.</i>
+
+83
+00:04:29,169 --> 00:04:31,436
+<i>Bitcoin is the perfect combination</i>
+
+84
+00:04:31,438 --> 00:04:33,905
+of how can I change the
+world and make it better,
+
+85
+00:04:33,907 --> 00:04:36,141
+but how can I also be a nerd?
+
+86
+00:04:36,143 --> 00:04:38,510
+<i>So mostly I've just been supporting him</i>
+
+87
+00:04:38,512 --> 00:04:41,013
+<i>in this craziness.</i>
+
+88
+00:04:44,117 --> 00:04:45,851
+<i>Eliza and I met in college,</i>
+
+89
+00:04:45,853 --> 00:04:48,086
+<i>and we've been married for seven years.</i>
+
+90
+00:04:48,088 --> 00:04:50,355
+<i>We live in Pittsburgh, where I'm from,</i>
+
+91
+00:04:50,357 --> 00:04:52,324
+<i>and we have three boys,</i>
+
+92
+00:04:52,326 --> 00:04:53,925
+<i>I've spent most of my career</i>
+
+93
+00:04:53,927 --> 00:04:56,628
+<i>as a database administrator.</i>
+
+94
+00:04:56,630 --> 00:04:59,831
+<i>But for the past two years,
+I've been consumed with Bitcoin.</i>
+
+95
+00:05:01,768 --> 00:05:05,671
+<i>Bitcoins come into existence through
+a process called mining.</i>
+
+96
+00:05:05,673 --> 00:05:08,507
+<i>I build computers to mine for Bitcoins.</i>
+
+97
+00:05:10,643 --> 00:05:13,011
+I'm glad that it's finally
+getting a little bit cooler out.
+
+98
+00:05:13,013 --> 00:05:15,781
+My wife won't be as angry
+that the basement is so hot.
+
+99
+00:05:17,483 --> 00:05:20,952
+I've still got a bunch of
+mining rigs running right now.
+
+100
+00:05:20,954 --> 00:05:23,394
+Actually they're right down here,
+if you wanna go take a look.
+
+101
+00:05:32,532 --> 00:05:34,232
+Here they are.
+
+102
+00:05:36,703 --> 00:05:38,937
+<i>So what is Bitcoin?</i>
+
+103
+00:05:38,939 --> 00:05:41,773
+<i>Bitcoin is a revolutionary technology</i>
+
+104
+00:05:41,775 --> 00:05:44,609
+<i>that enables a new way to send
+payments over the Internet.</i>
+
+105
+00:05:44,611 --> 00:05:47,679
+- -<i> You can think of
+it as an open accounting system</i>
+
+106
+00:05:47,681 --> 00:05:50,182
+<i>where thousands of computers
+all over the world</i>
+
+107
+00:05:50,184 --> 00:05:54,119
+<i>work together to track ownership of
+digital tokens called Bitcoins.</i>
+
+108
+00:05:54,121 --> 00:05:56,355
+<i>When you send someone Bitcoins,</i>
+
+109
+00:05:56,357 --> 00:05:59,424
+<i>the transaction is broadcast
+to the entire network.</i>
+
+110
+00:05:59,426 --> 00:06:01,626
+<i>After it's verified,</i>
+
+111
+00:06:01,628 --> 00:06:03,161
+<i>it's recorded in a public ledger</i>
+
+112
+00:06:03,163 --> 00:06:04,863
+<i>called the blockchain.</i>
+
+113
+00:06:04,865 --> 00:06:06,431
+<i>The blockchain contains a record</i>
+
+114
+00:06:06,433 --> 00:06:08,600
+<i>of every Bitcoin transaction
+that has occurred</i>
+
+115
+00:06:08,602 --> 00:06:10,202
+<i>since the system began,</i>
+
+116
+00:06:10,204 --> 00:06:12,170
+<i>and it's shared and maintained
+on the network,</i>
+
+117
+00:06:12,172 --> 00:06:14,172
+<i>so everyone keeps the books, so to speak.</i>
+
+118
+00:06:15,675 --> 00:06:17,943
+<i>Most currencies are issued
+by a central authority</i>
+
+119
+00:06:17,945 --> 00:06:20,278
+<i>that controls the money supply.</i>
+
+120
+00:06:20,280 --> 00:06:22,280
+<i>Bitcoin is a peer-to-peer system,</i>
+
+121
+00:06:22,282 --> 00:06:24,282
+<i>so there is no central authority.</i>
+
+122
+00:06:24,284 --> 00:06:27,352
+<i>Instead Bitcoins are issued to users</i>
+
+123
+00:06:27,354 --> 00:06:29,855
+<i>who help process transactions
+in the network.</i>
+
+124
+00:06:29,857 --> 00:06:33,125
+<i>This is known as Bitcoin mining.</i>
+
+125
+00:06:33,127 --> 00:06:35,627
+<i>Bitcoin miners are specialized computers</i>
+
+126
+00:06:35,629 --> 00:06:37,295
+<i>that do the work required to verify</i>
+
+127
+00:06:37,297 --> 00:06:39,765
+<i>and record transactions in the blockchain.</i>
+
+128
+00:06:39,767 --> 00:06:41,533
+<i>As a reward for their work,</i>
+
+129
+00:06:41,535 --> 00:06:43,502
+<i>the miners earn Bitcoins,</i>
+
+130
+00:06:43,504 --> 00:06:46,805
+<i>and this is how new Bitcoins are
+released into circulation.</i>
+
+131
+00:06:46,807 --> 00:06:48,373
+<i>The system is programmed</i>
+
+132
+00:06:48,375 --> 00:06:51,209
+<i>so that only 21 million
+Bitcoins will ever exist.</i>
+
+133
+00:06:51,211 --> 00:06:52,778
+<i>And as time goes by,</i>
+
+134
+00:06:52,780 --> 00:06:54,446
+<i>the mining reward decreases.</i>
+
+135
+00:06:54,448 --> 00:06:56,915
+<i>The result is a predictable supply</i>
+
+136
+00:06:56,917 --> 00:06:58,617
+<i>that's governed by scarcity,</i>
+
+137
+00:06:58,619 --> 00:07:02,087
+<i>making Bitcoins somewhat
+like a digital gold.</i>
+
+138
+00:07:02,089 --> 00:07:04,756
+<i>It's the first currency of the Internet.</i>
+
+139
+00:07:04,758 --> 00:07:06,591
+<i>And everyone is free to use it.</i>
+
+140
+00:07:06,593 --> 00:07:09,694
+<i>With Bitcoin, you can send
+any amount of money</i>
+
+141
+00:07:09,696 --> 00:07:11,963
+<i>to anyone anywhere in the world</i>
+
+142
+00:07:11,965 --> 00:07:13,865
+<i>as easily as sending an email.</i>
+
+143
+00:07:18,004 --> 00:07:20,472
+<i>My brother Nick is a filmmaker.</i>
+
+144
+00:07:20,474 --> 00:07:23,608
+<i>After hearing me talk about Bitcoin
+incessantly for months,</i>
+
+145
+00:07:23,610 --> 00:07:26,111
+<i>we decided to start documenting things.</i>
+
+146
+00:07:26,113 --> 00:07:28,980
+<i>Hey, I don't think we'll
+need the small camera.</i>
+
+147
+00:07:28,982 --> 00:07:31,750
+- It can't hurt.
+- <i> No, I'd rather just leave it behind.</i>
+
+148
+00:07:31,752 --> 00:07:33,819
+I have so much equipment. Do you mind?
+
+149
+00:07:33,821 --> 00:07:35,654
+Damn, you really cramped it up, huh?
+
+150
+00:07:35,656 --> 00:07:36,955
+Not that bad. What do you mean?
+
+151
+00:07:36,957 --> 00:07:39,491
+- Jeez.
+- Dude, they're right there.
+
+152
+00:07:39,493 --> 00:07:41,293
+Right in the back. Right there.
+
+153
+00:07:41,295 --> 00:07:43,962
+<i>I was convinced that Bitcoin
+was going to be huge,</i>
+
+154
+00:07:43,964 --> 00:07:46,598
+<i>and I knew there were a lot of
+others like me out there.</i>
+
+155
+00:07:46,600 --> 00:07:49,167
+Zipped my keys in my pocket,
+so I don't forget 'em later.
+
+156
+00:07:54,073 --> 00:07:58,243
+Bitcoin was created by what's
+believed to be a pseudonym,
+
+157
+00:07:58,245 --> 00:08:00,779
+a guy named Satoshi Nakamoto.
+
+158
+00:08:00,781 --> 00:08:03,648
+Invented in '09 by a fictitious person
+
+159
+00:08:03,650 --> 00:08:05,784
+named Satoshi Nakamoto...
+
+160
+00:08:05,786 --> 00:08:07,786
+<i>On Halloween 2008,</i>
+
+161
+00:08:07,788 --> 00:08:10,255
+<i>someone using the name Satoshi Nakamoto.</i>
+
+162
+00:08:10,257 --> 00:08:12,090
+<i>Posted on a cryptography mailing list...</i>
+
+163
+00:08:17,797 --> 00:08:20,265
+<i>The post contained a link to a white paper</i>
+
+164
+00:08:20,267 --> 00:08:23,702
+<i>in which Satoshi proposed a new type of
+payment system for the Internet.</i>
+
+165
+00:08:23,704 --> 00:08:26,638
+<i>It described a protocol that used
+peer-to-peer networking,</i>
+
+166
+00:08:26,640 --> 00:08:29,241
+<i>proof of work and public key cryptography.</i>
+
+167
+00:08:31,344 --> 00:08:34,346
+<i>For years, computer scientists
+had been experimenting</i>
+
+168
+00:08:34,348 --> 00:08:37,349
+<i>with these technologies to
+create digital money.</i>
+
+169
+00:08:37,351 --> 00:08:39,718
+<i>But Satoshi discovered a way to combine them</i>
+
+170
+00:08:39,720 --> 00:08:41,353
+<i>that had never been done before.</i>
+
+171
+00:08:41,355 --> 00:08:44,789
+<i>In doing so, he invented Bitcoin.</i>
+
+172
+00:08:44,791 --> 00:08:47,726
+<i>There are no records of Nakamoto's existence</i>
+
+173
+00:08:47,728 --> 00:08:49,427
+<i>prior to the creation of Bitcoin.</i>
+
+174
+00:08:49,429 --> 00:08:51,029
+<i>On his profile page,</i>
+
+175
+00:08:51,031 --> 00:08:52,964
+<i>he claimed to be a 34-year-old man</i>
+
+176
+00:08:52,966 --> 00:08:54,699
+<i>living in Japan.</i>
+
+177
+00:08:54,701 --> 00:08:57,536
+<i>Although Satoshi Nakamoto
+is a Japanese name,</i>
+
+178
+00:08:57,538 --> 00:09:00,405
+<i>he wrote in perfect English
+when communicating online</i>
+
+179
+00:09:00,407 --> 00:09:02,847
+<i>and went through great lengths to
+keep his identity unknown.</i>
+
+180
+00:09:04,143 --> 00:09:06,611
+<i>Nonetheless, programmers and cryptographers</i>
+
+181
+00:09:06,613 --> 00:09:09,948
+<i>all across the world recognized the
+brilliance of Satoshi's design.</i>
+
+182
+00:09:09,950 --> 00:09:13,585
+<i>And began collaborating with him
+to further develop Bitcoin.</i>
+
+183
+00:09:13,587 --> 00:09:15,820
+<i>In October of 2009,</i>
+
+184
+00:09:15,822 --> 00:09:17,589
+<i>the first exchange rate was published.</i>
+
+185
+00:09:17,591 --> 00:09:22,294
+<i>Listing the value of 1,309 Bitcoins at $1.</i>
+
+186
+00:09:22,296 --> 00:09:24,863
+<i>Bitcoins were cheap,
+and through the following year,</i>
+
+187
+00:09:24,865 --> 00:09:27,032
+<i>they continued to trade for
+fractions of a cent.</i>
+
+188
+00:09:28,301 --> 00:09:29,734
+<i>In the spring of 2010,</i>
+
+189
+00:09:29,736 --> 00:09:31,503
+<i>a Florida man named Laszlo</i>
+
+190
+00:09:31,505 --> 00:09:33,939
+<i>decided to try using his Bitcoins
+to purchase something.</i>
+
+191
+00:09:33,941 --> 00:09:36,241
+<i>He offered 10,000 Bitcoins</i>
+
+192
+00:09:36,243 --> 00:09:38,276
+<i>to anyone who would buy him pizza.</i>
+
+193
+00:09:38,278 --> 00:09:40,011
+<i>A man in London accepted</i>
+
+194
+00:09:40,013 --> 00:09:41,680
+<i>and placed a long-distance phone call,</i>
+
+195
+00:09:41,682 --> 00:09:44,015
+<i>ordering him two pizzas from papa John's.</i>
+
+196
+00:09:44,017 --> 00:09:45,951
+<i>This is generally acknowledged</i>
+
+197
+00:09:45,953 --> 00:09:49,020
+<i>as the first Bitcoin transaction
+for a tangible good.</i>
+
+198
+00:09:49,022 --> 00:09:50,989
+<i>Bitcoin was gaining momentum,</i>
+
+199
+00:09:50,991 --> 00:09:52,824
+<i>but in order for it to thrive</i>
+
+200
+00:09:52,826 --> 00:09:55,160
+<i>the coins needed to be more
+widely accessible.</i>
+
+201
+00:09:55,162 --> 00:09:58,430
+<i>A Tokyo-based exchange named Mt. Gox was</i>
+
+202
+00:09:58,432 --> 00:10:00,832
+<i>the first on the scene to take
+hold of the Marketplace</i>
+
+203
+00:10:00,834 --> 00:10:02,634
+<i>and trading volume started to pick up.</i>
+
+204
+00:10:02,636 --> 00:10:04,636
+<i>By November 2010,</i>
+
+205
+00:10:04,638 --> 00:10:07,138
+<i>already 4 million Bitcoins had been mined.</i>
+
+206
+00:10:07,140 --> 00:10:10,408
+<i>And the exchange price briefly
+spiked to 50¢ per coin.</i>
+
+207
+00:10:10,410 --> 00:10:13,812
+<i>The Market awoke and Bitcoin was
+starting to look like</i>
+
+208
+00:10:13,814 --> 00:10:16,815
+<i>it might have real potential as a currency.</i>
+
+209
+00:10:16,817 --> 00:10:19,651
+His name is Julian Assange.
+
+210
+00:10:19,653 --> 00:10:21,586
+<i>Assange and his colleagues</i>
+
+211
+00:10:21,588 --> 00:10:24,189
+<i>collect confidential information
+and then make it public.</i>
+
+212
+00:10:24,191 --> 00:10:27,459
+The release of 250,000
+state department documents
+
+213
+00:10:27,461 --> 00:10:30,495
+no doubt presents a serious
+dilemma for this country.
+
+214
+00:10:30,497 --> 00:10:32,497
+<i>Following a massive release</i>
+
+215
+00:10:32,499 --> 00:10:34,499
+<i>of secret U.S. diplomatic cables,</i>
+
+216
+00:10:34,501 --> 00:10:37,068
+<i>donations to Wikileaks were blocked</i>
+
+217
+00:10:37,070 --> 00:10:39,671
+<i>by Bank of America, Visa, Mastercard,</i>
+
+218
+00:10:39,673 --> 00:10:42,173
+<i>PayPal and Western union.</i>
+
+219
+00:10:42,175 --> 00:10:45,043
+<i>An article in "PC World"
+suggested that Bitcoin</i>
+
+220
+00:10:45,045 --> 00:10:46,611
+<i>could be used as a workaround</i>
+
+221
+00:10:46,613 --> 00:10:48,413
+<i>to send donations to Wikileaks.</i>
+
+222
+00:10:48,415 --> 00:10:50,949
+<i>One of Satoshi's last known posts</i>
+
+223
+00:10:50,951 --> 00:10:52,851
+<i>was in response to the article and stated...</i>
+
+224
+00:11:01,293 --> 00:11:02,994
+<i>Shortly after that</i>
+
+225
+00:11:02,996 --> 00:11:04,829
+<i>Satoshi disappeared from the forums</i>
+
+226
+00:11:04,831 --> 00:11:07,732
+<i>and was never heard from again.</i>
+
+227
+00:11:07,734 --> 00:11:11,569
+<i>Two months later the silk road anonymous
+Marketplace was launched.</i>
+
+228
+00:11:11,571 --> 00:11:13,938
+<i>It functioned as an online black Market</i>
+
+229
+00:11:13,940 --> 00:11:15,840
+<i>for drugs and other illicit goods</i>
+
+230
+00:11:15,842 --> 00:11:17,742
+<i>and used Bitcoin exclusively,</i>
+
+231
+00:11:17,744 --> 00:11:19,077
+<i>because it made the money trail</i>
+
+232
+00:11:19,079 --> 00:11:21,079
+<i>nearly impossible to trace.</i>
+
+233
+00:11:21,081 --> 00:11:23,148
+<i>The silk road caught the attention</i>
+
+234
+00:11:23,150 --> 00:11:25,150
+<i>of New York senator Charles Schumer</i>
+
+235
+00:11:25,152 --> 00:11:26,985
+<i>who was outraged and publicly called</i>
+
+236
+00:11:26,987 --> 00:11:29,254
+<i>for a crackdown on the site.</i>
+
+237
+00:11:29,256 --> 00:11:32,190
+Heroin, opium, cannabis, ecstasy,
+
+238
+00:11:32,192 --> 00:11:33,825
+psychedelics, stimulants.
+
+239
+00:11:33,827 --> 00:11:35,160
+It's unbelievable.
+
+240
+00:11:35,162 --> 00:11:36,961
+<i>Throughout all this,</i>
+
+241
+00:11:36,963 --> 00:11:38,797
+<i>the exchange price continued to climb.</i>
+
+242
+00:11:38,799 --> 00:11:41,099
+<i>By February of 2011,</i>
+
+243
+00:11:41,101 --> 00:11:43,468
+<i>Bitcoin reached parity with the U.S. dollar.</i>
+
+244
+00:11:43,470 --> 00:11:46,538
+<i>Sparking an influx of new
+users and speculators.</i>
+
+245
+00:11:46,540 --> 00:11:50,608
+<i>By June the price had soared
+to a peak of $31</i>
+
+246
+00:11:50,610 --> 00:11:52,811
+<i>before it came crashing down.</i>
+
+247
+00:11:52,813 --> 00:11:56,347
+<i>As the Market tanked, the Mt.
+Gox exchange was hacked,</i>
+
+248
+00:11:56,349 --> 00:11:58,149
+<i>further shaking the confidence of investors</i>
+
+249
+00:11:58,151 --> 00:11:59,884
+<i>and hammering the price all the way down</i>
+
+250
+00:11:59,886 --> 00:12:01,986
+<i>to the $2 range by October.</i>
+
+251
+00:12:01,988 --> 00:12:04,923
+<i>While Bitcoin enthusiasts kept hope,</i>
+
+252
+00:12:04,925 --> 00:12:07,092
+<i>skeptics were quick to share
+their hindsights</i>
+
+253
+00:12:07,094 --> 00:12:09,661
+<i>and rants on blogs and in news articles.</i>
+
+254
+00:12:09,663 --> 00:12:11,596
+<i>Many thought that the party was over</i>
+
+255
+00:12:11,598 --> 00:12:14,632
+<i>and that Bitcoin was on its way out.</i>
+
+256
+00:12:14,634 --> 00:12:17,235
+I went online and I bought
+one Bitcoin last night.
+
+257
+00:12:17,237 --> 00:12:20,171
+Really? It's the future.
+
+258
+00:12:20,173 --> 00:12:21,173
+I don't know.
+
+259
+00:12:21,174 --> 00:12:22,174
+It didn't feel real.
+
+260
+00:12:22,175 --> 00:12:24,175
+No. Real's gonna change.
+
+261
+00:12:25,177 --> 00:12:27,746
+Just watch.
+
+262
+00:12:27,748 --> 00:12:30,081
+Today I sent a total of...
+
+263
+00:12:31,350 --> 00:12:33,685
+2700 Bitcoins
+
+264
+00:12:33,687 --> 00:12:35,120
+to butterfly labs.
+
+265
+00:12:35,122 --> 00:12:38,590
+<i>I purchased, basically, a custom-designed</i>
+
+266
+00:12:38,592 --> 00:12:41,493
+<i>Bitcoin-mining supercomputer.</i>
+
+267
+00:12:41,495 --> 00:12:43,228
+If Bitcoin fails...
+
+268
+00:12:44,497 --> 00:12:46,231
+Everything I have is worthless.
+
+269
+00:12:46,233 --> 00:12:48,800
+The Bitcoins I have,
+
+270
+00:12:48,802 --> 00:12:50,568
+the computers, the mining system
+
+271
+00:12:50,570 --> 00:12:52,170
+was all a waste of money.
+
+272
+00:12:55,508 --> 00:12:57,575
+But if it succeeds, then...
+
+273
+00:12:59,812 --> 00:13:02,313
+It will have been worth it, I think.
+
+274
+00:13:02,315 --> 00:13:05,650
+- -<i> The Bitcoin economy
+was a wild west in cyberspace</i>
+
+275
+00:13:05,652 --> 00:13:08,853
+<i>that was very attractive to
+hackers and scammers.</i>
+
+276
+00:13:08,855 --> 00:13:12,323
+<i>Over the years, tens of thousands
+of coins had been stolen</i>
+
+277
+00:13:12,325 --> 00:13:14,626
+<i>and 2012 proved no different.</i>
+
+278
+00:13:14,628 --> 00:13:17,295
+<i>Users had to be careful.</i>
+
+279
+00:13:17,297 --> 00:13:20,098
+If somebody steals your Bitcoins,
+there are no consumer protections.
+
+280
+00:13:20,100 --> 00:13:22,300
+Sorry, they're gone.
+You lost your Bitcoins? They're gone
+
+281
+00:13:22,302 --> 00:13:24,102
+and you're not going to get them back.
+
+282
+00:13:24,104 --> 00:13:27,005
+<i>But after months of stagnation
+on the exchanges,</i>
+
+283
+00:13:27,007 --> 00:13:29,474
+<i>the Bitcoin price was on the rise again.</i>
+
+284
+00:13:29,476 --> 00:13:32,844
+The price of Bitcoin today
+is around $7 U.S.D.,
+
+285
+00:13:32,846 --> 00:13:36,347
+which just had a nice little bump this week.
+
+286
+00:13:36,349 --> 00:13:39,350
+<i>By the end of the year,
+the blogging site Wordpress</i>
+
+287
+00:13:39,352 --> 00:13:42,320
+<i>announced it would start accepting
+Bitcoin payments.</i>
+
+288
+00:13:42,322 --> 00:13:45,089
+<i>And in early 2013,
+the discussion forum Reddit</i>
+
+289
+00:13:45,091 --> 00:13:46,925
+<i>also announced Bitcoin support.</i>
+
+290
+00:13:46,927 --> 00:13:50,228
+<i>They were the first major sites
+to incorporate Bitcoin,</i>
+
+291
+00:13:50,230 --> 00:13:52,463
+<i>and these milestones signaled the beginning</i>
+
+292
+00:13:52,465 --> 00:13:53,898
+<i>of mainstream acceptance.</i>
+
+293
+00:14:01,540 --> 00:14:05,109
+Bitcoin is the most subversive
+technology on the planet.
+
+294
+00:14:05,111 --> 00:14:08,046
+This is a system that is growing
+around the entire world.
+
+295
+00:14:08,048 --> 00:14:11,282
+So if it works, if this
+experiment continues to grow,
+
+296
+00:14:11,284 --> 00:14:14,652
+it doesn't just help a few of us
+in this state or in the country,
+
+297
+00:14:14,654 --> 00:14:16,621
+but it actually helps
+everyone around the world.
+
+298
+00:14:20,827 --> 00:14:22,493
+<i>As the Bitcoin price hovered around</i>
+
+299
+00:14:22,495 --> 00:14:25,396
+<i>it's previous all-time high of $31,</i>
+
+300
+00:14:25,398 --> 00:14:28,099
+<i>I visited a libertarian conference
+in New Hampshire.</i>
+
+301
+00:14:28,101 --> 00:14:30,602
+It lost 20% and then it gained 20%
+
+302
+00:14:30,604 --> 00:14:32,437
+in 20 minutes.
+
+303
+00:14:32,439 --> 00:14:34,005
+It is-- They're silly.
+
+304
+00:14:35,074 --> 00:14:36,674
+<i>Libertarians are among</i>
+
+305
+00:14:36,676 --> 00:14:38,276
+<i>the earliest adopters of Bitcoin.</i>
+
+306
+00:14:38,278 --> 00:14:40,845
+<i>Its nature as a currency
+that isn't controlled</i>
+
+307
+00:14:40,847 --> 00:14:43,815
+<i>by central banks makes it
+attractive to this community.</i>
+
+308
+00:14:43,817 --> 00:14:46,150
+Once I was able to kind
+of grok the basic concept,
+
+309
+00:14:46,152 --> 00:14:48,853
+it was like, "this is the perfect money."
+
+310
+00:14:48,855 --> 00:14:51,522
+<i>This is what a Bitcoin address looks like.</i>
+
+311
+00:14:51,524 --> 00:14:53,825
+<i>Think of this long string of characters</i>
+
+312
+00:14:53,827 --> 00:14:56,294
+<i>as an account number where your
+Bitcoins are stored.</i>
+
+313
+00:14:56,296 --> 00:14:58,329
+<i>When you send or receive Bitcoins,</i>
+
+314
+00:14:58,331 --> 00:15:00,798
+<i>they are sent to these addresses.</i>
+
+315
+00:15:00,800 --> 00:15:02,834
+<i>The addresses are long and hard to remember</i>
+
+316
+00:15:02,836 --> 00:15:05,637
+<i>so using a phone to scan a Q.R. Code</i>
+
+317
+00:15:05,639 --> 00:15:07,805
+<i>is a fast and easy way to read them.</i>
+
+318
+00:15:07,807 --> 00:15:09,540
+<i>Another good thing to know</i>
+
+319
+00:15:09,542 --> 00:15:10,975
+<i>is that Bitcoins can be broken down</i>
+
+320
+00:15:10,977 --> 00:15:12,677
+<i>to eight decimal places.</i>
+
+321
+00:15:12,679 --> 00:15:15,280
+<i>This means that you can send
+fractions of a Bitcoin.</i>
+
+322
+00:15:15,282 --> 00:15:18,683
+<i>So any amount of money can be represented.</i>
+
+323
+00:15:18,685 --> 00:15:21,920
+<i>With Bitcoin, every transaction is public.</i>
+
+324
+00:15:21,922 --> 00:15:24,422
+<i>Everyone can see the amount
+that is being sent</i>
+
+325
+00:15:24,424 --> 00:15:27,892
+<i>without necessarily knowing the
+identity of the sender.</i>
+
+326
+00:15:27,894 --> 00:15:30,929
+<i>These guys even have one of
+the first Bitcoin ATMs.</i>
+
+327
+00:15:30,931 --> 00:15:34,132
+You just scan your Q.R. Code on your phone,
+
+328
+00:15:34,134 --> 00:15:36,401
+<i>put in the dollar bills and
+press the button.</i>
+
+329
+00:15:36,403 --> 00:15:38,937
+Bam. Done. Perfect.
+
+330
+00:15:38,939 --> 00:15:41,306
+<i>You now traded your worthless piece of paper</i>
+
+331
+00:15:41,308 --> 00:15:43,274
+<i>for real currency.</i>
+
+332
+00:15:43,276 --> 00:15:45,310
+It's like, "end the fed?" It's like,
+seriously, you think
+
+333
+00:15:45,312 --> 00:15:46,744
+you're gonna end the fed?
+You're not gonna end the fed.
+
+334
+00:15:46,746 --> 00:15:48,079
+You're not gonna change
+anything about the fed.
+
+335
+00:15:48,081 --> 00:15:50,114
+- Transcend the fed.
+- Bypass the fed.
+
+336
+00:15:50,116 --> 00:15:51,916
+- Right, yeah.
+- That's what you should do.
+
+337
+00:15:51,918 --> 00:15:54,919
+My concern is how the
+governments will react.
+
+338
+00:15:54,921 --> 00:15:57,255
+They can't kill or stop Bitcoin,
+
+339
+00:15:57,257 --> 00:16:00,658
+but they could impede it and they could
+get in the way of its development.
+
+340
+00:16:04,430 --> 00:16:06,931
+<i>A few weeks later across the ocean,</i>
+
+341
+00:16:06,933 --> 00:16:09,167
+<i>a financial crisis was reaching
+a breaking point</i>
+
+342
+00:16:09,169 --> 00:16:10,802
+<i>on the island of Cyprus.</i>
+
+343
+00:16:10,804 --> 00:16:13,137
+Cyprus is on the brink of going bust.
+
+344
+00:16:13,139 --> 00:16:15,273
+The rest of Europe has agreed to a bailout,
+
+345
+00:16:15,275 --> 00:16:19,277
+but only if Cyprus raids people's
+bank accounts for quick hard cash.
+
+346
+00:16:19,279 --> 00:16:21,779
+<i>People tried to get money out
+of the cash machines</i>
+
+347
+00:16:21,781 --> 00:16:24,115
+<i>but electronic transfers have been stopped.</i>
+
+348
+00:16:24,117 --> 00:16:26,351
+Never did I think
+that they would...
+
+349
+00:16:26,353 --> 00:16:28,119
+...in a completely unprecedented manner
+
+350
+00:16:28,121 --> 00:16:29,954
+resort to stealing money
+
+351
+00:16:29,956 --> 00:16:32,323
+from people's bank accounts.
+
+352
+00:16:32,325 --> 00:16:34,225
+<i>The Cypriots had placed their trust</i>
+
+353
+00:16:34,227 --> 00:16:37,996
+<i>in the banking system and
+it had failed them.</i>
+
+354
+00:16:37,998 --> 00:16:41,332
+<i>As news of the crisis spread
+around the world,</i>
+
+355
+00:16:41,334 --> 00:16:43,468
+<i>Bitcoin believers were quick to point it out</i>
+
+356
+00:16:43,470 --> 00:16:45,436
+<i>as an example of why a currency</i>
+
+357
+00:16:45,438 --> 00:16:47,505
+<i>free from government control was needed.</i>
+
+358
+00:16:47,507 --> 00:16:49,941
+There's actually Bitcoin ATMs
+
+359
+00:16:49,943 --> 00:16:52,310
+apparently being set up in Cyprus.
+
+360
+00:16:52,312 --> 00:16:54,312
+<i>All of a sudden, Bitcoin looks</i>
+
+361
+00:16:54,314 --> 00:16:56,014
+<i>like an attractive prospect.</i>
+
+362
+00:16:57,983 --> 00:16:59,817
+<i>While this was happening in Cyprus,</i>
+
+363
+00:16:59,819 --> 00:17:01,586
+<i>regulators at the U.S. treasury</i>
+
+364
+00:17:01,588 --> 00:17:04,222
+<i>weighed in on Bitcoin.</i>
+
+365
+00:17:04,224 --> 00:17:07,692
+<i>The financial crimes enforcement network,
+known as FinCEN,</i>
+
+366
+00:17:07,694 --> 00:17:10,762
+<i>issued its first regulatory guidance
+on virtual currencies.</i>
+
+367
+00:17:11,964 --> 00:17:13,965
+<i>The guidance implied that Bitcoin,</i>
+
+368
+00:17:13,967 --> 00:17:16,200
+<i>in and of itself, was not illegal.</i>
+
+369
+00:17:20,372 --> 00:17:22,573
+<i>It was the perfect storm.</i>
+
+370
+00:17:22,575 --> 00:17:25,043
+<i>The situation in Cyprus suggested</i>
+
+371
+00:17:25,045 --> 00:17:27,912
+<i>that Bitcoin could function as
+a financial safe haven.</i>
+
+372
+00:17:27,914 --> 00:17:30,481
+<i>And the approving nod of U.S. regulators</i>
+
+373
+00:17:30,483 --> 00:17:32,583
+<i>was a green light for investors.</i>
+
+374
+00:17:32,585 --> 00:17:34,252
+<i>The Market agreed</i>
+
+375
+00:17:34,254 --> 00:17:36,421
+<i>and the exchange price continued to climb.</i>
+
+376
+00:17:38,658 --> 00:17:41,926
+It's moving from the super
+super-early-adopter phase
+
+377
+00:17:41,928 --> 00:17:43,661
+to possibly the early-adopter phase.
+
+378
+00:17:43,663 --> 00:17:44,962
+<i>Bitcoin was getting</i>
+
+379
+00:17:44,964 --> 00:17:46,664
+<i>international exposure</i>
+
+380
+00:17:46,666 --> 00:17:48,633
+<i>and people were starting to pay attention.</i>
+
+381
+00:17:51,303 --> 00:17:55,473
+<i>This is actually a live,
+updated map of the globe</i>
+
+382
+00:17:55,475 --> 00:17:59,343
+<i>and the lines represent Bitcoin clients.</i>
+
+383
+00:17:59,345 --> 00:18:01,646
+<i>Basically where the Bitcoin
+software is running.</i>
+
+384
+00:18:01,648 --> 00:18:05,483
+And the length of the line determines
+
+385
+00:18:05,485 --> 00:18:07,819
+how long it's been online
+or how active it's been.
+
+386
+00:18:07,821 --> 00:18:09,654
+And every time I look at this,
+
+387
+00:18:09,656 --> 00:18:11,923
+I swear it gets more and more saturated.
+
+388
+00:18:11,925 --> 00:18:14,258
+You can almost see an
+outline of the U.S. now.
+
+389
+00:18:14,260 --> 00:18:16,260
+South America-- You're starting to get it.
+
+390
+00:18:16,262 --> 00:18:18,029
+But the big news, in my opinion,
+
+391
+00:18:18,031 --> 00:18:19,864
+<i>is this-- China.</i>
+
+392
+00:18:19,866 --> 00:18:23,301
+<i>You used to see one, two, three, maybe.</i>
+
+393
+00:18:23,303 --> 00:18:27,638
+<i>And this is all within the
+last three weeks or so.</i>
+
+394
+00:18:27,640 --> 00:18:30,007
+<i>That's the most I've ever seen in China.</i>
+
+395
+00:18:30,009 --> 00:18:32,176
+Look down here. Indonesia, Singapore,
+
+396
+00:18:32,178 --> 00:18:33,744
+Australia, New Zealand.
+
+397
+00:18:41,286 --> 00:18:44,255
+<i>The following week it snowed in Pittsburg.</i>
+
+398
+00:18:44,257 --> 00:18:47,725
+<i>I was eagerly awaiting the delivery
+of two Avalon ASICs,</i>
+
+399
+00:18:47,727 --> 00:18:49,494
+<i>state of the art computers</i>
+
+400
+00:18:49,496 --> 00:18:52,597
+<i>with chips specifically designed
+for mining Bitcoins.</i>
+
+401
+00:18:52,599 --> 00:18:54,298
+<i>Yifu Guo is at the forefront</i>
+
+402
+00:18:54,300 --> 00:18:56,267
+<i>of the new generation of hardware,</i>
+
+403
+00:18:56,269 --> 00:18:57,735
+<i>and is the first to bring them to Market.</i>
+
+404
+00:18:57,737 --> 00:18:59,670
+Everybody, including myself,
+
+405
+00:18:59,672 --> 00:19:00,972
+had severely underestimated
+
+406
+00:19:00,974 --> 00:19:02,907
+the mining Market and how big it is.
+
+407
+00:19:02,909 --> 00:19:04,275
+<i>When Bitcoin began,</i>
+
+408
+00:19:04,277 --> 00:19:06,410
+<i>a standard laptop was powerful enough</i>
+
+409
+00:19:06,412 --> 00:19:09,113
+<i>to mine hundreds of Bitcoins
+in a matter of days.</i>
+
+410
+00:19:09,115 --> 00:19:12,817
+<i>The technology evolved rapidly over
+the past couple of years.</i>
+
+411
+00:19:12,819 --> 00:19:14,652
+A lot of people are getting into it
+
+412
+00:19:14,654 --> 00:19:16,154
+or still trying to catch up.
+
+413
+00:19:18,957 --> 00:19:20,992
+<i>I was on vacation with my family</i>
+
+414
+00:19:20,994 --> 00:19:23,161
+<i>when the new miners were
+scheduled to arrive.</i>
+
+415
+00:19:23,163 --> 00:19:26,430
+<i>The price of Bitcoin had rocketed to $77</i>
+
+416
+00:19:26,432 --> 00:19:28,966
+<i>so I asked some friends to wait at my house</i>
+
+417
+00:19:28,968 --> 00:19:30,501
+<i>to get them running as soon as possible.</i>
+
+418
+00:19:30,503 --> 00:19:34,138
+<i>All right! </i>
+
+419
+00:19:34,140 --> 00:19:36,660
+- I hope this is good. I hope it's worthwhile.
+- Oh, definitely.
+
+420
+00:19:37,943 --> 00:19:39,477
+These are new computer parts here...
+
+421
+00:19:39,479 --> 00:19:41,445
+- Excellent, excellent.
+- ...Fresh in from China.
+
+422
+00:19:41,447 --> 00:19:44,315
+- - All right, it's
+not official until you sign.
+
+423
+00:19:44,317 --> 00:19:46,017
+There we go.
+
+424
+00:19:48,287 --> 00:19:50,421
+<i>Yeah, we'll see. Maybe down the road</i>
+
+425
+00:19:50,423 --> 00:19:51,956
+<i>you guys will start accepting
+Bitcoin one day, I bet.</i>
+
+426
+00:19:51,958 --> 00:19:53,591
+- That's cool.
+- <i> Just a matter of time.</i>
+
+427
+00:19:53,593 --> 00:19:55,233
+<i>Good luck to you guys. All right.</i>
+
+428
+00:19:56,728 --> 00:19:57,929
+<i>I notified Dan</i>
+
+429
+00:19:57,931 --> 00:19:59,331
+<i>and he has a little response here.</i>
+
+430
+00:20:11,376 --> 00:20:13,511
+Welcome to the financial renaissance.
+
+431
+00:20:14,746 --> 00:20:16,781
+192.168.1.140.
+
+432
+00:20:16,783 --> 00:20:18,683
+255.255.255.0.
+
+433
+00:20:18,685 --> 00:20:20,685
+192.168.1.1.
+
+434
+00:20:20,687 --> 00:20:22,520
+That's the default gateway.
+
+435
+00:20:22,522 --> 00:20:26,591
+My first pull is gonna be stratum.
+ozc.in, port 3333.
+
+436
+00:20:26,593 --> 00:20:29,026
+Port 80, but I can do 3333.
+
+437
+00:20:29,028 --> 00:20:31,596
+<i>And when everything's all said and done,
+for at least a little while,</i>
+
+438
+00:20:31,598 --> 00:20:34,932
+it should be pulling in
+10 to 12 coins a day.
+
+439
+00:20:34,934 --> 00:20:37,368
+That's gonna change though,
+after another week.
+
+440
+00:20:37,370 --> 00:20:39,303
+It's gonna get dropped down to, like, eight,
+
+441
+00:20:39,305 --> 00:20:41,606
+- just because the difficulty's just going through the roof.
+- Yeah.
+
+442
+00:20:41,608 --> 00:20:43,040
+Everybody's firing these things up,
+
+443
+00:20:43,042 --> 00:20:44,742
+so it's always a race to stay ahead
+
+444
+00:20:44,744 --> 00:20:48,112
+<i>and try to be the first guy with
+the hardware, you know?</i>
+
+445
+00:20:48,114 --> 00:20:50,214
+Oh, I'm getting pings. Whoo!
+
+446
+00:20:50,216 --> 00:20:51,916
+<i>Yup, we're kicking.</i>
+
+447
+00:20:51,918 --> 00:20:53,317
+We are accepting shares.
+
+448
+00:20:53,319 --> 00:20:54,418
+It is live.
+
+449
+00:20:54,420 --> 00:20:56,754
+<i>We've got the Merlot!</i>
+
+450
+00:21:03,829 --> 00:21:05,463
+<i>Hey, that looks like Johan.</i>
+
+451
+00:21:05,465 --> 00:21:08,633
+Say, "I'm going to college
+'cause my dad mines Bitcoins."
+
+452
+00:21:08,635 --> 00:21:11,435
+Dad going Bitcoins.
+
+453
+00:21:17,676 --> 00:21:20,311
+<i>So, big day today, huh?</i>
+
+454
+00:21:20,313 --> 00:21:22,847
+Big day. Look at that. 104.
+
+455
+00:21:22,849 --> 00:21:25,182
+Current Bitcoin price. Broke 100 today.
+
+456
+00:21:25,184 --> 00:21:28,819
+It is April fool's day.
+
+457
+00:21:28,821 --> 00:21:32,089
+The price rising so insanely high
+
+458
+00:21:32,091 --> 00:21:34,425
+is kind of a little bit unprecedented,
+
+459
+00:21:34,427 --> 00:21:37,628
+so-- I mean, it's bound to pop a little bit.
+
+460
+00:21:37,630 --> 00:21:39,730
+Maybe. I don't know.
+
+461
+00:21:39,732 --> 00:21:41,932
+Maybe it'll be at 225 in a week and a half,
+
+462
+00:21:41,934 --> 00:21:45,236
+so who knows? Bitcoin styles--
+
+463
+00:21:45,238 --> 00:21:47,038
+Could go up, could go down.
+
+464
+00:21:53,412 --> 00:21:55,146
+<i>As the price passed 100,</i>
+
+465
+00:21:55,148 --> 00:21:57,648
+<i>we took a trip to visit Gavin Andresen.</i>
+
+466
+00:21:59,451 --> 00:22:01,919
+<i>He is known to have worked
+closely with Satoshi</i>
+
+467
+00:22:01,921 --> 00:22:03,321
+<i>during Bitcoin's early days.</i>
+
+468
+00:22:10,996 --> 00:22:12,763
+Here's the train tracks, and he did say
+
+469
+00:22:12,765 --> 00:22:14,725
+there would be train tracks
+maybe passing through.
+
+470
+00:22:17,402 --> 00:22:19,470
+Here we go. This is Gavin's house.
+
+471
+00:22:25,477 --> 00:22:27,078
+<i>Gavin is one of the last people</i>
+
+472
+00:22:27,080 --> 00:22:29,447
+<i>to communicate with Satoshi
+before he disappeared.</i>
+
+473
+00:22:32,617 --> 00:22:36,087
+Morning. This is my brother Nick
+
+474
+00:22:36,089 --> 00:22:38,122
+- and his wife Ashley.
+- Nice to meet you.
+
+475
+00:22:38,124 --> 00:22:39,623
+- <i>Hi, nice to meet you.</i>
+- Nice to meet you.
+
+476
+00:22:39,625 --> 00:22:41,926
+Found the place okay, so-- - good.
+
+477
+00:22:41,928 --> 00:22:44,128
+We're very excited to be here.
+
+478
+00:22:44,130 --> 00:22:46,263
+Come in. This is my humble house.
+
+479
+00:22:46,265 --> 00:22:49,333
+<i> </i> - That's where I work.
+This is where I live.
+
+480
+00:22:52,471 --> 00:22:55,406
+- Beautiful home.
+- Well, thanks.
+
+481
+00:22:55,408 --> 00:22:57,975
+<i>A little higher, please.
+Right there. </i> Great.
+
+482
+00:22:57,977 --> 00:23:00,077
+<i> Got it.</i>
+
+483
+00:23:00,079 --> 00:23:02,313
+<i>How did you first get into Bitcoin?</i>
+
+484
+00:23:02,315 --> 00:23:04,248
+<i>Tell us a little bit of the story
+of how you got involved.</i>
+
+485
+00:23:04,250 --> 00:23:06,484
+I had been working at UMass
+
+486
+00:23:06,486 --> 00:23:07,818
+as a staff programmer
+
+487
+00:23:07,820 --> 00:23:09,153
+in the computer science
+
+488
+00:23:09,155 --> 00:23:10,654
+department research group.
+
+489
+00:23:10,656 --> 00:23:12,990
+<i>My wife's a Professor at UMass.</i>
+
+490
+00:23:12,992 --> 00:23:14,792
+<i>I actually quit that job before going</i>
+
+491
+00:23:14,794 --> 00:23:17,228
+<i>on a six-month sabbatical in Australia.</i>
+
+492
+00:23:17,230 --> 00:23:19,997
+I just happened to read a little blurb
+
+493
+00:23:19,999 --> 00:23:22,133
+<i>online in somebody's blog</i>
+
+494
+00:23:22,135 --> 00:23:24,268
+that mentioned this Bitcoin project,
+
+495
+00:23:24,270 --> 00:23:27,037
+which is an open-source attempt to do money.
+
+496
+00:23:27,039 --> 00:23:29,039
+And it caught my interest.
+
+497
+00:23:29,041 --> 00:23:32,943
+<i>I basically just spent a few days</i>
+
+498
+00:23:32,945 --> 00:23:34,945
+<i>read everything I could about it</i>
+
+499
+00:23:34,947 --> 00:23:37,348
+<i>looked at the source code,
+downloaded the source code,</i>
+
+500
+00:23:37,350 --> 00:23:40,050
+thought about it and I really
+couldn't convince myself
+
+501
+00:23:40,052 --> 00:23:41,919
+that it would not work.
+
+502
+00:23:41,921 --> 00:23:43,921
+<i>It seemed like Satoshi had
+thought of everything.</i>
+
+503
+00:23:45,424 --> 00:23:46,657
+Since then...
+
+504
+00:23:48,126 --> 00:23:50,261
+I've just been sucked down the rabbit hole.
+
+505
+00:23:50,263 --> 00:23:53,030
+<i>Bitcoin is open-source software.</i>
+
+506
+00:23:53,032 --> 00:23:54,632
+<i>With open-source software,</i>
+
+507
+00:23:54,634 --> 00:23:56,400
+<i>the code is publicly available.</i>
+
+508
+00:23:56,402 --> 00:23:59,103
+<i>Anyone can look at it and see how it runs.</i>
+
+509
+00:23:59,105 --> 00:24:01,639
+<i>And they can also contribute
+their own changes.</i>
+
+510
+00:24:01,641 --> 00:24:05,276
+<i>Programmers like Gavin were able to
+join Satoshi to work on Bitcoin</i>
+
+511
+00:24:05,278 --> 00:24:07,278
+<i>simply because they were interested.</i>
+
+512
+00:24:07,280 --> 00:24:10,748
+Over time, I think Satoshi
+learned to trust me.
+
+513
+00:24:10,750 --> 00:24:14,118
+<i>He could see that I didn't make
+very many stupid mistakes.</i>
+
+514
+00:24:14,120 --> 00:24:16,720
+I never had any personal
+connection with Satoshi.
+
+515
+00:24:16,722 --> 00:24:18,489
+It was always purely business.
+
+516
+00:24:18,491 --> 00:24:21,225
+And I think that's because
+he was so worried about
+
+517
+00:24:21,227 --> 00:24:22,960
+people finding out his identity.
+
+518
+00:24:22,962 --> 00:24:26,564
+I don't know why. My last email to him
+
+519
+00:24:26,566 --> 00:24:28,265
+was telling him that I had
+
+520
+00:24:28,267 --> 00:24:30,734
+agreed to go visit the folks at the C.I.A.,
+
+521
+00:24:30,736 --> 00:24:32,736
+so...
+
+522
+00:24:32,738 --> 00:24:34,472
+Whether that had something to do with him
+
+523
+00:24:34,474 --> 00:24:37,174
+deciding to cut off
+communication with me entirely--
+
+524
+00:24:37,176 --> 00:24:39,510
+<i>He had been pulling away before then,</i>
+
+525
+00:24:39,512 --> 00:24:42,580
+but the C.I.A. Invited me
+to come talk at the C.I.A.
+
+526
+00:24:42,582 --> 00:24:44,348
+And I agreed to do that.
+
+527
+00:24:46,117 --> 00:24:47,651
+<i>Knowing it would surely spark</i>
+
+528
+00:24:47,653 --> 00:24:50,120
+<i>conspiracy theories,
+Gavin posted an announcement</i>
+
+529
+00:24:50,122 --> 00:24:52,122
+<i>on the Bitcoin talk discussion forum</i>
+
+530
+00:24:52,124 --> 00:24:53,691
+<i>to head off any rumors.</i>
+
+531
+00:25:01,366 --> 00:25:03,467
+<i>Having taken on the lead developer position</i>
+
+532
+00:25:03,469 --> 00:25:05,636
+<i>since Satoshi's disappearance,</i>
+
+533
+00:25:05,638 --> 00:25:08,939
+<i>Gavin found himself facing an increasing
+number of responsibilities</i>
+
+534
+00:25:08,941 --> 00:25:10,608
+<i>and public scrutiny.</i>
+
+535
+00:25:10,610 --> 00:25:13,043
+Do your neighbors know that
+you're kind of at the center
+
+536
+00:25:13,045 --> 00:25:15,913
+of one of the most disruptive technologies?
+
+537
+00:25:15,915 --> 00:25:20,050
+I think-- I think they know that
+I do this wacky Bitcoin project.
+
+538
+00:25:21,953 --> 00:25:24,588
+I don't think they know
+quite how big it is yet.
+
+539
+00:25:24,590 --> 00:25:26,624
+Right now,
+
+540
+00:25:26,626 --> 00:25:29,393
+Bitcoin's a billion-dollar project.
+
+541
+00:25:29,395 --> 00:25:31,896
+<i>When I started it was this
+tiny little experiment.</i>
+
+542
+00:25:31,898 --> 00:25:33,931
+And as it gets bigger,
+
+543
+00:25:33,933 --> 00:25:37,134
+the pressure to not screw up
+
+544
+00:25:37,136 --> 00:25:39,503
+just gets bigger and bigger.
+
+545
+00:25:43,808 --> 00:25:45,075
+<i>Two weeks later</i>
+
+546
+00:25:45,077 --> 00:25:47,144
+<i>the price soared past 150.</i>
+
+547
+00:25:47,146 --> 00:25:48,913
+<i>And some Bitcoiners woke up</i>
+
+548
+00:25:48,915 --> 00:25:51,415
+<i>to find out they were Bitcoin millionaires.</i>
+
+549
+00:25:51,417 --> 00:25:53,284
+<i>23-year-old Charlie Shrem</i>
+
+550
+00:25:53,286 --> 00:25:55,920
+<i>is the C.E.O. of a company
+called Bitlnstant.</i>
+
+551
+00:25:55,922 --> 00:26:00,090
+<i>Bitlnstant was one of the first
+startups in the Bitcoin space.</i>
+
+552
+00:26:00,092 --> 00:26:02,259
+<i>In Bitcoin's infancy, people had to jump</i>
+
+553
+00:26:02,261 --> 00:26:04,261
+<i>through several hoops to buy them.</i>
+
+554
+00:26:04,263 --> 00:26:05,729
+<i>One of the only ways</i>
+
+555
+00:26:05,731 --> 00:26:07,431
+<i>was through the Mt. Gox exchange,</i>
+
+556
+00:26:07,433 --> 00:26:09,466
+<i>but this process required transferring money</i>
+
+557
+00:26:09,468 --> 00:26:10,801
+<i>through several intermediaries</i>
+
+558
+00:26:10,803 --> 00:26:12,770
+<i>and could take weeks.</i>
+
+559
+00:26:12,772 --> 00:26:15,973
+<i>Charlie launched Bitlnstant to
+streamline this process.</i>
+
+560
+00:26:15,975 --> 00:26:18,709
+<i>And to help people buy Bitcoins quickly.</i>
+
+561
+00:26:18,711 --> 00:26:21,078
+<i> Yeah, that's good. That's great.</i>
+
+562
+00:26:21,080 --> 00:26:22,746
+- <i> That's pretty nice.</i>
+- You go like that.
+
+563
+00:26:22,748 --> 00:26:24,481
+<i>Yeah, sure.</i>
+
+564
+00:26:24,483 --> 00:26:26,150
+<i>Today Charlie is being photographed</i>
+
+565
+00:26:26,152 --> 00:26:27,885
+<i>for an article in "Businessweek."</i>
+
+566
+00:26:27,887 --> 00:26:29,587
+<i>One of the ideas they had</i>
+
+567
+00:26:29,589 --> 00:26:31,488
+<i>was that you're going--
+Throwing stuff up in the air</i>
+
+568
+00:26:31,490 --> 00:26:33,524
+<i>and they were gonna add
+Bitcoins in later on.</i>
+
+569
+00:26:33,526 --> 00:26:35,259
+- Going like that?
+- <i> Yeah.</i>
+
+570
+00:26:35,261 --> 00:26:38,929
+<i>This Bitcoin thing can actually
+change the world.</i>
+
+571
+00:26:38,931 --> 00:26:41,098
+<i>But for this thing to succeed,</i>
+
+572
+00:26:41,100 --> 00:26:42,700
+we have to figure out a
+way to get more money
+
+573
+00:26:42,702 --> 00:26:44,735
+in and out of the ecosystem.
+
+574
+00:26:44,737 --> 00:26:47,705
+Look out the window a bit. Totally-- yeah.
+
+575
+00:26:47,707 --> 00:26:49,406
+Then you can look-- Yeah, that's good.
+
+576
+00:26:49,408 --> 00:26:51,508
+And not show that I'm super
+stressed out right now
+
+577
+00:26:51,510 --> 00:26:54,244
+and we have thousands of
+orders that are being processed
+
+578
+00:26:54,246 --> 00:26:56,947
+and I'm bugging out,
+trying to get the new site launched.
+
+579
+00:26:56,949 --> 00:26:59,183
+- <i> No, don't look like that.</i>
+- It's crazy.
+
+580
+00:26:59,185 --> 00:27:00,918
+I'm trying not to, but it's really hard.
+
+581
+00:27:06,024 --> 00:27:07,992
+<i>Things have been insane.</i>
+
+582
+00:27:10,730 --> 00:27:13,764
+<i>I haven't slept in days.</i>
+
+583
+00:27:13,766 --> 00:27:15,866
+<i>The price is just rising, so a lot of people</i>
+
+584
+00:27:15,868 --> 00:27:17,001
+<i>are putting money into it.</i>
+
+585
+00:27:18,470 --> 00:27:19,970
+<i>Normally, Charlie can get Bitcoins</i>
+
+586
+00:27:19,972 --> 00:27:22,239
+<i>to his customers in about an hour.</i>
+
+587
+00:27:22,241 --> 00:27:23,774
+<i>But with the recent flood of people</i>
+
+588
+00:27:23,776 --> 00:27:25,442
+<i>trying to purchase Bitcoins,</i>
+
+589
+00:27:25,444 --> 00:27:28,946
+<i>Bitlnstant can't fill their
+orders fast enough.</i>
+
+590
+00:27:28,948 --> 00:27:31,749
+When I pulled up our
+customer service interface,
+
+591
+00:27:31,751 --> 00:27:34,418
+<i>we have close to 2,000 open tickets.</i>
+
+592
+00:27:34,420 --> 00:27:37,321
+And that's just from
+Saturday to this morning.
+
+593
+00:27:37,323 --> 00:27:38,622
+Nobody was ready
+
+594
+00:27:38,624 --> 00:27:39,757
+for this kind of volume,
+
+595
+00:27:39,759 --> 00:27:42,426
+so we're trying to catch up
+
+596
+00:27:42,428 --> 00:27:45,396
+with the volume and keep everybody happy.
+
+597
+00:27:45,398 --> 00:27:47,464
+Man on phone: <i>Can you just
+sort of describe quickly</i>
+
+598
+00:27:47,466 --> 00:27:50,734
+<i>what the last week or so has
+been like for you guys?</i>
+
+599
+00:27:50,736 --> 00:27:53,604
+The last week or so saw our support staff
+
+600
+00:27:53,606 --> 00:27:55,639
+go from two people to five people.
+
+601
+00:27:55,641 --> 00:27:56,740
+When someone offers you
+
+602
+00:27:56,742 --> 00:27:57,941
+a seat on the rocket,
+
+603
+00:27:57,943 --> 00:27:59,309
+you don't ask where the seat is.
+
+604
+00:27:59,311 --> 00:28:00,978
+You just get on the rocket.
+
+605
+00:28:00,980 --> 00:28:04,481
+Further, our volume has basically tripled
+
+606
+00:28:04,483 --> 00:28:06,750
+in the past two weeks,
+
+607
+00:28:06,752 --> 00:28:09,219
+<i>going from a few hundred transactions a day</i>
+
+608
+00:28:09,221 --> 00:28:12,289
+to now two, three thousand
+transactions a day.
+
+609
+00:28:12,291 --> 00:28:13,791
+- <i> You just came onboard here, right?</i>
+- Yeah, I did.
+
+610
+00:28:13,793 --> 00:28:15,959
+Actually, today is kinda my first day.
+
+611
+00:28:15,961 --> 00:28:17,561
+- <i> Oh really?</i>
+- Yeah.
+
+612
+00:28:17,563 --> 00:28:19,430
+<i>How does it feel to be a part
+of all this madness?</i>
+
+613
+00:28:19,432 --> 00:28:21,899
+Um, well, madness, yeah.
+
+614
+00:28:21,901 --> 00:28:23,967
+<i>It's overwhelming.</i>
+
+615
+00:28:23,969 --> 00:28:26,070
+<i>And what do you do for Bitlnstant?</i>
+
+616
+00:28:26,072 --> 00:28:28,038
+I'm the C.F.O.
+
+617
+00:28:28,040 --> 00:28:30,441
+Man on phone: <i>Can you give
+me a daily estimate</i>
+
+618
+00:28:30,443 --> 00:28:32,609
+<i>of how much money you're moving
+through your system?</i>
+
+619
+00:28:32,611 --> 00:28:34,712
+Um, it's in the--
+
+620
+00:28:34,714 --> 00:28:37,047
+In the six figures every day.
+
+621
+00:28:37,049 --> 00:28:38,515
+<i>All right. Well, thanks, Charlie.</i>
+
+622
+00:28:38,517 --> 00:28:40,451
+- <i> I really appreciate it.</i>
+- Thank you.
+
+623
+00:28:40,453 --> 00:28:44,088
+<i>I don't know how the government
+will react to Bitcoin,</i>
+
+624
+00:28:44,090 --> 00:28:47,291
+<i>but I spend thousands of dollars
+on lawyers every day</i>
+
+625
+00:28:47,293 --> 00:28:49,253
+<i>just to make sure that I'm
+not gonna go to jail.</i>
+
+626
+00:28:51,096 --> 00:28:53,697
+It's super terrifying.
+I mean, I don't wanna go to jail.
+
+627
+00:28:55,801 --> 00:28:57,301
+I don't wanna become a martyr either.
+
+628
+00:29:09,115 --> 00:29:11,248
+<i>Bitcoin was the talk of the town.</i>
+
+629
+00:29:11,250 --> 00:29:13,150
+<i>Charlie was in the limelight</i>
+
+630
+00:29:13,152 --> 00:29:15,953
+<i>and could barely keep up
+with media requests.</i>
+
+631
+00:29:15,955 --> 00:29:19,089
+<i>Within hours, the price passed $200.</i>
+
+632
+00:29:25,130 --> 00:29:26,563
+<i>First day of spring,</i>
+
+633
+00:29:26,565 --> 00:29:28,198
+<i>first day Bitcoin is over 200.</i>
+
+634
+00:29:28,200 --> 00:29:29,633
+<i>The start of a new era.</i>
+
+635
+00:29:29,635 --> 00:29:30,968
+<i>Hi. Nice to meet you.</i>
+
+636
+00:29:30,970 --> 00:29:32,703
+I'm the nice warm loving mom
+
+637
+00:29:32,705 --> 00:29:35,072
+that makes him live at home.
+
+638
+00:29:35,074 --> 00:29:39,209
+'Cause we can't--
+We can't part from him yet.
+
+639
+00:29:40,780 --> 00:29:43,080
+<i>We love him too much.</i>
+
+640
+00:29:43,082 --> 00:29:44,915
+This is where it all started
+
+641
+00:29:44,917 --> 00:29:46,357
+and this is where it still goes down.
+
+642
+00:29:47,886 --> 00:29:50,420
+I've been collecting money
+from all over the world.
+
+643
+00:29:50,422 --> 00:29:52,556
+And it's just something I
+did way before Bitcoin.
+
+644
+00:29:52,558 --> 00:29:54,024
+I've been doing it since I was a kid.
+
+645
+00:29:54,026 --> 00:29:55,893
+So it's funny that I'm
+collecting all this...
+
+646
+00:29:55,895 --> 00:29:57,761
+Fiat that's not worth anything
+
+647
+00:29:57,763 --> 00:29:59,930
+and then all of a sudden I
+get into this Bitcoin thing.
+
+648
+00:30:01,900 --> 00:30:03,934
+<i>I realized during high school that</i>
+
+649
+00:30:03,936 --> 00:30:06,203
+<i>I could never work for anyone.</i>
+
+650
+00:30:06,205 --> 00:30:07,604
+<i>I made up a term--</i>
+
+651
+00:30:07,606 --> 00:30:09,573
+Psychologically unemployable.
+
+652
+00:30:09,575 --> 00:30:11,842
+<i>I started Bitlnstant while I was still</i>
+
+653
+00:30:11,844 --> 00:30:13,844
+<i>in my senior year of college.</i>
+
+654
+00:30:13,846 --> 00:30:18,182
+<i>Bitcoin currently is the largest
+social-economic experiment</i>
+
+655
+00:30:18,184 --> 00:30:20,184
+<i>ever conducted in the history of the world.</i>
+
+656
+00:30:20,186 --> 00:30:23,287
+<i>2013, possibly 2014,</i>
+
+657
+00:30:23,289 --> 00:30:25,622
+<i>will be the two years that really
+make or break Bitcoin.</i>
+
+658
+00:30:27,859 --> 00:30:30,894
+<i>Bitcoin is the first product that's digital,</i>
+
+659
+00:30:30,896 --> 00:30:32,262
+<i>but it's also scarce.</i>
+
+660
+00:30:35,466 --> 00:30:38,302
+<i>I got some good news last night that</i>
+
+661
+00:30:38,304 --> 00:30:40,571
+<i>part of our licensing deals that
+we've been trying to do</i>
+
+662
+00:30:40,573 --> 00:30:42,039
+<i>for the past few months are finally,</i>
+
+663
+00:30:42,041 --> 00:30:43,540
+<i>hopefully, coming through.</i>
+
+664
+00:30:43,542 --> 00:30:45,809
+We got approved to be licensed
+
+665
+00:30:45,811 --> 00:30:48,345
+in 30 of the 48 states
+in money transmission.
+
+666
+00:30:50,281 --> 00:30:52,449
+I've been working very hard
+on trying to be compliant
+
+667
+00:30:52,451 --> 00:30:53,951
+in the legal realm
+
+668
+00:30:53,953 --> 00:30:56,787
+and with FinCEN's announcement,
+
+669
+00:30:56,789 --> 00:30:59,923
+setting up a way for Bitcoin
+companies to legally exist,
+
+670
+00:30:59,925 --> 00:31:02,292
+that really changes the
+whole game of Bitcoin.
+
+671
+00:31:02,294 --> 00:31:06,230
+And for us, it helped us get that last push
+
+672
+00:31:06,232 --> 00:31:07,898
+that we needed from all the banks
+
+673
+00:31:07,900 --> 00:31:09,867
+and the regulators to finally, hopefully,
+
+674
+00:31:09,869 --> 00:31:11,335
+get that licensing that we need.
+
+675
+00:31:14,405 --> 00:31:17,040
+<i>Today, Charlie's meeting with a realtor</i>
+
+676
+00:31:17,042 --> 00:31:18,742
+<i>to talk about new office space.</i>
+
+677
+00:31:18,744 --> 00:31:20,911
+Hi, Charlie, nice to meet you.
+
+678
+00:31:20,913 --> 00:31:22,746
+- Hi, I'm Mitch Waldman. How are you?
+- A pleasure.
+
+679
+00:31:22,748 --> 00:31:25,249
+- Got a minute?
+- I have 10 minutes for you.
+
+680
+00:31:25,251 --> 00:31:27,918
+We're-- we're a company
+with no boss, essentially.
+
+681
+00:31:27,920 --> 00:31:29,553
+Everyone has their responsibilities.
+
+682
+00:31:29,555 --> 00:31:31,388
+It's just one big executive board.
+
+683
+00:31:31,390 --> 00:31:32,923
+- It's just one big executive board.
+- Okay.
+
+684
+00:31:32,925 --> 00:31:35,859
+If I don't do my job,
+these guys are all gonna yell at me.
+
+685
+00:31:35,861 --> 00:31:38,362
+<i> So that's how we do it, but we get things
+done.</i> - Waldman:<i> All right.</i>
+
+686
+00:31:38,364 --> 00:31:40,297
+We're outgrowing this space,
+as you can see here.
+
+687
+00:31:40,299 --> 00:31:42,933
+- That's a good problem to have.
+- Yes.
+
+688
+00:31:42,935 --> 00:31:44,935
+Now Rachel said there was a great concern
+
+689
+00:31:44,937 --> 00:31:47,070
+- about security in this space.
+- <i> Yeah.</i>
+
+690
+00:31:47,072 --> 00:31:49,673
+<i>We're regulated, so we can't share an office</i>
+
+691
+00:31:49,675 --> 00:31:51,675
+- with another company if they have access to us.
+- I get that.
+
+692
+00:31:51,677 --> 00:31:54,077
+<i>Our asset is our software.</i>
+
+693
+00:31:54,079 --> 00:31:56,847
+Our software is processing hundreds
+of thousands of dollars a day
+
+694
+00:31:56,849 --> 00:31:58,448
+instantly. Really quickly.
+
+695
+00:31:58,450 --> 00:32:00,684
+And that's on-site here?
+Or is it in the cloud?
+
+696
+00:32:00,686 --> 00:32:02,552
+No, this is in the cloud.
+It's all in the cloud, but we monitor--
+
+697
+00:32:02,554 --> 00:32:04,288
+We have to monitor everything from here...
+
+698
+00:32:04,290 --> 00:32:06,790
+Right. -...And debug, fix,
+take down, upload more--
+
+699
+00:32:06,792 --> 00:32:09,760
+- Put up more workers.
+- We deal with high-volume data-oriented stuff every day.
+
+700
+00:32:09,762 --> 00:32:11,295
+Very very sensitive customer data.
+
+701
+00:32:11,297 --> 00:32:13,764
+<i>If there were not a doorman,</i>
+
+702
+00:32:13,766 --> 00:32:16,099
+at the very least the space would
+be designed in such a manner
+
+703
+00:32:16,101 --> 00:32:19,036
+that there'd be a locked reception area.
+
+704
+00:32:19,038 --> 00:32:21,204
+If we want to pursue a guard at some point,
+
+705
+00:32:21,206 --> 00:32:23,874
+we could have them in that area.
+
+706
+00:32:23,876 --> 00:32:25,709
+I absolutely think
+
+707
+00:32:25,711 --> 00:32:28,311
+- It will be at some point. It's just a matter of time.
+- <i> Really?</i>
+
+708
+00:32:29,280 --> 00:32:30,948
+<i>The potential for theft is huge.</i>
+
+709
+00:32:30,950 --> 00:32:33,383
+It's like operating a bank, essentially.
+
+710
+00:32:33,385 --> 00:32:34,785
+<i>That's pretty much it.</i>
+
+711
+00:32:34,787 --> 00:32:36,420
+- Gotcha.
+- It's basic stuff.
+
+712
+00:32:36,422 --> 00:32:38,522
+Yup yup. All right.
+
+713
+00:32:38,524 --> 00:32:40,123
+Any other words for me?
+
+714
+00:32:42,694 --> 00:32:44,995
+- Okay.
+- Are you willing to handle the task?
+
+715
+00:32:48,032 --> 00:32:49,967
+Sign me up, captain.
+
+716
+00:32:52,603 --> 00:32:57,007
+<i>That night, the price got as high as $266.</i>
+
+717
+00:32:57,009 --> 00:32:59,776
+<i>Every major news outlet had taken notice.</i>
+
+718
+00:32:59,778 --> 00:33:01,845
+<i>Bitcoin fever was at an all-time high.</i>
+
+719
+00:33:01,847 --> 00:33:03,613
+It is getting a lot of attention.
+
+720
+00:33:03,615 --> 00:33:05,682
+People are fascinated by
+anything that makes new highs
+
+721
+00:33:05,684 --> 00:33:08,085
+every day for weeks on end,
+which Bitcoin has done.
+
+722
+00:33:08,087 --> 00:33:09,353
+In terms of the total number of the people
+
+723
+00:33:09,355 --> 00:33:11,088
+using the currency, I'm not sure,
+
+724
+00:33:11,090 --> 00:33:12,589
+but you can say that there's a huge amount
+
+725
+00:33:12,591 --> 00:33:15,492
+of fluctuation in the volume of trading.
+
+726
+00:33:15,494 --> 00:33:17,928
+<i>And then the price crashed.</i>
+
+727
+00:33:23,835 --> 00:33:25,902
+<i>Bitcoin lost more than half of its value</i>
+
+728
+00:33:25,904 --> 00:33:27,537
+<i>in six hours.</i>
+
+729
+00:33:27,539 --> 00:33:30,207
+From craze to crash.
+
+730
+00:33:30,209 --> 00:33:33,243
+It's the talk of many
+people in the blogosphere,
+
+731
+00:33:33,245 --> 00:33:36,246
+and it's certainly suffering
+some growing pains.
+
+732
+00:33:36,248 --> 00:33:40,017
+The value of the virtual
+currency Bitcoin has plunged.
+
+733
+00:33:40,019 --> 00:33:41,118
+It's been a crazy day today.
+
+734
+00:33:41,120 --> 00:33:43,253
+I haven't slept in like 40 hours.
+
+735
+00:33:45,857 --> 00:33:48,125
+<i>Your order processed. I don't understand</i>
+
+736
+00:33:48,127 --> 00:33:49,526
+<i>why we're still having this conversation.</i>
+
+737
+00:33:49,528 --> 00:33:52,062
+<i>We refunded your order.
+We sent you extra Bitcoins.</i>
+
+738
+00:33:52,064 --> 00:33:53,397
+<i>I don't care, man.</i>
+
+739
+00:33:53,399 --> 00:33:55,565
+<i>When it comes to my money,
+I don't fuck around.</i>
+
+740
+00:33:55,567 --> 00:33:56,900
+<i>I know, man. You need your stuff.</i>
+
+741
+00:33:56,902 --> 00:33:58,635
+<i>I hear ya, I hear ya. It processed.</i>
+
+742
+00:33:58,637 --> 00:34:00,203
+<i>Your Bitcoins are there, man.</i>
+
+743
+00:34:02,440 --> 00:34:04,041
+<i>So, Charlie, what's been going on today?</i>
+
+744
+00:34:04,043 --> 00:34:06,410
+- <i> Crazy day, huh?</i>
+- Yeah, Mt. Gox--
+
+745
+00:34:06,412 --> 00:34:09,212
+Their whole system pretty much failed
+
+746
+00:34:09,214 --> 00:34:11,448
+and their whole trading engine is broken.
+
+747
+00:34:11,450 --> 00:34:15,619
+Pretty much caused-- almost--
+Us to shut down for the day.
+
+748
+00:34:15,621 --> 00:34:17,754
+<i>Further, the Bitcoin price has just been</i>
+
+749
+00:34:17,756 --> 00:34:19,056
+<i>wildly swinging up and down</i>
+
+750
+00:34:19,058 --> 00:34:21,358
+it was down $100 today.
+
+751
+00:34:21,360 --> 00:34:24,394
+It's gaining back up, but mostly
+because people can't buy and sell
+
+752
+00:34:24,396 --> 00:34:26,196
+and they can't withdraw
+and they can't deposit.
+
+753
+00:34:26,198 --> 00:34:28,899
+'Cause the whole thing is just--
+it's just a Fritz.
+
+754
+00:34:28,901 --> 00:34:31,201
+So what we're trying to
+do is figure out a way
+
+755
+00:34:31,203 --> 00:34:33,770
+<i>to mitigate orders somewhere else for now.</i>
+
+756
+00:34:33,772 --> 00:34:36,106
+<i>With Mt. Gox stuck in a nosedive,</i>
+
+757
+00:34:36,108 --> 00:34:39,376
+<i>the ripple effect is creating chaos
+in the Bitcoin Markets.</i>
+
+758
+00:34:43,414 --> 00:34:44,848
+<i>I'm trying to figure out</i>
+
+759
+00:34:44,850 --> 00:34:47,117
+<i>why our orders aren't going through.</i>
+
+760
+00:34:47,119 --> 00:34:48,718
+Rachel, am I allowed to take another Advil
+
+761
+00:34:48,720 --> 00:34:50,554
+if I took one an hour ago?
+
+762
+00:34:50,556 --> 00:34:53,623
+They've been having problems
+ordering anything off of Gox.
+
+763
+00:34:53,625 --> 00:34:55,859
+Yeah, I'm getting a lot
+of customers emailing,
+
+764
+00:34:55,861 --> 00:34:58,028
+saying "it says 'executed,
+' but it's not showing in the blockchain."
+
+765
+00:34:58,030 --> 00:34:59,563
+<i>Dude, Gox suspended trading.</i>
+
+766
+00:34:59,565 --> 00:35:00,831
+- Really?
+- Yeah.
+
+767
+00:35:00,833 --> 00:35:02,732
+"Orders placed suspended until 2100."
+
+768
+00:35:02,734 --> 00:35:04,167
+What time-- What's 2100?
+
+769
+00:35:04,169 --> 00:35:06,503
+What? That's 9:00 P.M. oh my God.
+
+770
+00:35:20,718 --> 00:35:21,985
+If you bought at 150...
+
+771
+00:35:23,054 --> 00:35:25,288
+And then you're at 260,
+
+772
+00:35:25,290 --> 00:35:28,225
+and then you watch it dip down back to 150,
+
+773
+00:35:28,227 --> 00:35:30,227
+do you panic some? Yeah, absolutely.
+
+774
+00:35:30,229 --> 00:35:32,095
+I don't know what a Bitcoin is.
+I just bought it.
+
+775
+00:35:33,899 --> 00:35:35,732
+Fuck.
+
+776
+00:35:35,734 --> 00:35:37,234
+You see buy orders, people buying
+
+777
+00:35:37,236 --> 00:35:40,537
+and selling at such a wide range.
+
+778
+00:35:40,539 --> 00:35:42,372
+It doesn't make any sense.
+
+779
+00:35:42,374 --> 00:35:44,574
+<i>The a.P.I. Is just constantly failing?</i>
+
+780
+00:35:44,576 --> 00:35:47,056
+<i>Is that what's going on?
+Or are we're not getting any orders.</i>
+
+781
+00:35:55,921 --> 00:35:58,021
+<i>Don't care about the price.</i>
+
+782
+00:35:58,023 --> 00:35:59,856
+Speculators can play musical chairs
+
+783
+00:35:59,858 --> 00:36:01,558
+all day long for all I care.
+
+784
+00:36:01,560 --> 00:36:03,660
+I'm-I'm-- I'm long.
+
+785
+00:36:05,963 --> 00:36:08,932
+<i>I was focused on expanding
+my mining operation.</i>
+
+786
+00:36:10,868 --> 00:36:13,069
+<i>The only people that are gonna be shaken out</i>
+
+787
+00:36:13,071 --> 00:36:14,905
+<i>by this drop</i>
+
+788
+00:36:14,907 --> 00:36:17,340
+<i>are people that are new to Bitcoin.</i>
+
+789
+00:36:17,342 --> 00:36:20,177
+Here's the Avalons, spinning away,
+
+790
+00:36:20,179 --> 00:36:21,711
+mining away.
+
+791
+00:36:21,713 --> 00:36:23,847
+And if everything goes as planned,
+
+792
+00:36:23,849 --> 00:36:25,749
+we'll have 18 more of these guys
+
+793
+00:36:25,751 --> 00:36:28,084
+<i>in a couple of weeks.</i>
+
+794
+00:36:28,086 --> 00:36:30,053
+<i>Bitcoin is a complicated thing.</i>
+
+795
+00:36:30,055 --> 00:36:31,588
+You have to spend some time looking into it
+
+796
+00:36:31,590 --> 00:36:33,557
+and understanding it before you really care.
+
+797
+00:36:33,559 --> 00:36:36,092
+Now there's droves of people that--
+
+798
+00:36:36,094 --> 00:36:38,028
+You know, are giving it
+more than just that glance,
+
+799
+00:36:38,030 --> 00:36:40,230
+because the price has gone so high.
+
+800
+00:36:40,232 --> 00:36:43,066
+And they have dollar signs in
+their eyes like Uncle scrooge.
+
+801
+00:36:43,068 --> 00:36:45,335
+<i>It's so much more than that,</i>
+
+802
+00:36:45,337 --> 00:36:47,337
+<i>and I think that's why the
+people who are mining</i>
+
+803
+00:36:47,339 --> 00:36:49,072
+<i>and the people who believe in it</i>
+
+804
+00:36:49,074 --> 00:36:50,674
+<i>are just kind of holding strong.</i>
+
+805
+00:36:53,878 --> 00:36:56,213
+<i>When trading resumed at Mt. Gox,</i>
+
+806
+00:36:56,215 --> 00:36:59,416
+<i>the price fell even further, to around $70.</i>
+
+807
+00:36:59,418 --> 00:37:01,851
+71 on B.T.C.-E.
+
+808
+00:37:05,456 --> 00:37:07,357
+Yeah, Bitcoin-- It's volatile.
+
+809
+00:37:07,359 --> 00:37:10,794
+It's gonna be a long time
+until we have stability.
+
+810
+00:37:10,796 --> 00:37:12,062
+That's the nature of the beast.
+
+811
+00:37:12,064 --> 00:37:16,199
+Price discovery can be violent and volatile.
+
+812
+00:37:16,201 --> 00:37:19,436
+There's gonna be a lot of
+people that come and go,
+
+813
+00:37:19,438 --> 00:37:21,638
+and people that scream wolf.
+
+814
+00:37:21,640 --> 00:37:23,406
+<i>But at the end of the day,</i>
+
+815
+00:37:23,408 --> 00:37:26,243
+<i>the only thing that really
+kind of stinks right now</i>
+
+816
+00:37:26,245 --> 00:37:28,878
+<i>is that everybody is trading on one platform</i>
+
+817
+00:37:28,880 --> 00:37:30,780
+that isn't doing the greatest job, so...
+
+818
+00:37:30,782 --> 00:37:34,784
+Over time, hopefully we'll see
+some more exchanges pop up
+
+819
+00:37:34,786 --> 00:37:36,419
+and get some more options in.
+
+820
+00:37:36,421 --> 00:37:38,288
+People wanna keep using Bitcoin,
+
+821
+00:37:38,290 --> 00:37:40,590
+I'm sure the infrastructure will come.
+
+822
+00:38:01,379 --> 00:38:02,946
+It's just gotten ridiculously busy.
+
+823
+00:38:04,515 --> 00:38:06,416
+I get an email every two seconds now
+
+824
+00:38:06,418 --> 00:38:09,552
+and pretty much more email than I-- -<i> </i>
+
+825
+00:38:09,554 --> 00:38:11,521
+--Than I can keep up with.
+
+826
+00:38:11,523 --> 00:38:14,691
+<i>Jered Kenna is the C.E.O. Of Tradehill.</i>
+
+827
+00:38:14,693 --> 00:38:16,760
+<i>The first U.S.-based Bitcoin exchange</i>
+
+828
+00:38:16,762 --> 00:38:18,762
+<i>to compete with Mt. Gox.</i>
+
+829
+00:38:18,764 --> 00:38:20,930
+<i>He's also on the list of
+Bitcoin millionaires.</i>
+
+830
+00:38:22,433 --> 00:38:24,367
+This is Finnegan right here.
+
+831
+00:38:24,369 --> 00:38:26,369
+Guard dog. Hey, Finnegan.
+
+832
+00:38:28,173 --> 00:38:30,006
+<i>Jered runs Tradehill</i>
+
+833
+00:38:30,008 --> 00:38:32,042
+<i>out of a 41-bedroom residential hotel</i>
+
+834
+00:38:32,044 --> 00:38:34,411
+<i>called 20 mission that he also owns.</i>
+
+835
+00:38:41,419 --> 00:38:44,020
+We mostly rent out rooms to
+tech people, startup people.
+
+836
+00:38:44,022 --> 00:38:45,522
+There's a lot of Bitcoiners.
+
+837
+00:38:45,524 --> 00:38:47,190
+<i>I actually accept rent in Bitcoin,</i>
+
+838
+00:38:47,192 --> 00:38:49,192
+which is great, because we have
+a lot of international people.
+
+839
+00:38:52,097 --> 00:38:54,931
+* Bitcoin! *
+
+840
+00:38:56,200 --> 00:38:59,769
+* Came to us from the cryptogram *
+
+841
+00:38:59,771 --> 00:39:03,340
+* It came out of thin air *
+
+842
+00:39:03,342 --> 00:39:06,710
+* It saved us from those nasty dollars *
+
+843
+00:39:06,712 --> 00:39:08,311
+* And won and yen *
+
+844
+00:39:10,281 --> 00:39:12,282
+* Bitcoin. *
+
+845
+00:39:12,284 --> 00:39:14,384
+That's all I got. I'm done.
+
+846
+00:39:17,221 --> 00:39:19,089
+Digital currency is gonna happen.
+
+847
+00:39:19,091 --> 00:39:21,558
+I mean, it's-- it already is happening,
+
+848
+00:39:21,560 --> 00:39:24,594
+and it will be the future,
+
+849
+00:39:24,596 --> 00:39:26,363
+whether that's now,
+
+850
+00:39:26,365 --> 00:39:28,498
+10 years from now, a hundred years from now.
+
+851
+00:39:28,500 --> 00:39:30,667
+We're going to be using digital currencies
+
+852
+00:39:30,669 --> 00:39:32,635
+that don't depend on fiat government.
+
+853
+00:39:32,637 --> 00:39:37,006
+<i>Jered originally launched Tradehill
+about two years ago,</i>
+
+854
+00:39:37,008 --> 00:39:38,842
+<i>but ran into problems with
+a payment processor</i>
+
+855
+00:39:38,844 --> 00:39:40,443
+<i>and was forced to shut down.</i>
+
+856
+00:39:42,012 --> 00:39:44,047
+<i>Recently he met Ryan singer</i>
+
+857
+00:39:44,049 --> 00:39:46,583
+<i>and together they are
+relaunching the exchange.</i>
+
+858
+00:39:46,585 --> 00:39:47,717
+The business we're in is
+
+859
+00:39:47,719 --> 00:39:49,185
+helping people speculate, right?
+
+860
+00:39:49,187 --> 00:39:50,754
+Markets are
+
+861
+00:39:50,756 --> 00:39:52,422
+price discovery mechanisms.
+
+862
+00:39:52,424 --> 00:39:53,690
+That's what they're for.
+
+863
+00:39:53,692 --> 00:39:55,825
+People-- They buy, they sell,
+
+864
+00:39:55,827 --> 00:39:57,394
+there's the bid, there's the ask
+
+865
+00:39:57,396 --> 00:40:00,363
+and the price moves. And when it levels out,
+
+866
+00:40:00,365 --> 00:40:02,265
+then that's what the Market price is.
+
+867
+00:40:02,267 --> 00:40:04,534
+I can't even count the amount
+of people that have said,
+
+868
+00:40:04,536 --> 00:40:06,069
+"Bitcoin's not backed by anything.
+
+869
+00:40:06,071 --> 00:40:07,937
+At least dollars are backed by gold."
+
+870
+00:40:07,939 --> 00:40:10,240
+<i>I've realized that a lot of
+people believe that.</i>
+
+871
+00:40:11,876 --> 00:40:13,610
+<i>My grandfather, he got me into investing</i>
+
+872
+00:40:13,612 --> 00:40:14,944
+<i>when I was a kid. I was five years old.</i>
+
+873
+00:40:14,946 --> 00:40:16,780
+<i>I could explain a p/e ratio,</i>
+
+874
+00:40:16,782 --> 00:40:19,115
+<i>and what a bid and an ask was,</i>
+
+875
+00:40:19,117 --> 00:40:20,884
+and the difference between a
+limit order and a Market order
+
+876
+00:40:20,886 --> 00:40:22,285
+and all that stuff, so for me,
+
+877
+00:40:22,287 --> 00:40:24,220
+I saw this as a way that the average person
+
+878
+00:40:24,222 --> 00:40:25,955
+could actually take
+control of their finances.
+
+879
+00:40:25,957 --> 00:40:28,358
+<i>I just grew up pretty nerdy.</i>
+
+880
+00:40:28,360 --> 00:40:31,428
+I don't know. Then like at 15 years old,
+
+881
+00:40:31,430 --> 00:40:33,129
+I decided I didn't want
+to be a nerd anymore,
+
+882
+00:40:33,131 --> 00:40:36,366
+which was a mistake... 'Cause...
+
+883
+00:40:38,102 --> 00:40:39,702
+'Cause now I realize it's pretty awesome.
+
+884
+00:40:41,472 --> 00:40:44,073
+<i>In 1999 I joined the marines.</i>
+
+885
+00:40:44,075 --> 00:40:46,443
+<i>I was originally with an engineering unit.</i>
+
+886
+00:40:47,845 --> 00:40:49,712
+<i>2005, I went over to Afghanistan.</i>
+
+887
+00:40:49,714 --> 00:40:52,182
+<i>I was mostly working with the
+Afghan national army.</i>
+
+888
+00:40:52,184 --> 00:40:54,317
+<i>It changed me a lot as a person.</i>
+
+889
+00:40:56,987 --> 00:40:58,755
+I've always been interested in economics
+
+890
+00:40:58,757 --> 00:41:00,924
+and finance and technology and cryptography.
+
+891
+00:41:02,159 --> 00:41:03,927
+<i>I was in a cryptography forum</i>
+
+892
+00:41:03,929 --> 00:41:06,095
+<i>and somebody I'd never met--
+Who was anonymously</i>
+
+893
+00:41:06,097 --> 00:41:07,597
+<i>in this forum that I was chatting with--</i>
+
+894
+00:41:07,599 --> 00:41:09,065
+<i>Sent me 10,000 Bitcoins</i>
+
+895
+00:41:09,067 --> 00:41:11,267
+<i>just as a way to test the system out</i>
+
+896
+00:41:11,269 --> 00:41:12,836
+and see how it worked, and I got 'em.
+
+897
+00:41:12,838 --> 00:41:14,571
+I'm like, "that's cool,
+but what can I do with them?"
+
+898
+00:41:14,573 --> 00:41:17,040
+And he said, "well, nothing yet, but...
+
+899
+00:41:17,042 --> 00:41:19,442
+If people believe it has value, it will."
+
+900
+00:41:19,444 --> 00:41:22,412
+<i>At the time, there was really
+only one Bitcoin exchange</i>
+
+901
+00:41:22,414 --> 00:41:25,014
+<i>it was Mt. Gox. I said,
+"we need an alternative.</i>
+
+902
+00:41:25,016 --> 00:41:27,016
+Who cares if the technology is decentralized
+
+903
+00:41:27,018 --> 00:41:28,551
+and the method of transfer is decentralized
+
+904
+00:41:28,553 --> 00:41:30,186
+and the people are decentralized
+
+905
+00:41:30,188 --> 00:41:32,155
+if all the trades are in the same location?"
+
+906
+00:41:32,157 --> 00:41:34,657
+<i>I thought that building another exchange</i>
+
+907
+00:41:34,659 --> 00:41:36,092
+<i>to give more people access to Bitcoin</i>
+
+908
+00:41:36,094 --> 00:41:39,028
+<i>would be a key part of Bitcoin's growth.</i>
+
+909
+00:41:39,030 --> 00:41:42,098
+The day we launched, we got a quarter-million
+dollars in from user deposits.
+
+910
+00:41:42,100 --> 00:41:45,368
+And we said, "oh shit,
+this is-- this is real.
+
+911
+00:41:45,370 --> 00:41:46,569
+Yeah.
+
+912
+00:41:47,605 --> 00:41:49,072
+Hey.
+
+913
+00:41:50,941 --> 00:41:53,009
+We're all fans of "The Big Lebowski,"
+
+914
+00:41:53,011 --> 00:41:55,445
+so we're gonna have a "Big Lebowski" party.
+
+915
+00:41:55,447 --> 00:41:56,980
+Nice!
+
+916
+00:41:58,616 --> 00:42:02,085
+It's a... Very exciting day.
+
+917
+00:42:02,087 --> 00:42:05,855
+<i>30 gallons of white Russian
+and hallway bowling.</i>
+
+918
+00:42:05,857 --> 00:42:09,225
+Yeah!
+
+919
+00:42:09,227 --> 00:42:11,594
+<i>We work hard, but we party hard too.</i>
+
+920
+00:42:11,596 --> 00:42:14,163
+Okay. Okay, I'm good.
+
+921
+00:42:14,165 --> 00:42:16,266
+- <i> All right.</i>
+- I'm good. I'm not dead.
+
+922
+00:42:21,872 --> 00:42:23,673
+Yeah, I'm the first one in the house...
+
+923
+00:42:25,042 --> 00:42:27,844
+That opened a Tradehill account.
+
+924
+00:42:51,802 --> 00:42:53,403
+<i>What happened?</i>
+
+925
+00:42:55,873 --> 00:42:57,574
+In the same day they went down to 90--
+
+926
+00:42:57,576 --> 00:43:00,710
+$65 or something, or $90 a Bitcoin.
+
+927
+00:43:00,712 --> 00:43:03,947
+I stopped smiling.
+
+928
+00:43:12,356 --> 00:43:15,024
+<i>Tradehill, round two,
+we optimized for success.</i>
+
+929
+00:43:15,026 --> 00:43:16,993
+<i>We launched expecting to have to do</i>
+
+930
+00:43:16,995 --> 00:43:18,835
+hundreds of thousands of
+transactions a second.
+
+931
+00:43:20,397 --> 00:43:22,599
+<i>Right now we've got about 15 people</i>
+
+932
+00:43:22,601 --> 00:43:25,535
+<i>in addition to that, we've got about
+eight attorneys externally.</i>
+
+933
+00:43:25,537 --> 00:43:27,737
+A lot of people are depositing dollars.
+
+934
+00:43:27,739 --> 00:43:29,706
+A lot of people are depositing Bitcoin.
+We're getting more trading.
+
+935
+00:43:29,708 --> 00:43:31,608
+We're pushing that from
+a business perspective.
+
+936
+00:43:31,610 --> 00:43:33,276
+<i>Also, we're talking to people</i>
+
+937
+00:43:33,278 --> 00:43:35,678
+<i>who want to do more automated
+trading on our platform.</i>
+
+938
+00:43:35,680 --> 00:43:37,747
+Get robots trading against each other.
+
+939
+00:43:37,749 --> 00:43:39,082
+We've stress tested this
+
+940
+00:43:39,084 --> 00:43:43,419
+and we can handle about
+500 times as much volume
+
+941
+00:43:43,421 --> 00:43:45,054
+<i>as Mt. Gox was seeing.</i>
+
+942
+00:43:45,056 --> 00:43:46,956
+So we'll see what happens here.
+
+943
+00:43:46,958 --> 00:43:49,892
+The interest in us is pretty crazy.
+
+944
+00:43:49,894 --> 00:43:52,729
+<i>Just the news with Bitcoin</i>
+
+945
+00:43:52,731 --> 00:43:55,398
+<i>has really kind of validated everything.</i>
+
+946
+00:43:55,400 --> 00:43:57,600
+Now people are like, "oh,
+you're not this crazy person
+
+947
+00:43:57,602 --> 00:43:59,736
+talking about some digital
+made-up currency."
+
+948
+00:43:59,738 --> 00:44:02,605
+It's like, "oh, I've read about
+it in 'the wall street journal'
+
+949
+00:44:02,607 --> 00:44:04,273
+and 'the New York times.' It's real."
+
+950
+00:44:04,275 --> 00:44:06,409
+<i>We had an investor come in</i>
+
+951
+00:44:06,411 --> 00:44:08,311
+<i>and he said, "hey, I really appreciate</i>
+
+952
+00:44:08,313 --> 00:44:10,647
+<i>your scrappy nature and how you're hustling,</i>
+
+953
+00:44:10,649 --> 00:44:13,383
+but I think it's time for you guys
+to spend 30 grand a month on rent.
+
+954
+00:44:13,385 --> 00:44:15,985
+When you have a billionaire client
+
+955
+00:44:15,987 --> 00:44:17,387
+and they want to come check out your office
+
+956
+00:44:17,389 --> 00:44:19,589
+before they send you a
+multi-million dollar wire,
+
+957
+00:44:19,591 --> 00:44:21,691
+asking them to walk past pawn shops
+
+958
+00:44:21,693 --> 00:44:23,660
+is not always the right feel.
+
+959
+00:44:27,731 --> 00:44:30,667
+So we're leaving the mission.
+We're driving into Soma right now.
+
+960
+00:44:30,669 --> 00:44:34,504
+We're gonna go take a look at
+what may be our new office space
+
+961
+00:44:34,506 --> 00:44:36,906
+pretty prestigious address-- One Market.
+
+962
+00:44:42,680 --> 00:44:45,248
+<i>Right now we're trying to forge this path,</i>
+
+963
+00:44:45,250 --> 00:44:47,417
+<i>and we're trying to comply
+with existing laws</i>
+
+964
+00:44:47,419 --> 00:44:49,018
+<i>and anticipate future laws,</i>
+
+965
+00:44:49,020 --> 00:44:52,255
+<i>which is extremely expensive
+and extremely difficult.</i>
+
+966
+00:44:52,257 --> 00:44:53,690
+- Is there parking here?
+- <i> Yes.</i>
+
+967
+00:44:53,692 --> 00:44:55,224
+Okay, is that included with--
+
+968
+00:44:55,226 --> 00:44:57,160
+Of course.
+
+969
+00:44:57,162 --> 00:44:59,562
+Right, what does that-- how much does-- -
+
+970
+00:44:59,564 --> 00:45:00,596
+How much does that cost?
+
+971
+00:45:03,534 --> 00:45:04,534
+That's not terrible.
+
+972
+00:45:05,903 --> 00:45:07,437
+Whoa.
+
+973
+00:45:07,439 --> 00:45:09,338
+That's pretty sexy.
+
+974
+00:45:12,009 --> 00:45:13,676
+Twitter was here for over a year.
+
+975
+00:45:13,678 --> 00:45:16,145
+- Yeah.
+- Amazon comes and go every single year.
+
+976
+00:45:16,147 --> 00:45:18,381
+- Oh, fantastic.
+- I have Macy's, I have J.C. Penney.
+
+977
+00:45:18,383 --> 00:45:20,349
+All the big ones, they come over.
+
+978
+00:45:20,351 --> 00:45:21,391
+They are part of the club.
+
+979
+00:45:26,490 --> 00:45:28,224
+Sounds good. We'll be here tomorrow.
+
+980
+00:45:28,226 --> 00:45:29,325
+- Picking it up.
+- Thank you for the business.
+
+981
+00:45:29,327 --> 00:45:30,259
+- Thank you.
+- I appreciate it.
+
+982
+00:45:30,261 --> 00:45:32,161
+Thanks so much.
+
+983
+00:45:32,163 --> 00:45:33,830
+- We move in tomorrow.
+- <i> Just like--</i>
+
+984
+00:45:33,832 --> 00:45:35,398
+- <i> just like that, huh?</i>
+- Just like that.
+
+985
+00:45:35,400 --> 00:45:36,933
+- That's how we roll.
+- <i> It's pretty surprising</i>
+
+986
+00:45:36,935 --> 00:45:38,234
+<i>that that deal just happened so quickly.</i>
+
+987
+00:45:38,236 --> 00:45:39,836
+<i>What was it? You just liked the space</i>
+
+988
+00:45:39,838 --> 00:45:40,970
+<i>and decided, "hey,
+there's no point in waiting"?</i>
+
+989
+00:45:40,972 --> 00:45:43,039
+We like the space, we like the address.
+
+990
+00:45:43,041 --> 00:45:44,741
+We just don't have the time to spend either.
+
+991
+00:45:44,743 --> 00:45:46,342
+We've got all kinds of important
+stuff we're working on
+
+992
+00:45:46,344 --> 00:45:49,011
+and if we spend a week
+trying to find an office,
+
+993
+00:45:49,013 --> 00:45:50,780
+and he and I put 20 hours into it
+
+994
+00:45:50,782 --> 00:45:53,049
+or 50 hours into it,
+it's a huge waste of time.
+
+995
+00:46:11,869 --> 00:46:14,670
+I thought they'd be in multiple bags
+
+996
+00:46:14,672 --> 00:46:16,739
+rather than one big one, but hey...
+
+997
+00:46:22,479 --> 00:46:26,015
+<i>I believe that Bitcoin will do
+to the banking industry</i>
+
+998
+00:46:26,017 --> 00:46:27,650
+what email did to the postal service.
+
+999
+00:46:28,685 --> 00:46:30,253
+<i>It didn't make it irrelevant,</i>
+
+1000
+00:46:30,255 --> 00:46:32,889
+<i>what it's forced the post office to do</i>
+
+1001
+00:46:32,891 --> 00:46:34,757
+<i>is concentrate on their strengths</i>
+
+1002
+00:46:34,759 --> 00:46:37,593
+and less so on their weaknesses.
+
+1003
+00:46:37,595 --> 00:46:39,662
+<i>Mike Caldwell is the creator</i>
+
+1004
+00:46:39,664 --> 00:46:40,730
+<i>of physical Bitcoins,</i>
+
+1005
+00:46:40,732 --> 00:46:42,732
+<i>known as Casascius coins.</i>
+
+1006
+00:46:42,734 --> 00:46:44,267
+<i>They're often featured</i>
+
+1007
+00:46:44,269 --> 00:46:46,602
+<i>in mainstream media coverage of Bitcoin.</i>
+
+1008
+00:46:46,604 --> 00:46:48,404
+<i>They're a novelty item,</i>
+
+1009
+00:46:48,406 --> 00:46:50,106
+<i>collectables that basically act</i>
+
+1010
+00:46:50,108 --> 00:46:52,608
+<i>as physical carriers for Bitcoins.</i>
+
+1011
+00:46:52,610 --> 00:46:54,577
+<i>But they do something very important.</i>
+
+1012
+00:46:54,579 --> 00:46:57,413
+<i>They give Bitcoin a face.</i>
+
+1013
+00:46:57,415 --> 00:46:59,115
+Come on in.
+
+1014
+00:47:01,752 --> 00:47:03,186
+Sorry, the kids are sleeping,
+
+1015
+00:47:03,188 --> 00:47:06,122
+so I'm just being quiet
+so we don't-- you know.
+
+1016
+00:47:06,124 --> 00:47:09,158
+<i>Each coin has its own Bitcoin address.</i>
+
+1017
+00:47:09,160 --> 00:47:11,060
+<i>And the private key required to spend it</i>
+
+1018
+00:47:11,062 --> 00:47:13,229
+<i>is hidden underneath the hologram.</i>
+
+1019
+00:47:13,231 --> 00:47:15,398
+This is where you make the physical Bitcoin.
+
+1020
+00:47:15,400 --> 00:47:18,067
+Yeah. It's a random smattering of things,
+
+1021
+00:47:18,069 --> 00:47:20,236
+but I'm pretty careful
+about the way I manage--
+
+1022
+00:47:20,238 --> 00:47:21,404
+You know, the--
+
+1023
+00:47:21,406 --> 00:47:23,406
+Basically, this is the credentials.
+
+1024
+00:47:23,408 --> 00:47:26,342
+This is the hologram and the private keys.
+
+1025
+00:47:26,344 --> 00:47:28,511
+I'm pretty careful about those
+and don't keep them here.
+
+1026
+00:47:28,513 --> 00:47:30,546
+I normally do them on this mirror
+
+1027
+00:47:30,548 --> 00:47:34,183
+'cause that helps me get
+the fronts and backs right.
+
+1028
+00:47:34,185 --> 00:47:37,553
+<i>There's so many things that
+cryptography can do for us,</i>
+
+1029
+00:47:37,555 --> 00:47:39,722
+that if the world just knew,
+
+1030
+00:47:39,724 --> 00:47:42,592
+<i>so many social problems could be solved.</i>
+
+1031
+00:47:42,594 --> 00:47:46,963
+Cryptography can bring
+fairness to elections.
+
+1032
+00:47:46,965 --> 00:47:49,966
+<i>It's too difficult for people to understand</i>
+
+1033
+00:47:49,968 --> 00:47:53,069
+<i>and someone needs to bridge the gap.</i>
+
+1034
+00:47:53,071 --> 00:47:56,339
+<i>Right now we're using Bitcoin to send money.</i>
+
+1035
+00:47:56,341 --> 00:47:59,175
+<i>But many believe it will
+revolutionize much more.</i>
+
+1036
+00:47:59,177 --> 00:48:02,011
+<i>The technology behind Bitcoin</i>
+
+1037
+00:48:02,013 --> 00:48:04,513
+<i>can be used to build decentralized systems</i>
+
+1038
+00:48:04,515 --> 00:48:06,582
+<i>with rules that can't be cheated.</i>
+
+1039
+00:48:13,023 --> 00:48:15,324
+Now see, this is my wife and my space.
+
+1040
+00:48:15,326 --> 00:48:16,993
+- This is, you know--
+- Awesome.
+
+1041
+00:48:16,995 --> 00:48:18,661
+It is what it is.
+
+1042
+00:48:18,663 --> 00:48:19,896
+<i>The more time goes by,</i>
+
+1043
+00:48:19,898 --> 00:48:21,397
+<i>the more legitimate Bitcoin gets</i>
+
+1044
+00:48:21,399 --> 00:48:23,666
+<i>and the more proud I am to
+be associated with it.</i>
+
+1045
+00:48:23,668 --> 00:48:25,468
+Now what does your wife do?
+
+1046
+00:48:25,470 --> 00:48:27,136
+She does crafts.
+
+1047
+00:48:27,138 --> 00:48:28,671
+She's a lot like me.
+
+1048
+00:48:28,673 --> 00:48:30,306
+We just sit around and make things all day.
+
+1049
+00:48:30,308 --> 00:48:32,575
+<i>It's just our obsession.</i>
+
+1050
+00:48:32,577 --> 00:48:35,044
+No, I'm not a drug dealer.
+No, I'm not a criminal.
+
+1051
+00:48:35,046 --> 00:48:36,812
+No, I'm not a terrorist.
+
+1052
+00:48:36,814 --> 00:48:38,180
+<i>I believe in the rule of law.</i>
+
+1053
+00:48:38,182 --> 00:48:40,082
+I believe in structure that builds society.
+
+1054
+00:48:40,084 --> 00:48:41,384
+I believe in families.
+
+1055
+00:48:41,386 --> 00:48:42,919
+<i>I believe in corporations.</i>
+
+1056
+00:48:42,921 --> 00:48:45,655
+<i>I believe in all the essential elements</i>
+
+1057
+00:48:45,657 --> 00:48:48,691
+that a civilized society with law and order
+
+1058
+00:48:48,693 --> 00:48:50,426
+need to be able to function.
+
+1059
+00:48:50,428 --> 00:48:52,528
+Focal length matters.
+
+1060
+00:48:54,565 --> 00:48:57,500
+Cryptography is the basis
+
+1061
+00:48:57,502 --> 00:49:00,136
+for us being able to implement
+the values we say we believe in.
+
+1062
+00:49:03,974 --> 00:49:05,675
+<i>This idea will never die,</i>
+
+1063
+00:49:05,677 --> 00:49:09,712
+<i>the technology that Bitcoin
+brought to the forefront.</i>
+
+1064
+00:49:09,714 --> 00:49:11,013
+The genie is out of the bottle.
+
+1065
+00:49:22,693 --> 00:49:24,660
+<i>Since the crash, the Bitcoin price</i>
+
+1066
+00:49:24,662 --> 00:49:26,762
+<i>has been hovering around $100.</i>
+
+1067
+00:49:28,165 --> 00:49:30,466
+<i>Bitcoins seem to have weathered the storm,</i>
+
+1068
+00:49:30,468 --> 00:49:33,803
+<i>but there's still much controversy
+surrounding the currency.</i>
+
+1069
+00:49:33,805 --> 00:49:36,906
+<i>The same cryptography that
+insures a user's privacy</i>
+
+1070
+00:49:36,908 --> 00:49:39,642
+<i>also allows it to be used anonymously.</i>
+
+1071
+00:49:48,819 --> 00:49:51,153
+<i>My father decided to retire</i>
+
+1072
+00:49:51,155 --> 00:49:53,255
+<i>and he had an old failing print shop.</i>
+
+1073
+00:49:53,257 --> 00:49:54,924
+<i>I basically took it over</i>
+
+1074
+00:49:54,926 --> 00:49:56,646
+<i>and I converted it into an Internet place.</i>
+
+1075
+00:49:58,061 --> 00:49:59,161
+We're the only place in L.A.
+
+1076
+00:49:59,163 --> 00:50:00,496
+That supports Bitcoin right now.
+
+1077
+00:50:07,237 --> 00:50:09,772
+This is my Linux system here.
+
+1078
+00:50:09,774 --> 00:50:13,342
+It's a system that also mines for Bitcoins.
+
+1079
+00:50:13,344 --> 00:50:15,611
+<i>Makes about a dollar a day.
+I just do it for fun.</i>
+
+1080
+00:50:17,180 --> 00:50:18,848
+I was really really into the Internet,
+
+1081
+00:50:18,850 --> 00:50:22,251
+literally in 1990, 1991, 1992,
+
+1082
+00:50:22,253 --> 00:50:24,353
+and I had the hardest time describing
+
+1083
+00:50:24,355 --> 00:50:26,522
+what the Internet was to people.
+
+1084
+00:50:26,524 --> 00:50:28,824
+<i>I would tell people, "well,
+it's like this network of computers.</i>
+
+1085
+00:50:28,826 --> 00:50:31,060
+And the network of computers
+
+1086
+00:50:31,062 --> 00:50:32,995
+can talk with other networks of computers
+
+1087
+00:50:32,997 --> 00:50:34,997
+and then you could exchange information."
+
+1088
+00:50:34,999 --> 00:50:37,333
+And people would have no idea what it was.
+
+1089
+00:50:37,335 --> 00:50:40,669
+- -<i> When people
+ask me what Bitcoin is</i>
+
+1090
+00:50:40,671 --> 00:50:42,905
+<i>I have the hardest time
+describing what it is.</i>
+
+1091
+00:50:42,907 --> 00:50:46,042
+<i>And I'd surmise it as,
+"it's basically money.</i>
+
+1092
+00:50:46,044 --> 00:50:47,643
+<i>It's basically an anonymous PayPal.</i>
+
+1093
+00:50:49,212 --> 00:50:51,347
+<i>It's one of those things
+that you have to use</i>
+
+1094
+00:50:51,349 --> 00:50:52,882
+<i>before you understand.</i>
+
+1095
+00:50:54,384 --> 00:50:56,252
+<i>Politically, I'm not a very big fan</i>
+
+1096
+00:50:56,254 --> 00:50:58,788
+<i>of either the banks or federal reserve,</i>
+
+1097
+00:50:58,790 --> 00:51:00,990
+and Bitcoin allows me to get around that.
+
+1098
+00:51:00,992 --> 00:51:04,193
+One of the programs we support
+is a protocol called "Tor."
+
+1099
+00:51:04,195 --> 00:51:07,229
+And basically what Tor does is
+it allows you to communicate
+
+1100
+00:51:07,231 --> 00:51:09,165
+to a website anonymously.
+
+1101
+00:51:09,167 --> 00:51:11,487
+<i>Tor is a program that allows you
+to get on the silk road.</i>
+
+1102
+00:51:12,569 --> 00:51:14,070
+And this is silk road.
+
+1103
+00:51:14,072 --> 00:51:17,406
+<i>Basically, any drug you want is available.</i>
+
+1104
+00:51:17,408 --> 00:51:19,675
+There's a lot of weed.
+There's a lot of cocaine.
+
+1105
+00:51:19,677 --> 00:51:20,976
+<i>There's a lot of ecstasy.</i>
+
+1106
+00:51:20,978 --> 00:51:22,978
+<i>But there's also unusual drugs,</i>
+
+1107
+00:51:22,980 --> 00:51:24,580
+like if you want some
+sort of anabolic steroid,
+
+1108
+00:51:24,582 --> 00:51:26,816
+you can type "steroid."
+
+1109
+00:51:26,818 --> 00:51:28,250
+You'll get all the different types
+
+1110
+00:51:28,252 --> 00:51:30,019
+<i>of steroids that are available.</i>
+
+1111
+00:51:30,021 --> 00:51:32,321
+Silk road itself is not selling the drugs.
+
+1112
+00:51:32,323 --> 00:51:34,090
+<i>This is basically a matchmaker</i>
+
+1113
+00:51:34,092 --> 00:51:35,658
+<i>between buyer and seller.</i>
+
+1114
+00:51:35,660 --> 00:51:37,393
+Both the buyer and seller
+don't know each other.
+
+1115
+00:51:37,395 --> 00:51:39,528
+Both the buyer and seller are anonymous.
+
+1116
+00:51:39,530 --> 00:51:41,897
+<i>It goes on this web of trust.</i>
+
+1117
+00:51:41,899 --> 00:51:44,633
+If you want to, let's say,
+buy this testosterone,
+
+1118
+00:51:44,635 --> 00:51:46,235
+<i>you'd click on this.</i>
+
+1119
+00:51:47,971 --> 00:51:49,905
+He has 99.3 positive feedback
+
+1120
+00:51:49,907 --> 00:51:52,408
+from more than 300 transactions.
+
+1121
+00:51:52,410 --> 00:51:55,511
+So even though the contracts
+aren't enforceable by law,
+
+1122
+00:51:55,513 --> 00:51:57,680
+the reputation system makes it so that
+
+1123
+00:51:57,682 --> 00:52:00,249
+the system works pretty well.
+
+1124
+00:52:00,251 --> 00:52:02,451
+Oh, there's a fireworks section now.
+I didn't know that.
+
+1125
+00:52:03,720 --> 00:52:07,156
+<i>Florida I.D., 1.88 Bitcoins,</i>
+
+1126
+00:52:07,158 --> 00:52:10,559
+which is around $150, something like that.
+
+1127
+00:52:10,561 --> 00:52:12,962
+<i>A forged auto insurance card,</i>
+
+1128
+00:52:12,964 --> 00:52:15,664
+<i>forged passport.</i>
+
+1129
+00:52:15,666 --> 00:52:17,733
+There is over 9,000 entries for drugs.
+
+1130
+00:52:19,469 --> 00:52:20,669
+That's a lot.
+
+1131
+00:52:22,672 --> 00:52:24,273
+I would say there's around
+maybe five customers
+
+1132
+00:52:24,275 --> 00:52:25,875
+that know about it and use it.
+
+1133
+00:52:25,877 --> 00:52:27,877
+It's a very small percentage
+of the people that come in.
+
+1134
+00:52:27,879 --> 00:52:29,512
+But the people who do know about it,
+
+1135
+00:52:29,514 --> 00:52:31,147
+specifically come here to use it.
+
+1136
+00:52:34,318 --> 00:52:36,152
+<i>What the customers do with the computers</i>
+
+1137
+00:52:36,154 --> 00:52:38,554
+<i>is pretty much their business.</i>
+
+1138
+00:52:38,556 --> 00:52:40,856
+Another day in the office.
+
+1139
+00:52:40,858 --> 00:52:43,826
+You gonna do drug dealing of any sort,
+
+1140
+00:52:43,828 --> 00:52:45,127
+silk road is the place to go.
+
+1141
+00:52:45,129 --> 00:52:48,297
+How many people are selling
+cannabis right now?
+
+1142
+00:52:48,299 --> 00:52:51,534
+<i>It looks like 2,011 people
+are selling cannabis.</i>
+
+1143
+00:52:51,536 --> 00:52:53,135
+They call me Mr. Bitcoin.
+
+1144
+00:52:53,137 --> 00:52:55,004
+<i>I probably been dealing drugs</i>
+
+1145
+00:52:55,006 --> 00:52:57,540
+since I was like 17.
+
+1146
+00:52:57,542 --> 00:52:59,909
+<i>Right now I'm 26.</i>
+
+1147
+00:53:01,411 --> 00:53:03,179
+<i>I think of it as a global thing</i>
+
+1148
+00:53:03,181 --> 00:53:04,380
+<i>when I'm on the computer.</i>
+
+1149
+00:53:04,382 --> 00:53:06,916
+<i>I'm doing business with the world.</i>
+
+1150
+00:53:06,918 --> 00:53:08,517
+Let's see, they have blue dream,
+
+1151
+00:53:08,519 --> 00:53:11,353
+sour diesel, pineapple Thai,
+
+1152
+00:53:11,355 --> 00:53:14,390
+purple kush, girl scout cookies.
+Purple pays.
+
+1153
+00:53:14,392 --> 00:53:16,225
+When I first heard about it,
+
+1154
+00:53:16,227 --> 00:53:17,893
+I was laughing about it. It took me a week
+
+1155
+00:53:17,895 --> 00:53:19,895
+to just even think about this for real.
+
+1156
+00:53:19,897 --> 00:53:21,830
+"I can really make money off the Internet?
+
+1157
+00:53:21,832 --> 00:53:24,392
+Selling this type of stuff on the Internet?
+You sure about that?"
+
+1158
+00:53:26,036 --> 00:53:28,170
+This something I probably
+may buy right here.
+
+1159
+00:53:28,172 --> 00:53:31,307
+<i>They have looks like some good kush.</i>
+
+1160
+00:53:31,309 --> 00:53:33,809
+<i>And some of these things only
+take a day to get here</i>
+
+1161
+00:53:33,811 --> 00:53:35,811
+<i>with no harassment from nobody</i>
+
+1162
+00:53:35,813 --> 00:53:37,513
+instead of just being on the streets.
+
+1163
+00:53:37,515 --> 00:53:39,415
+<i>Once you get the hang of it,
+it's actually kinda fun</i>
+
+1164
+00:53:39,417 --> 00:53:40,977
+<i>just looking through different things.</i>
+
+1165
+00:53:42,552 --> 00:53:44,853
+"Mr. Bitcoin." I'm running with it.
+
+1166
+00:53:44,855 --> 00:53:46,355
+I like the name. You know what I mean?
+
+1167
+00:53:46,357 --> 00:53:48,190
+I'm not gonna lie. I get Booty off this.
+
+1168
+00:53:48,192 --> 00:53:50,025
+I kinda like talking about
+this stuff with girls.
+
+1169
+00:53:50,027 --> 00:53:52,161
+Girls like that shit hot.
+
+1170
+00:53:52,163 --> 00:53:55,364
+"Oh, you're street,
+and you got a little nerd knowledge?
+
+1171
+00:53:55,366 --> 00:53:56,966
+This is great."
+
+1172
+00:53:58,368 --> 00:54:00,402
+<i>I have a lot of Bitcoins saved up already.</i>
+
+1173
+00:54:00,404 --> 00:54:02,404
+<i>My business is doing good.</i>
+
+1174
+00:54:02,406 --> 00:54:05,307
+It's a fun way of doing hustling these days.
+
+1175
+00:54:05,309 --> 00:54:07,343
+The future brung a different way to hustle
+
+1176
+00:54:07,345 --> 00:54:08,811
+and I like it.
+
+1177
+00:54:22,058 --> 00:54:24,026
+<i>With so many people using Bitcoin</i>
+
+1178
+00:54:24,028 --> 00:54:25,828
+<i>in so many different ways,</i>
+
+1179
+00:54:25,830 --> 00:54:28,230
+<i>it's becoming apparent that
+it can't be ignored.</i>
+
+1180
+00:54:32,902 --> 00:54:34,403
+- Let me see your driver's license.
+- Oh sure.
+
+1181
+00:54:34,405 --> 00:54:37,139
+This stays at the desk until
+you leave the building.
+
+1182
+00:54:37,141 --> 00:54:39,174
+<i>Today I'm visiting FinCEN,</i>
+
+1183
+00:54:39,176 --> 00:54:41,377
+<i>a bureau of the U.S.
+department of the treasury.</i>
+
+1184
+00:54:41,379 --> 00:54:45,080
+<i>Despite having released guidance
+on virtual currencies,</i>
+
+1185
+00:54:45,082 --> 00:54:47,549
+<i>there's still a lot of uncertainty
+surrounding their outlook</i>
+
+1186
+00:54:47,551 --> 00:54:49,718
+<i>on the future of Bitcoin regulation.</i>
+
+1187
+00:54:49,720 --> 00:54:52,321
+Straight ahead and in the
+big fishbowl-looking--
+
+1188
+00:54:52,323 --> 00:54:54,356
+<i>Okay, great.</i>
+
+1189
+00:54:56,994 --> 00:54:58,494
+I'm not gonna say we're gonna have
+
+1190
+00:54:58,496 --> 00:54:59,828
+every answer for you today,
+
+1191
+00:54:59,830 --> 00:55:02,064
+but I mean...
+
+1192
+00:55:24,220 --> 00:55:26,422
+<i> Oh yeah.</i>
+
+1193
+00:55:30,193 --> 00:55:32,194
+<i>Jennifer Shasky Calvery came onboard</i>
+
+1194
+00:55:32,196 --> 00:55:34,463
+<i>as FinCEN's director last year.</i>
+
+1195
+00:55:34,465 --> 00:55:36,865
+<i>During her career, she spent 15 years</i>
+
+1196
+00:55:36,867 --> 00:55:38,667
+<i>at the department of justice</i>
+
+1197
+00:55:38,669 --> 00:55:40,469
+<i>where she specialized in
+fighting money laundering</i>
+
+1198
+00:55:40,471 --> 00:55:42,204
+<i>and organized crime.</i>
+
+1199
+00:55:42,206 --> 00:55:43,672
+Virtual currencies have been on my radar
+
+1200
+00:55:43,674 --> 00:55:45,641
+for a while, even prior to coming
+
+1201
+00:55:45,643 --> 00:55:48,877
+to this position, because of,
+
+1202
+00:55:48,879 --> 00:55:51,313
+unfortunately, the abuse of some of them.
+
+1203
+00:55:51,315 --> 00:55:53,048
+Bitcoin, on the other hand,
+
+1204
+00:55:53,050 --> 00:55:55,984
+is one that really didn't come on my radar
+
+1205
+00:55:55,986 --> 00:55:57,886
+probably until I arrived at FinCEN.
+
+1206
+00:55:57,888 --> 00:55:59,888
+<i>Depending on who you speak to,</i>
+
+1207
+00:55:59,890 --> 00:56:01,390
+<i>the issuance of our guidance was</i>
+
+1208
+00:56:01,392 --> 00:56:03,892
+either the best thing that
+ever happened to Bitcoin
+
+1209
+00:56:03,894 --> 00:56:06,061
+or the worst thing that
+ever happened to Bitcoin.
+
+1210
+00:56:06,063 --> 00:56:08,697
+<i>Some accusing us of trying to kill Bitcoin</i>
+
+1211
+00:56:08,699 --> 00:56:11,667
+<i>and others saying that it
+somehow legitimized it.</i>
+
+1212
+00:56:11,669 --> 00:56:15,337
+Of course, neither of those
+things I think is probably true.
+
+1213
+00:56:15,339 --> 00:56:17,706
+And certainly neither of
+those things was our intent.
+
+1214
+00:56:17,708 --> 00:56:21,210
+<i>One of the clear lines is that
+if you're a consumer</i>
+
+1215
+00:56:21,212 --> 00:56:24,146
+<i>who's using Bitcoins to buy
+goods and services,</i>
+
+1216
+00:56:24,148 --> 00:56:26,081
+<i>the guidance doesn't pertain to you.</i>
+
+1217
+00:56:26,083 --> 00:56:29,017
+We're focused more on the
+places where we think
+
+1218
+00:56:29,019 --> 00:56:32,054
+we have risks to the U.S. financial system
+
+1219
+00:56:32,056 --> 00:56:33,889
+from money laundering
+and terrorist financing.
+
+1220
+00:56:33,891 --> 00:56:35,991
+And I think that might be kind of--
+
+1221
+00:56:35,993 --> 00:56:39,428
+A lot of the Bitcoin community
+has a little bit of a fear
+
+1222
+00:56:39,430 --> 00:56:42,464
+that Bitcoin may be characterized
+
+1223
+00:56:42,466 --> 00:56:46,368
+in a way so as to tie it to some
+bad actor ruining it for everyone,
+
+1224
+00:56:46,370 --> 00:56:48,404
+<i>when a lot of people that are
+interested in Bitcoin,</i>
+
+1225
+00:56:48,406 --> 00:56:52,107
+including myself, see it as just
+this technology that we don't--
+
+1226
+00:56:52,109 --> 00:56:54,143
+Really don't wanna see it falling
+
+1227
+00:56:54,145 --> 00:56:56,044
+into the wrong categorization
+
+1228
+00:56:56,046 --> 00:56:58,280
+with all the potential that's there.
+
+1229
+00:56:58,282 --> 00:57:02,484
+Sure. So that innovation around Bitcoin
+
+1230
+00:57:02,486 --> 00:57:05,154
+and the virtual economy
+
+1231
+00:57:05,156 --> 00:57:08,524
+is really one of the
+more interesting aspects,
+
+1232
+00:57:08,526 --> 00:57:10,859
+I think, of this story-- The idea that
+
+1233
+00:57:10,861 --> 00:57:14,163
+<i>it can be used to potentially serve</i>
+
+1234
+00:57:14,165 --> 00:57:15,964
+<i>the unbanked out there,</i>
+
+1235
+00:57:15,966 --> 00:57:18,567
+<i>just to provide some really new services</i>
+
+1236
+00:57:18,569 --> 00:57:20,602
+<i>that are convenient for consumers.</i>
+
+1237
+00:57:20,604 --> 00:57:22,004
+The flip side of it though
+
+1238
+00:57:22,006 --> 00:57:24,506
+is that to be a part of
+the financial system--
+
+1239
+00:57:24,508 --> 00:57:27,810
+The U.S. financial system,
+the global financial system--
+
+1240
+00:57:27,812 --> 00:57:29,711
+Also comes with some responsibilities.
+
+1241
+00:57:29,713 --> 00:57:32,347
+And those responsibilities include
+
+1242
+00:57:32,349 --> 00:57:35,617
+<i>not allowing your institution to be used</i>
+
+1243
+00:57:35,619 --> 00:57:39,621
+by criminals and by terrorists.
+
+1244
+00:57:44,627 --> 00:57:46,195
+<i>There's always been a concern</i>
+
+1245
+00:57:46,197 --> 00:57:48,464
+<i>that the government might try
+to stamp out Bitcoin.</i>
+
+1246
+00:57:50,400 --> 00:57:53,435
+<i>But perhaps they see the risk
+of being left behind.</i>
+
+1247
+00:57:58,174 --> 00:58:01,276
+<i>In may 2013, the biggest gathering to-date</i>
+
+1248
+00:58:01,278 --> 00:58:03,512
+<i>of Bitcoin enthusiasts and entrepreneurs</i>
+
+1249
+00:58:03,514 --> 00:58:05,781
+<i>happened in San Jose, California.</i>
+
+1250
+00:58:05,783 --> 00:58:07,850
+<i>We're at Bitcoin 2013.</i>
+
+1251
+00:58:07,852 --> 00:58:10,786
+It's the inaugural conference
+of the Bitcoin foundation.
+
+1252
+00:58:14,157 --> 00:58:16,825
+Roger Ver: <i>Bitcoin is worldwide and
+the vast majority of people</i>
+
+1253
+00:58:16,827 --> 00:58:19,194
+haven't even heard of Bitcoin yet.
+
+1254
+00:58:19,196 --> 00:58:21,830
+It's more powerful than every computer
+
+1255
+00:58:21,832 --> 00:58:23,565
+on the top-500 list combined.
+
+1256
+00:58:25,668 --> 00:58:27,002
+It's an awfully big world,
+
+1257
+00:58:27,004 --> 00:58:29,104
+an awful lot of things could happen.
+
+1258
+00:58:29,106 --> 00:58:32,040
+<i>Really, we've been on a roller-coaster ride</i>
+
+1259
+00:58:32,042 --> 00:58:35,177
+<i>and I expect, at least for
+the next few years,</i>
+
+1260
+00:58:35,179 --> 00:58:37,746
+<i>we're gonna remain on a roller-coaster ride.</i>
+
+1261
+00:58:37,748 --> 00:58:40,249
+I happen to enjoy roller coasters.
+
+1262
+00:58:40,251 --> 00:58:42,084
+I think they're fun.
+
+1263
+00:58:43,453 --> 00:58:44,620
+<i>Just a few weeks earlier</i>
+
+1264
+00:58:44,622 --> 00:58:46,255
+<i>Cameron and Tyler Winklevoss,</i>
+
+1265
+00:58:46,257 --> 00:58:48,257
+<i>known for their involvement in Facebook,</i>
+
+1266
+00:58:48,259 --> 00:58:50,192
+<i>announce that they own a 1% stake</i>
+
+1267
+00:58:50,194 --> 00:58:51,994
+<i>of all Bitcoins in existence.</i>
+
+1268
+00:58:51,996 --> 00:58:54,096
+<i>Worth around $11 million.</i>
+
+1269
+00:58:54,098 --> 00:58:56,698
+- How's it going? How are you?
+- Nice to meet you.
+
+1270
+00:58:56,700 --> 00:58:59,668
+<i>They also made a $1.5 million investment</i>
+
+1271
+00:58:59,670 --> 00:59:01,837
+<i>in Charlie's company, Bitlnstant.</i>
+
+1272
+00:59:01,839 --> 00:59:04,339
+We started looking seriously at it
+
+1273
+00:59:04,341 --> 00:59:05,874
+at the end of last summer
+
+1274
+00:59:05,876 --> 00:59:08,510
+and started purchasing around that time.
+
+1275
+00:59:08,512 --> 00:59:11,179
+I think a light bulb just
+went off and we said, "wow.
+
+1276
+00:59:11,181 --> 00:59:13,515
+The implication of this could be enormous.
+
+1277
+00:59:13,517 --> 00:59:15,651
+<i>If everyone in the world could
+have a Bitcoin address,</i>
+
+1278
+00:59:15,653 --> 00:59:18,620
+everyone in the world could
+be banked fairly quickly.
+
+1279
+00:59:18,622 --> 00:59:20,522
+<i>And when you consider that,</i>
+
+1280
+00:59:20,524 --> 00:59:22,357
+it's a very powerful idea.
+
+1281
+00:59:22,359 --> 00:59:25,160
+And Bitcoin can make that happen.
+
+1282
+00:59:25,162 --> 00:59:26,395
+We're going all over the world.
+
+1283
+00:59:26,397 --> 00:59:27,529
+We're going to the U.K.
+
+1284
+00:59:27,531 --> 00:59:28,797
+We're going to Australia.
+
+1285
+00:59:28,799 --> 00:59:30,799
+We're going to-- We're already in Russia.
+
+1286
+00:59:30,801 --> 00:59:32,868
+<i>We're going to South America.</i>
+
+1287
+00:59:32,870 --> 00:59:34,403
+We're already in Brazil now.
+
+1288
+00:59:34,405 --> 00:59:36,538
+You can buy Bitcoin at any of our locations.
+
+1289
+00:59:36,540 --> 00:59:39,341
+<i>It's fun to think that Satoshi
+might be here too.</i>
+
+1290
+00:59:39,343 --> 00:59:40,976
+I always wonder if somebody is--
+
+1291
+00:59:40,978 --> 00:59:43,345
+If someone here somewhere is...
+
+1292
+00:59:43,347 --> 00:59:45,667
+Yes. I was planning-- -...
+Standing in the corner going--
+
+1293
+00:59:53,958 --> 00:59:55,157
+What would he do?
+
+1294
+00:59:55,159 --> 00:59:58,493
+What talks would he be attending, you know?
+
+1295
+00:59:58,495 --> 01:00:01,163
+Trace Mayer: <i>We're seeing the
+Bitcoin players in the Market</i>
+
+1296
+01:00:01,165 --> 01:00:02,998
+<i>meeting with the venture capitalists</i>
+
+1297
+01:00:03,000 --> 01:00:04,700
+<i>and they're all beginning to posture</i>
+
+1298
+01:00:04,702 --> 01:00:05,801
+and that's very exciting,
+
+1299
+01:00:05,803 --> 01:00:07,169
+because it means that
+
+1300
+01:00:07,171 --> 01:00:08,470
+there's gonna be a lot more
+
+1301
+01:00:08,472 --> 01:00:09,972
+infrastructure built out,
+
+1302
+01:00:09,974 --> 01:00:11,673
+and lot more money flowing into the space,
+
+1303
+01:00:11,675 --> 01:00:15,344
+and it's really gonna be a
+big bull Market for Bitcoin.
+
+1304
+01:00:15,346 --> 01:00:17,679
+<i>One of the companies best known for making</i>
+
+1305
+01:00:17,681 --> 01:00:21,350
+<i>Bitcoin accessible for commerce
+is Atlanta-based BitPay.</i>
+
+1306
+01:00:21,352 --> 01:00:23,652
+<i>They are pioneers in Bitcoin</i>
+
+1307
+01:00:23,654 --> 01:00:25,487
+<i>and provide a service that enables merchants</i>
+
+1308
+01:00:25,489 --> 01:00:26,855
+<i>to accept Bitcoin payments</i>
+
+1309
+01:00:26,857 --> 01:00:29,191
+<i>without dealing with its complexities.</i>
+
+1310
+01:00:29,193 --> 01:00:30,993
+We've grown about a factor of 10
+
+1311
+01:00:30,995 --> 01:00:33,161
+since the beginning of the year.
+
+1312
+01:00:33,163 --> 01:00:34,830
+We were doing about half a
+million dollars a month...
+
+1313
+01:00:34,832 --> 01:00:36,198
+- Yeah. - ...Around
+the turn of the year,
+
+1314
+01:00:36,200 --> 01:00:38,000
+and now we're doing about
+$5 million a month.
+
+1315
+01:00:38,002 --> 01:00:41,269
+<i>This is people using Bitcoins to
+buy real goods and services.</i>
+
+1316
+01:00:41,271 --> 01:00:42,871
+<i>They're not day trading.
+They're not exchanging.</i>
+
+1317
+01:00:42,873 --> 01:00:44,272
+They're actually buying things.
+
+1318
+01:00:44,274 --> 01:00:47,309
+I'm confident that Bitcoin is
+the most important invention
+
+1319
+01:00:47,311 --> 01:00:49,044
+in the entire history of the
+world since the Internet.
+
+1320
+01:00:49,046 --> 01:00:50,879
+<i>Roger Ver is an investor</i>
+
+1321
+01:00:50,881 --> 01:00:52,514
+<i>in several early Bitcoin companies,</i>
+
+1322
+01:00:52,516 --> 01:00:54,216
+<i>including BitPay.</i>
+
+1323
+01:00:54,218 --> 01:00:55,984
+<i>His passion and enthusiasm</i>
+
+1324
+01:00:55,986 --> 01:00:58,687
+<i>has earned him the nickname "Bitcoin Jesus."</i>
+
+1325
+01:00:58,689 --> 01:01:00,155
+<i>It is going to change everything.</i>
+
+1326
+01:01:00,157 --> 01:01:01,490
+And all of you here in this room
+
+1327
+01:01:01,492 --> 01:01:03,492
+you're at the very very forefront of that.
+
+1328
+01:01:06,997 --> 01:01:09,131
+<i>Roger lives in Tokyo</i>
+
+1329
+01:01:09,133 --> 01:01:12,367
+<i>but travels the earth, spreading
+the good word of Bitcoin.</i>
+
+1330
+01:01:12,369 --> 01:01:14,369
+<i>The last couple of days
+we've been setting up</i>
+
+1331
+01:01:14,371 --> 01:01:16,705
+<i>a business per day to accept Bitcoin
+here in the bay area.</i>
+
+1332
+01:01:16,707 --> 01:01:18,006
+<i>Today's business is going to be</i>
+
+1333
+01:01:18,008 --> 01:01:20,008
+<i>this Super Kyo-Po Korean supermarket.</i>
+
+1334
+01:01:20,010 --> 01:01:23,011
+So for you-- you accept
+credit cards right now?
+
+1335
+01:01:23,013 --> 01:01:25,347
+- Right.
+- The credit card companies are charging you 2% or 3%?
+
+1336
+01:01:25,349 --> 01:01:27,382
+- Right.
+- For Bitcoin, you can do the same thing,
+
+1337
+01:01:27,384 --> 01:01:28,950
+but they'll only charge you 1%
+
+1338
+01:01:28,952 --> 01:01:30,886
+and you'll still get dollars
+in your bank account.
+
+1339
+01:01:30,888 --> 01:01:32,387
+If you want, you can choose to split
+
+1340
+01:01:32,389 --> 01:01:34,156
+some of the payments that you receive
+
+1341
+01:01:34,158 --> 01:01:36,191
+into Bitcoins and then some into dollars
+
+1342
+01:01:36,193 --> 01:01:38,760
+in whatever ratio you want,
+so you can keep 99% in dollars
+
+1343
+01:01:38,762 --> 01:01:41,930
+and 1% in Bitcoin or 99% in
+Bitcoin and 1% in dollars.
+
+1344
+01:01:41,932 --> 01:01:43,852
+- <i> Okay.</i>
+- However you want. You can decide that.
+
+1345
+01:01:45,201 --> 01:01:46,768
+<i>Roger is describing the service</i>
+
+1346
+01:01:46,770 --> 01:01:48,403
+<i>provided by BitPay.</i>
+
+1347
+01:01:48,405 --> 01:01:50,839
+<i>They take the volatility of Bitcoin's price</i>
+
+1348
+01:01:50,841 --> 01:01:52,607
+<i>out of the equation for merchants</i>
+
+1349
+01:01:52,609 --> 01:01:54,676
+<i>by immediately converting
+Bitcoins to dollars</i>
+
+1350
+01:01:54,678 --> 01:01:56,078
+<i>at the time of sale.</i>
+
+1351
+01:01:56,080 --> 01:01:58,113
+So right now we have it set to 100% dollars,
+
+1352
+01:01:58,115 --> 01:02:00,248
+so anybody that pays here with Bitcoin,
+
+1353
+01:02:00,250 --> 01:02:01,850
+they'll deposit the money
+into your bank account
+
+1354
+01:02:01,852 --> 01:02:04,152
+the very next day with only a 1% fee.
+
+1355
+01:02:04,154 --> 01:02:05,687
+And I guarantee you over
+the next couple of weeks
+
+1356
+01:02:05,689 --> 01:02:07,022
+you'll have lots of computer nerds
+
+1357
+01:02:07,024 --> 01:02:08,990
+that love Bitcoins will be coming in here
+
+1358
+01:02:08,992 --> 01:02:10,992
+specifically to shop at your supermarket,
+
+1359
+01:02:10,994 --> 01:02:12,314
+so that they can pay with Bitcoin.
+
+1360
+01:02:14,297 --> 01:02:17,199
+The credit card companies,
+just for processing the payment,
+
+1361
+01:02:17,201 --> 01:02:19,534
+they take anywhere from...
+
+1362
+01:02:19,536 --> 01:02:22,637
+1.5% to over 3%
+
+1363
+01:02:22,639 --> 01:02:24,840
+and then on certain cards
+
+1364
+01:02:24,842 --> 01:02:26,641
+there's even a per-transaction fee,
+
+1365
+01:02:26,643 --> 01:02:28,844
+like 20¢ per transaction
+
+1366
+01:02:28,846 --> 01:02:31,012
+plus the percentage of the transaction.
+
+1367
+01:02:33,983 --> 01:02:36,017
+...$11,000, $12,000 a month
+
+1368
+01:02:36,019 --> 01:02:39,454
+on the average that they just
+take right out of our account.
+
+1369
+01:02:39,456 --> 01:02:40,622
+I honestly think that
+
+1370
+01:02:40,624 --> 01:02:41,723
+there's a really good chance
+
+1371
+01:02:41,725 --> 01:02:43,458
+that Bitcoins will be more than $1,000
+
+1372
+01:02:43,460 --> 01:02:45,627
+by the end of the year,
+because everybody who hears about--
+
+1373
+01:02:45,629 --> 01:02:47,729
+"wait, I can send money to
+and from anyone I want?"
+
+1374
+01:02:47,731 --> 01:02:50,465
+It's impossible for anyone
+to freeze your account,
+
+1375
+01:02:50,467 --> 01:02:53,568
+it's impossible for anyone to block you
+from sending or receiving these Bitcoins.
+
+1376
+01:02:53,570 --> 01:02:55,403
+<i>...Euros, so you can see</i>
+
+1377
+01:02:55,405 --> 01:02:57,739
+all these different currency
+exchanges around the world
+
+1378
+01:02:57,741 --> 01:02:59,674
+that exchange to and from Bitcoins.
+
+1379
+01:02:59,676 --> 01:03:03,178
+You can see there's maybe between
+50 and 100 exchanges now.
+
+1380
+01:03:03,180 --> 01:03:05,814
+When I first heard about Bitcoin and
+started telling everybody about it,
+
+1381
+01:03:05,816 --> 01:03:07,983
+if you looked at that same page,
+there were less than 10.
+
+1382
+01:03:07,985 --> 01:03:11,052
+And there's no central office that
+they could raid or anything like that?
+
+1383
+01:03:11,054 --> 01:03:12,554
+There's no central-- It's amazing.
+
+1384
+01:03:12,556 --> 01:03:13,855
+There's no central office,
+
+1385
+01:03:13,857 --> 01:03:15,290
+<i>there's no central place they could go to</i>
+
+1386
+01:03:15,292 --> 01:03:17,125
+and say, "take Steve's Bitcoins,"
+
+1387
+01:03:17,127 --> 01:03:19,127
+or, "give Steve's Bitcoins to Kevin."
+Do this or do that.
+
+1388
+01:03:19,129 --> 01:03:20,862
+So who's the owner of Bitcoins?
+
+1389
+01:03:20,864 --> 01:03:23,498
+- Everybody that owns Bitcoins?
+- Yeah yeah.
+
+1390
+01:03:23,500 --> 01:03:26,134
+Just like who's the owner of gold?
+It's whoever owns some gold.
+
+1391
+01:03:26,136 --> 01:03:28,203
+Short of shutting down the entire Internet
+
+1392
+01:03:28,205 --> 01:03:30,338
+in the entire world,
+there's no way to stop Bitcoin.
+
+1393
+01:03:36,179 --> 01:03:38,213
+And hit "request payment."
+
+1394
+01:03:38,215 --> 01:03:40,816
+And that's the Q.R.
+Code for your Bitcoin address.
+
+1395
+01:03:40,818 --> 01:03:42,184
+So I'm gonna scan that...
+
+1396
+01:03:44,253 --> 01:03:46,321
+So now I have your Bitcoin
+address on my phone.
+
+1397
+01:03:46,323 --> 01:03:48,290
+I think this is $2,
+
+1398
+01:03:48,292 --> 01:03:50,425
+so I'm going to send you $2
+
+1399
+01:03:50,427 --> 01:03:51,993
+worth of Bitcoins.
+
+1400
+01:03:56,833 --> 01:03:59,000
+There it is. You just
+received that many Bitcoins
+
+1401
+01:03:59,002 --> 01:04:00,302
+from me, directly with no fee
+
+1402
+01:04:00,304 --> 01:04:02,204
+and if you hit the little green square
+
+1403
+01:04:02,206 --> 01:04:04,139
+it'll show you the equivalent
+amount in U.S. dollars.
+
+1404
+01:04:04,141 --> 01:04:06,975
+<i>So you just received $2 worth of Bitcoins</i>
+
+1405
+01:04:06,977 --> 01:04:08,276
+<i>directly from my phone to your phone.</i>
+
+1406
+01:04:08,278 --> 01:04:10,312
+And you can send money just
+like that anywhere in the world.
+
+1407
+01:04:10,314 --> 01:04:12,480
+You could've told me your Bitcoin address
+
+1408
+01:04:12,482 --> 01:04:14,349
+by email or posted on Facebook
+
+1409
+01:04:14,351 --> 01:04:16,117
+or Twitter or anywhere.
+
+1410
+01:04:16,119 --> 01:04:18,720
+So I could print this and
+have it at the register.
+
+1411
+01:04:18,722 --> 01:04:21,156
+Yeah. Yup, and you can
+check right on your phone
+
+1412
+01:04:21,158 --> 01:04:22,791
+any time that you received the payment.
+
+1413
+01:04:22,793 --> 01:04:24,693
+<i> Okay. Thank you, Steve.</i>
+
+1414
+01:04:24,695 --> 01:04:25,994
+- <i> All right. Thanks.</i>
+- Thank you for the tea.
+
+1415
+01:04:32,869 --> 01:04:35,303
+<i>One of the newest standouts
+in the Bitcoin space</i>
+
+1416
+01:04:35,305 --> 01:04:38,139
+<i>is a San Francisco company named Coinbase.</i>
+
+1417
+01:04:38,141 --> 01:04:40,508
+<i>They operate a digital wallet service</i>
+
+1418
+01:04:40,510 --> 01:04:44,179
+<i>that makes it simple to buy,
+use and accept Bitcoin.</i>
+
+1419
+01:04:44,181 --> 01:04:45,947
+<i>I would not be surprised at all</i>
+
+1420
+01:04:45,949 --> 01:04:47,949
+if Google, square, PayPal-- Everybody--
+
+1421
+01:04:47,951 --> 01:04:49,451
+Is looking at adding Bitcoin
+in one or two years.
+
+1422
+01:04:49,453 --> 01:04:51,953
+<i>By then we need to have 50 million wallets.</i>
+
+1423
+01:04:51,955 --> 01:04:53,288
+<i>If we can make this easy to use,</i>
+
+1424
+01:04:53,290 --> 01:04:55,357
+<i>it's gonna be huge.</i>
+
+1425
+01:04:55,359 --> 01:04:58,493
+Fred Ehrsam: <i>My involvement in Bitcoin
+is not politically motivated.</i>
+
+1426
+01:04:58,495 --> 01:05:02,764
+- Yeah, dude.
+- <i> People are realizing large capital gains.</i>
+
+1427
+01:05:02,766 --> 01:05:05,467
+When professional investors enter the realm,
+
+1428
+01:05:05,469 --> 01:05:07,068
+the stakes definitely change.
+
+1429
+01:05:07,070 --> 01:05:09,804
+<i>We raised $5 million from
+union square ventures.</i>
+
+1430
+01:05:09,806 --> 01:05:11,740
+<i>Fred Wilson led the round there.</i>
+
+1431
+01:05:11,742 --> 01:05:13,341
+I think Bitcoin is still
+
+1432
+01:05:13,343 --> 01:05:15,977
+actually a little bit under the radar.
+
+1433
+01:05:15,979 --> 01:05:20,015
+<i>I think it's moved past the stage
+where people dismiss it,</i>
+
+1434
+01:05:20,017 --> 01:05:21,816
+<i>but I don't think that it's totally</i>
+
+1435
+01:05:21,818 --> 01:05:23,485
+<i>gone mainstream either.</i>
+
+1436
+01:05:23,487 --> 01:05:26,087
+I think we're in that
+middle stage right now.
+
+1437
+01:05:26,089 --> 01:05:28,089
+<i>At the end of the conference,</i>
+
+1438
+01:05:28,091 --> 01:05:30,125
+<i>Jered from Tradehill threw a party</i>
+
+1439
+01:05:30,127 --> 01:05:32,294
+<i>to celebrate how far things had come.</i>
+
+1440
+01:05:32,296 --> 01:05:34,296
+You guys are hot right now.
+
+1441
+01:05:34,298 --> 01:05:35,931
+- Yup.
+- Congratulations on the raise.
+
+1442
+01:05:35,933 --> 01:05:37,499
+- Thank you.
+- It's good money, man.
+
+1443
+01:05:37,501 --> 01:05:39,501
+- Swell do.
+- Yeah.
+
+1444
+01:05:39,503 --> 01:05:43,438
+I mean-- - hopefully it's an
+advancement for the community.
+
+1445
+01:05:43,440 --> 01:05:46,341
+I am completely pro-compliance.
+
+1446
+01:05:46,343 --> 01:05:48,977
+I think if you don't want to
+attach your identity to this,
+
+1447
+01:05:48,979 --> 01:05:52,147
+- just can't work with you.
+- Yeah, so I thought I just need to--
+
+1448
+01:05:52,149 --> 01:05:54,950
+I mean the libertarian side of me is like,
+"ehh. Yeah, whatever,"
+
+1449
+01:05:54,952 --> 01:05:57,152
+but like, from a business perspective,
+
+1450
+01:05:57,154 --> 01:05:59,554
+if people don't play by the rules,
+
+1451
+01:05:59,556 --> 01:06:03,058
+- you're not gonna last.
+- Yeah, I completely agree.
+
+1452
+01:06:03,060 --> 01:06:05,620
+- You're gonna just shut down or you're gonna go to jail.
+- Yeah.
+
+1453
+01:06:06,162 --> 01:06:08,196
+<i>Noticeably absent from the conference</i>
+
+1454
+01:06:08,198 --> 01:06:09,798
+<i>were representatives of Bitcoin's</i>
+
+1455
+01:06:09,800 --> 01:06:12,500
+<i>biggest exchange, Mt. Gox.</i>
+
+1456
+01:06:12,502 --> 01:06:15,971
+<i>Just days earlier the department
+of homeland security</i>
+
+1457
+01:06:15,973 --> 01:06:18,873
+<i>seized more than $5 million
+from their U.S. accounts.</i>
+
+1458
+01:06:20,376 --> 01:06:22,877
+<i>The seizure warrant stated that Mt.
+Gox had failed</i>
+
+1459
+01:06:22,879 --> 01:06:24,779
+<i>to register as a money transmitter,</i>
+
+1460
+01:06:24,781 --> 01:06:27,615
+<i>putting them in violation of the
+new FinCEN guidelines.</i>
+
+1461
+01:06:34,090 --> 01:06:37,292
+<i>I'm traveling to Tokyo to
+meet Mark Karpeles,</i>
+
+1462
+01:06:37,294 --> 01:06:39,227
+<i>Mt. Gox's reclusive C.E.O.</i>
+
+1463
+01:06:42,465 --> 01:06:44,165
+No Bitcoins on here.
+
+1464
+01:06:45,167 --> 01:06:47,836
+Not yet.
+
+1465
+01:06:47,838 --> 01:06:50,138
+<i>That will make this completely unnecessary.</i>
+
+1466
+01:06:50,140 --> 01:06:51,840
+<i>But for now it seems kind of primitive</i>
+
+1467
+01:06:51,842 --> 01:06:53,608
+that we're exchanging paper for paper.
+
+1468
+01:06:54,978 --> 01:06:58,013
+- <i> And losing.</i>
+- And losing value.
+
+1469
+01:06:58,015 --> 01:07:00,915
+Someone's taking a cut.
+Someone's taking a little percent.
+
+1470
+01:07:00,917 --> 01:07:04,252
+<i>Mark and his business partner Gonzague</i>
+
+1471
+01:07:04,254 --> 01:07:08,356
+<i>are French but they operate Mt.
+Gox from offices in Japan.</i>
+
+1472
+01:07:08,358 --> 01:07:12,327
+<i>Originally Mt. Gox was an
+exchange for trading cards</i>
+
+1473
+01:07:12,329 --> 01:07:15,196
+<i>- used in a game called
+- The Gathering."</i>
+
+1474
+01:07:15,198 --> 01:07:17,699
+<i>M.T.G.O.X. Stood for</i>
+
+1475
+01:07:17,701 --> 01:07:20,602
+<i>ic: The Gathering online exchange."</i>
+
+1476
+01:07:20,604 --> 01:07:23,805
+<i>In 2011 Mark's company Tibanne</i>
+
+1477
+01:07:23,807 --> 01:07:27,442
+<i>bought Mt. Gox, and his focus has
+been Bitcoin ever since.</i>
+
+1478
+01:07:31,013 --> 01:07:32,981
+<i>One of the conditions of my visit</i>
+
+1479
+01:07:32,983 --> 01:07:34,349
+<i>is to refrain from any discussion</i>
+
+1480
+01:07:34,351 --> 01:07:35,784
+<i>about the D.H.S. Seizure,</i>
+
+1481
+01:07:35,786 --> 01:07:37,519
+<i>due to the ongoing investigation.</i>
+
+1482
+01:07:39,655 --> 01:07:42,357
+<i>We've arrived at Mt. Gox.</i>
+
+1483
+01:07:42,359 --> 01:07:44,092
+This is Mt. Gox right here.
+
+1484
+01:07:44,094 --> 01:07:47,362
+There's no big sign or anything, no-- no--
+
+1485
+01:07:47,364 --> 01:07:51,699
+It doesn't look like a crazy
+commercial establishment.
+
+1486
+01:07:51,701 --> 01:07:54,169
+<i>Despite their legal problems</i>
+
+1487
+01:07:54,171 --> 01:07:57,272
+<i>Mt. Gox still handles more volume
+than any other exchange</i>
+
+1488
+01:07:57,274 --> 01:07:59,107
+<i>and is processing around</i>
+
+1489
+01:07:59,109 --> 01:08:02,277
+<i>$6 million worth of Bitcoin
+trades every day.</i>
+
+1490
+01:08:02,279 --> 01:08:04,846
+We had, last year, an average
+of 10,000 new customers a month.
+
+1491
+01:08:04,848 --> 01:08:06,748
+January, it was 20,000.
+
+1492
+01:08:06,750 --> 01:08:08,683
+Then 30,000, 60,000,
+
+1493
+01:08:08,685 --> 01:08:10,351
+150,000.
+
+1494
+01:08:10,353 --> 01:08:13,054
+With what's going on, we go down,
+
+1495
+01:08:13,056 --> 01:08:15,890
+but we are reaching 100,000 new customers
+
+1496
+01:08:15,892 --> 01:08:17,992
+- for may.
+- That's amazing.
+
+1497
+01:08:17,994 --> 01:08:19,561
+- In a month?
+- In a month.
+
+1498
+01:08:19,563 --> 01:08:20,829
+- Wow.
+- So it was like this...
+
+1499
+01:08:20,831 --> 01:08:21,996
+Zip, bup!
+
+1500
+01:08:21,998 --> 01:08:23,832
+But still, after what happened
+
+1501
+01:08:23,834 --> 01:08:25,800
+I thought that a lot of people will go away
+
+1502
+01:08:25,802 --> 01:08:28,736
+or don't create a new account.
+
+1503
+01:08:28,738 --> 01:08:30,405
+But still, 100,000 new customers
+
+1504
+01:08:30,407 --> 01:08:31,806
+it's... wow.
+
+1505
+01:08:31,808 --> 01:08:33,541
+And here we've got the office.
+
+1506
+01:08:42,585 --> 01:08:45,253
+<i>Mt. Gox employs 18 people</i>
+
+1507
+01:08:45,255 --> 01:08:47,622
+<i>not only is Mark the C.E.O.,</i>
+
+1508
+01:08:47,624 --> 01:08:50,492
+<i>he's also the C.F.O., the lead developer</i>
+
+1509
+01:08:50,494 --> 01:08:54,162
+<i>and performs all technical operations
+to keep the exchange running.</i>
+
+1510
+01:08:55,332 --> 01:08:56,965
+- C++.
+- <i> C++.</i>
+
+1511
+01:08:56,967 --> 01:08:58,633
+<i>Is that your main-- Is that your main</i>
+
+1512
+01:08:58,635 --> 01:08:59,868
+- <i> programming language?</i>
+- No.
+
+1513
+01:08:59,870 --> 01:09:02,203
+I've got a lot of main
+programming languages.
+
+1514
+01:09:02,205 --> 01:09:03,972
+<i>Yeah? What's your favorite
+programming language?</i>
+
+1515
+01:09:03,974 --> 01:09:05,540
+Really depend on what I need to do.
+
+1516
+01:09:05,542 --> 01:09:06,941
+I create a good something really quick
+
+1517
+01:09:06,943 --> 01:09:08,810
+and I don't care about performance,
+
+1518
+01:09:08,812 --> 01:09:10,011
+I use P.H.P.
+
+1519
+01:09:10,013 --> 01:09:11,846
+If I care a little bit about performance,
+
+1520
+01:09:11,848 --> 01:09:14,149
+I will use c++ with Q.T. Available.
+
+1521
+01:09:14,151 --> 01:09:17,085
+And if I care a lot about performance,
+I will use Axum.
+
+1522
+01:09:21,524 --> 01:09:23,892
+When we go in, cameras down first,
+
+1523
+01:09:23,894 --> 01:09:26,060
+- until we get to your servers and then back up.
+- Exactly.
+
+1524
+01:09:26,062 --> 01:09:27,562
+Okay.
+
+1525
+01:09:34,103 --> 01:09:37,939
+Getting ready to go into the Mt.
+Gox data center location.
+
+1526
+01:09:37,941 --> 01:09:39,407
+Okay, cameras down.
+
+1527
+01:09:43,245 --> 01:09:45,513
+<i>We were allowed to snap a few photographs</i>
+
+1528
+01:10:22,952 --> 01:10:24,485
+<i>If Mt. Gox's new trading engine</i>
+
+1529
+01:10:24,487 --> 01:10:27,689
+<i>can really support 100 million
+orders per second,</i>
+
+1530
+01:10:27,691 --> 01:10:30,758
+<i>it should be able to scale with the
+demands of professional traders.</i>
+
+1531
+01:10:30,760 --> 01:10:34,162
+<i>But with complex legal problems
+and increasing competition,</i>
+
+1532
+01:10:34,164 --> 01:10:36,364
+<i>Mark's attention is pulled
+in many directions.</i>
+
+1533
+01:10:47,176 --> 01:10:49,277
+Do you work seven days a week, typically?
+
+1534
+01:10:49,279 --> 01:10:51,946
+- Yup.
+- It seems that you do
+
+1535
+01:10:51,948 --> 01:10:53,848
+the majority of all the heavy lifting.
+
+1536
+01:10:53,850 --> 01:10:56,751
+- Literally.
+- Yeah.
+
+1537
+01:10:56,753 --> 01:11:00,288
+You need to remove your
+shoes in the entrance.
+
+1538
+01:11:03,292 --> 01:11:05,126
+<i>Mark is a talented man</i>
+
+1539
+01:11:05,128 --> 01:11:07,428
+<i>in one of the world's biggest cities...</i>
+
+1540
+01:11:07,430 --> 01:11:10,498
+<i>But maybe he should stick to
+computer keyboards.</i>
+
+1541
+01:11:22,478 --> 01:11:24,212
+Okay, I messed it up.
+
+1542
+01:11:30,719 --> 01:11:32,253
+- Awesome.
+- <i> Yay.</i>
+
+1543
+01:11:32,255 --> 01:11:33,655
+Yeah.
+
+1544
+01:11:49,605 --> 01:11:51,806
+Erik Voorhees. <i>We are here in
+northern New Hampshire</i>
+
+1545
+01:11:51,808 --> 01:11:53,508
+for the porcupine freedom festival.
+
+1546
+01:11:53,510 --> 01:11:55,510
+And this is an event put on each year
+
+1547
+01:11:55,512 --> 01:11:56,878
+<i>by the free state project.</i>
+
+1548
+01:11:58,681 --> 01:12:01,816
+<i>Basically it's just a bunch of
+crazy anarcho-capitalists,</i>
+
+1549
+01:12:01,818 --> 01:12:03,751
+<i>libertarian types in the woods,</i>
+
+1550
+01:12:03,753 --> 01:12:06,120
+<i>with freedom and families.</i>
+
+1551
+01:12:06,122 --> 01:12:08,890
+<i>Pretty much all of the vendors
+accept Bitcoin.</i>
+
+1552
+01:12:12,161 --> 01:12:14,262
+Ahh!
+
+1553
+01:12:14,264 --> 01:12:16,264
+It tastes much better
+when bought with Bitcoin.
+
+1554
+01:12:16,266 --> 01:12:17,565
+Thanks, guys.
+
+1555
+01:12:18,934 --> 01:12:21,602
+Soups, salads and smoothies.
+
+1556
+01:12:21,604 --> 01:12:23,604
+I would say one-third of our sales
+
+1557
+01:12:23,606 --> 01:12:25,306
+have been in Bitcoin.
+
+1558
+01:12:25,308 --> 01:12:27,375
+It's 20 bucks. So you're
+gonna pay in Bitcoin?
+
+1559
+01:12:27,377 --> 01:12:30,111
+- Uh, yeah.
+- All right.
+
+1560
+01:12:30,113 --> 01:12:32,213
+<i>Last year was our first year accepting it</i>
+
+1561
+01:12:32,215 --> 01:12:35,783
+we did maybe 18 transactions,
+20 transactions at the most.
+
+1562
+01:12:35,785 --> 01:12:37,785
+And now we're up to close to 120.
+
+1563
+01:12:49,331 --> 01:12:52,333
+<i>This community is really one
+of the largest groups</i>
+
+1564
+01:12:52,335 --> 01:12:54,135
+<i>of people in the U.S., I think,</i>
+
+1565
+01:12:54,137 --> 01:12:56,971
+<i>that is truly adopting Bitcoin and
+using it as a currency,</i>
+
+1566
+01:12:56,973 --> 01:12:59,240
+<i>because of what it stands for and
+because of what it enables.</i>
+
+1567
+01:13:00,744 --> 01:13:03,144
+The world is seriously changing now
+
+1568
+01:13:03,146 --> 01:13:05,747
+and it is changing in a very interesting,
+
+1569
+01:13:05,749 --> 01:13:07,949
+<i>very radical, decentralized,</i>
+
+1570
+01:13:07,951 --> 01:13:09,471
+and, in my opinion, positive direction.
+
+1571
+01:13:10,853 --> 01:13:12,787
+Shoot. Here it is.
+
+1572
+01:13:12,789 --> 01:13:14,155
+"Price breaks the all-time high."
+
+1573
+01:13:15,858 --> 01:13:17,792
+<i>Vitalik is only 19 years old,</i>
+
+1574
+01:13:17,794 --> 01:13:19,660
+<i>but he has a profound understanding</i>
+
+1575
+01:13:19,662 --> 01:13:21,262
+<i>of the complexities of Bitcoin</i>
+
+1576
+01:13:21,264 --> 01:13:23,231
+<i>and a gift for explaining them.</i>
+
+1577
+01:13:23,233 --> 01:13:26,167
+<i>As lead writer for "Bitcoin magazine,"</i>
+
+1578
+01:13:26,169 --> 01:13:29,837
+<i>he's been traveling the world,
+covering Bitcoin for the past year.</i>
+
+1579
+01:13:29,839 --> 01:13:33,608
+I'm a big fan of the decentralization
+concept, in principle.
+
+1580
+01:13:33,610 --> 01:13:37,512
+You know, have lots--
+Lots of different societies
+
+1581
+01:13:37,514 --> 01:13:41,949
+operating according to whatever
+people's own beliefs are.
+
+1582
+01:13:41,951 --> 01:13:44,085
+Bitcoin has unique properties
+
+1583
+01:13:44,087 --> 01:13:46,921
+that no other system in
+the world has had before.
+
+1584
+01:13:46,923 --> 01:13:50,691
+It really seems like the
+only practical way forward.
+
+1585
+01:13:50,693 --> 01:13:53,094
+As you move away from cash
+
+1586
+01:13:53,096 --> 01:13:55,663
+into your debit cards and your credit cards,
+
+1587
+01:13:55,665 --> 01:13:56,631
+you essentially are giving up
+
+1588
+01:13:56,633 --> 01:13:58,433
+a certain degree of your privacy
+
+1589
+01:13:58,435 --> 01:14:00,067
+without even really knowing it.
+
+1590
+01:14:00,069 --> 01:14:01,769
+<i>It's important to understand
+that Bitcoin is not</i>
+
+1591
+01:14:01,771 --> 01:14:04,071
+automatically, perfectly anonymous.
+
+1592
+01:14:04,073 --> 01:14:07,675
+But what it does is it enables you
+to be anonymous if you wish to.
+
+1593
+01:14:07,677 --> 01:14:10,578
+<i>Erik Voorhees is the founder and part owner</i>
+
+1594
+01:14:10,580 --> 01:14:12,513
+<i>of a hugely popular Bitcoin gambling site</i>
+
+1595
+01:14:12,515 --> 01:14:13,981
+<i>called Satoshi Dice.</i>
+
+1596
+01:14:15,250 --> 01:14:17,485
+<i>Satoshi Dice is the first of a new breed</i>
+
+1597
+01:14:17,487 --> 01:14:18,853
+<i>of provably fair betting games</i>
+
+1598
+01:14:18,855 --> 01:14:20,421
+<i>that use Bitcoin.</i>
+
+1599
+01:14:20,423 --> 01:14:22,490
+<i>Since all bets are public,</i>
+
+1600
+01:14:22,492 --> 01:14:25,726
+<i>anyone can verify the odds and payouts.</i>
+
+1601
+01:14:25,728 --> 01:14:28,463
+<i>At its peak, Satoshi Dice was responsible</i>
+
+1602
+01:14:28,465 --> 01:14:30,064
+<i>for more Bitcoin transactions</i>
+
+1603
+01:14:30,066 --> 01:14:33,501
+<i>than all other uses of Bitcoin combined.</i>
+
+1604
+01:14:33,503 --> 01:14:36,537
+<i>It played an important role in
+Bitcoin's development</i>
+
+1605
+01:14:36,539 --> 01:14:38,372
+<i>as one of the first applications</i>
+
+1606
+01:14:38,374 --> 01:14:41,309
+<i>to really test what the Bitcoin
+network could handle.</i>
+
+1607
+01:14:41,311 --> 01:14:45,313
+<i>Recently Erik moved his entire
+operations out of the U.S.</i>
+
+1608
+01:14:45,315 --> 01:14:46,948
+<i>And into Panama.</i>
+
+1609
+01:14:46,950 --> 01:14:49,116
+<i>He started a company called Coinapult</i>
+
+1610
+01:14:49,118 --> 01:14:52,386
+<i>that lets you send Bitcoin
+via s.M.S. And email.</i>
+
+1611
+01:14:52,388 --> 01:14:54,388
+I think most people,
+
+1612
+01:14:54,390 --> 01:14:55,990
+at least in America,
+
+1613
+01:14:55,992 --> 01:14:59,327
+believe that when they put
+$1,000 into their bank,
+
+1614
+01:14:59,329 --> 01:15:02,563
+the bank is holding $1,000
+in its vault for them.
+
+1615
+01:15:02,565 --> 01:15:06,000
+And they don't realize that 99%
+of all the dollars are digital.
+
+1616
+01:15:06,002 --> 01:15:08,736
+The fact that we have these
+tokens called paper cash
+
+1617
+01:15:08,738 --> 01:15:11,672
+is the exception to the rule.
+
+1618
+01:15:11,674 --> 01:15:14,775
+<i>People see the cash and they think
+that that's what the money is,</i>
+
+1619
+01:15:14,777 --> 01:15:16,944
+but it's all digital and it's
+been that way for decades.
+
+1620
+01:15:16,946 --> 01:15:18,913
+You guys moved your business to Panama.
+
+1621
+01:15:18,915 --> 01:15:20,982
+<i>What was the primary driver in that?</i>
+
+1622
+01:15:20,984 --> 01:15:22,517
+<i>If you're a U.S. company,</i>
+
+1623
+01:15:22,519 --> 01:15:25,686
+you have to follow the
+arcane U.S. regulations
+
+1624
+01:15:25,688 --> 01:15:27,421
+for all of your customers around the world.
+
+1625
+01:15:27,423 --> 01:15:29,490
+So if you do business with
+some rural farmer in Africa,
+
+1626
+01:15:29,492 --> 01:15:31,626
+you're gonna need to get
+his social security number,
+
+1627
+01:15:31,628 --> 01:15:33,027
+you're gonna need to get
+all this information
+
+1628
+01:15:33,029 --> 01:15:34,762
+that Washington tells you is important.
+
+1629
+01:15:34,764 --> 01:15:36,030
+<i>We did not want to have to apply</i>
+
+1630
+01:15:36,032 --> 01:15:38,666
+<i>the U.S. financial regulatory scheme</i>
+
+1631
+01:15:38,668 --> 01:15:41,369
+<i>to customers in sub-Saharan Africa.</i>
+
+1632
+01:15:41,371 --> 01:15:42,803
+<i>I don't think the developed world's</i>
+
+1633
+01:15:42,805 --> 01:15:45,106
+gonna be where Bitcoin
+really takes off, long-term,
+
+1634
+01:15:45,108 --> 01:15:47,208
+because our banking system's
+worked decently well.
+
+1635
+01:15:47,210 --> 01:15:48,809
+<i>Many people around the world</i>
+
+1636
+01:15:48,811 --> 01:15:50,611
+<i>don't have any bank accounts whatsoever.</i>
+
+1637
+01:15:50,613 --> 01:15:51,979
+Ultimately, those are the types of people
+
+1638
+01:15:51,981 --> 01:15:53,814
+who will find the most value out of Bitcoin.
+
+1639
+01:15:59,187 --> 01:16:01,088
+<i>One month later Erik announced</i>
+
+1640
+01:16:01,090 --> 01:16:03,958
+<i>he had sold Satoshi dice to
+an anonymous investor.</i>
+
+1641
+01:16:03,960 --> 01:16:05,593
+<i>The price?</i>
+
+1642
+01:16:05,595 --> 01:16:09,564
+<i>126,315 Bitcoins,</i>
+
+1643
+01:16:09,566 --> 01:16:13,334
+<i>worth around $11.5 million.</i>
+
+1644
+01:16:13,336 --> 01:16:16,771
+Most of the new offices in this
+city are in this condition,
+
+1645
+01:16:16,773 --> 01:16:18,472
+all still what's called "gray."
+
+1646
+01:16:18,474 --> 01:16:20,942
+Not ready, no Internet,
+no electricity-- nothing.
+
+1647
+01:16:20,944 --> 01:16:22,910
+But we actually got one that was finished,
+
+1648
+01:16:22,912 --> 01:16:25,880
+<i>so we moved in and we are
+super excited about it.</i>
+
+1649
+01:16:26,949 --> 01:16:29,050
+You can see all the skyscrapers
+
+1650
+01:16:29,052 --> 01:16:31,619
+of new banks and everything
+getting built up here.
+
+1651
+01:16:31,621 --> 01:16:34,589
+This is the financial
+center for central America.
+
+1652
+01:16:34,591 --> 01:16:37,959
+So it was fitting that we
+establish ourselves here as well.
+
+1653
+01:16:40,262 --> 01:16:41,329
+Still setting up the office.
+
+1654
+01:16:41,331 --> 01:16:43,431
+We've been here for two weeks.
+
+1655
+01:16:43,433 --> 01:16:44,832
+We're getting walls put in.
+
+1656
+01:16:44,834 --> 01:16:46,567
+We've got furniture.
+
+1657
+01:16:46,569 --> 01:16:48,836
+<i>This is the brains of the operation.</i>
+
+1658
+01:16:48,838 --> 01:16:51,305
+- <i> This is Mr. Ira.</i>
+- Howdy.
+
+1659
+01:16:51,307 --> 01:16:54,241
+He can program anything, and you can
+see all these books he's reading.
+
+1660
+01:16:54,243 --> 01:16:57,645
+What have we got here?
+We've got "cryptanalysis."
+
+1661
+01:16:57,647 --> 01:16:59,647
+We've got "everyday cryptography,"
+
+1662
+01:16:59,649 --> 01:17:03,351
+"introduction to mathematical cryptography."
+
+1663
+01:17:03,353 --> 01:17:05,753
+I read all of these, of course,
+when I was much younger,
+
+1664
+01:17:05,755 --> 01:17:07,722
+but Ira's trying to catch up with me.
+
+1665
+01:17:13,328 --> 01:17:15,329
+<i>The Bitcoin phenomenon is trying</i>
+
+1666
+01:17:15,331 --> 01:17:17,331
+<i>to take control of money away</i>
+
+1667
+01:17:17,333 --> 01:17:19,767
+<i>from the state and return it to individuals.</i>
+
+1668
+01:17:19,769 --> 01:17:21,335
+It's trying to separate money and state
+
+1669
+01:17:21,337 --> 01:17:23,337
+in the same way and for the same reasons
+
+1670
+01:17:23,339 --> 01:17:25,439
+<i>that it was important to
+separate church and state.</i>
+
+1671
+01:17:25,441 --> 01:17:29,076
+<i>There's a wonderful quote from
+one of the Rothschilds--</i>
+
+1672
+01:17:29,078 --> 01:17:30,811
+<i>"give me control of a nation's money</i>
+
+1673
+01:17:30,813 --> 01:17:32,913
+<i>and I care not who makes its laws."</i>
+
+1674
+01:17:32,915 --> 01:17:35,216
+<i>So I'm trying to play my part
+in that narrative.</i>
+
+1675
+01:17:36,785 --> 01:17:38,319
+<i>Outside of the United States,</i>
+
+1676
+01:17:38,321 --> 01:17:40,287
+<i>billions of people don't have access</i>
+
+1677
+01:17:40,289 --> 01:17:42,256
+<i>to basic banking services.</i>
+
+1678
+01:17:42,258 --> 01:17:44,158
+<i>Bitcoin can level the playing field</i>
+
+1679
+01:17:44,160 --> 01:17:45,459
+<i>and help bring developing nations</i>
+
+1680
+01:17:45,461 --> 01:17:46,861
+<i>into the global economy.</i>
+
+1681
+01:17:54,803 --> 01:17:56,270
+Cheers, cheers.
+
+1682
+01:17:59,141 --> 01:18:01,542
+<i>Eventually people are going
+to use a currency</i>
+
+1683
+01:18:01,544 --> 01:18:03,310
+<i>that is as free as the Internet</i>
+
+1684
+01:18:03,312 --> 01:18:05,813
+<i>because people will seek out
+freedom wherever they can.</i>
+
+1685
+01:18:05,815 --> 01:18:07,948
+<i>And just as the government
+can't stop the Internet</i>
+
+1686
+01:18:07,950 --> 01:18:11,285
+<i>and the freedom of speech, it can't stop
+Bitcoin and the freedom of money.</i>
+
+1687
+01:18:11,287 --> 01:18:14,121
+<i>So we're just gonna have to see
+how hard they try to do it.</i>
+
+1688
+01:18:14,123 --> 01:18:15,923
+It's scary but it's exciting,
+
+1689
+01:18:15,925 --> 01:18:18,659
+because at the other end
+freedom typically wins.
+
+1690
+01:18:18,661 --> 01:18:20,961
+<i>We just have see how long it
+takes to get there.</i>
+
+1691
+01:18:40,649 --> 01:18:42,850
+<i>As summer rolled on,</i>
+
+1692
+01:18:42,852 --> 01:18:45,586
+<i>the Bitcoin industry continued to flourish.</i>
+
+1693
+01:18:45,588 --> 01:18:46,954
+It's hard to remember the days where I was
+
+1694
+01:18:46,956 --> 01:18:48,589
+running this thing out of my basement
+
+1695
+01:18:48,591 --> 01:18:49,857
+and with one or two people.
+
+1696
+01:18:49,859 --> 01:18:52,793
+Bitlnstant was just a domain name.
+
+1697
+01:18:52,795 --> 01:18:54,428
+<i>Charlie and Bitlnstant</i>
+
+1698
+01:18:54,430 --> 01:18:56,030
+<i>moved into their new offices</i>
+
+1699
+01:18:56,032 --> 01:18:58,265
+I always wonder if Satoshi knew
+
+1700
+01:18:58,267 --> 01:19:00,634
+that he was gonna build
+something that would foster
+
+1701
+01:19:00,636 --> 01:19:02,803
+companies like this,
+
+1702
+01:19:02,805 --> 01:19:05,573
+<i>where we're actually like
+a company with jobs</i>
+
+1703
+01:19:05,575 --> 01:19:08,476
+based on something that someone
+we don't know wrote a paper on.
+
+1704
+01:19:08,478 --> 01:19:10,344
+It's kind of creepy if you think about it.
+
+1705
+01:19:10,346 --> 01:19:12,847
+I wonder if he's watching
+us right now or something.
+
+1706
+01:19:14,382 --> 01:19:15,816
+<i>In San Francisco,</i>
+
+1707
+01:19:15,818 --> 01:19:17,651
+<i>Jered and Tradehill had moved</i>
+
+1708
+01:19:17,653 --> 01:19:20,121
+<i>into their new space as well.</i>
+
+1709
+01:19:20,123 --> 01:19:22,456
+It sounds funny. It's not a
+$100-million Market anymore.
+
+1710
+01:19:22,458 --> 01:19:24,058
+It's grown beyond that.
+
+1711
+01:19:24,060 --> 01:19:26,560
+<i>More professional people are in the space</i>
+
+1712
+01:19:26,562 --> 01:19:29,163
+and they're expecting to deal
+with other professionals.
+
+1713
+01:19:29,165 --> 01:19:31,265
+<i>But just as things were ramping up,</i>
+
+1714
+01:19:31,267 --> 01:19:33,968
+<i>regulators started taking a
+closer look at Bitcoin.</i>
+
+1715
+01:19:36,104 --> 01:19:38,773
+Some bad news for Bitcoin, or is it?
+
+1716
+01:19:38,775 --> 01:19:40,608
+Its days of glory could be ending.
+
+1717
+01:19:40,610 --> 01:19:42,042
+At least two dozen companies
+
+1718
+01:19:42,044 --> 01:19:43,577
+have been subpoenaed by New York's
+
+1719
+01:19:43,579 --> 01:19:45,412
+department of financial services.
+
+1720
+01:19:45,414 --> 01:19:46,814
+Can't be a good thing.
+
+1721
+01:19:46,816 --> 01:19:50,251
+<i>Bitlnstant, BitPay, Coinbase</i>
+
+1722
+01:19:50,253 --> 01:19:53,921
+<i>and Winklevoss capital were
+all issued subpoenas.</i>
+
+1723
+01:19:53,923 --> 01:19:56,157
+We want to make sure that
+as this enterprise grows
+
+1724
+01:19:56,159 --> 01:19:58,125
+and if it does become a place where
+
+1725
+01:19:58,127 --> 01:20:00,427
+a lot of people are engaging
+in financial transactions
+
+1726
+01:20:00,429 --> 01:20:03,264
+that we have sufficient
+protections in place.
+
+1727
+01:20:03,266 --> 01:20:05,933
+<i>With increased pressure in
+banking compliance issues,</i>
+
+1728
+01:20:05,935 --> 01:20:08,736
+<i>Bitlnstant was forced to suspend services.</i>
+
+1729
+01:20:15,744 --> 01:20:17,745
+<i>Jered faced similar battles.</i>
+
+1730
+01:20:17,747 --> 01:20:20,080
+<i>Due to a lack of regulation,</i>
+
+1731
+01:20:20,082 --> 01:20:23,717
+<i>many banks decided to cut ties
+with Bitcoin companies.</i>
+
+1732
+01:20:23,719 --> 01:20:25,653
+<i>Without a U.S. bank account</i>
+
+1733
+01:20:25,655 --> 01:20:27,555
+<i>Tradehill can't operate,</i>
+
+1734
+01:20:27,557 --> 01:20:29,156
+<i>and Jered was forced to pull the plug.</i>
+
+1735
+01:20:34,095 --> 01:20:36,797
+Regulation typically evolves
+
+1736
+01:20:36,799 --> 01:20:38,966
+much more slowly than innovation.
+
+1737
+01:20:38,968 --> 01:20:41,101
+And regulations cannot keep pace
+
+1738
+01:20:41,103 --> 01:20:42,369
+with the pace of innovation.
+
+1739
+01:20:43,772 --> 01:20:45,472
+<i>Explaining Bitcoin to a bank</i>
+
+1740
+01:20:45,474 --> 01:20:47,174
+feels like explaining Amazon. Com
+
+1741
+01:20:47,176 --> 01:20:49,076
+to Barnes & noble.
+
+1742
+01:20:49,078 --> 01:20:51,212
+<i>Until lawmakers catch up,</i>
+
+1743
+01:20:51,214 --> 01:20:53,214
+<i>startups like Tradehill and Bitlnstant</i>
+
+1744
+01:20:53,216 --> 01:20:54,548
+<i>are left out on a limb.</i>
+
+1745
+01:20:56,384 --> 01:20:59,887
+Banks do not want to bank Bitcoin companies.
+
+1746
+01:20:59,889 --> 01:21:01,622
+When you have regulation,
+you can comply with it.
+
+1747
+01:21:01,624 --> 01:21:04,525
+When you don't have any regulation,
+they're not exactly sure.
+
+1748
+01:21:04,527 --> 01:21:07,561
+And if the banks aren't sure,
+they just default to "no."
+
+1749
+01:21:07,563 --> 01:21:11,365
+New regulation takes at
+least one year to develop
+
+1750
+01:21:11,367 --> 01:21:13,234
+propose and adopt.
+
+1751
+01:21:13,236 --> 01:21:14,635
+And in many cases,
+
+1752
+01:21:14,637 --> 01:21:16,103
+it can take much longer than that.
+
+1753
+01:21:18,740 --> 01:21:20,741
+<i>I won't let this go.</i>
+
+1754
+01:21:20,743 --> 01:21:23,210
+<i>I will fight till the end for Bitcoin.</i>
+
+1755
+01:21:23,212 --> 01:21:25,546
+Whether I have to work on
+the street or sell lemonade,
+
+1756
+01:21:25,548 --> 01:21:27,281
+Bitcoin's gonna succeed one way or another
+
+1757
+01:21:27,283 --> 01:21:28,483
+and I'm gonna be a part of it.
+
+1758
+01:21:35,223 --> 01:21:37,091
+<i>Over the past several months</i>
+
+1759
+01:21:37,093 --> 01:21:40,060
+<i>the Bitcoin mining landscape has
+changed significantly</i>
+
+1760
+01:21:46,601 --> 01:21:48,168
+<i>When I started,</i>
+
+1761
+01:21:48,170 --> 01:21:50,271
+<i>Bitcoin mining was a hobby for geeks.</i>
+
+1762
+01:21:50,273 --> 01:21:52,339
+<i>Now it's big business.</i>
+
+1763
+01:21:52,341 --> 01:21:54,308
+<i>In order to continue mining</i>
+
+1764
+01:21:54,310 --> 01:21:55,843
+and continue playing in the game
+
+1765
+01:21:55,845 --> 01:21:57,244
+and be competitive and be profitable,
+
+1766
+01:21:57,246 --> 01:21:58,913
+<i>I would have to spend</i>
+
+1767
+01:21:58,915 --> 01:22:00,681
+<i>hundreds of thousands of dollars on gear.</i>
+
+1768
+01:22:02,284 --> 01:22:04,251
+<i>The 18 miners I ordered from Avalon</i>
+
+1769
+01:22:04,253 --> 01:22:06,020
+<i>never arrived.</i>
+
+1770
+01:22:06,022 --> 01:22:08,155
+<i>And the units from butterfly labs</i>
+
+1771
+01:22:08,157 --> 01:22:10,190
+<i>took over a year to ship.</i>
+
+1772
+01:22:10,192 --> 01:22:12,326
+<i>By the time I got them,</i>
+
+1773
+01:22:12,328 --> 01:22:14,428
+<i>Bitcoin mining was so competitive,</i>
+
+1774
+01:22:14,430 --> 01:22:15,930
+<i>that I would never be able to mine back</i>
+
+1775
+01:22:15,932 --> 01:22:18,465
+<i>all the coins I used to buy them.</i>
+
+1776
+01:22:18,467 --> 01:22:20,768
+See that computer?
+That computer makes Bitcoins.
+
+1777
+01:22:20,770 --> 01:22:24,538
+And this is all the other computers
+that are making Bitcoins too,
+
+1778
+01:22:24,540 --> 01:22:27,741
+<i>and it goes straight up in a
+line up in the air.</i>
+
+1779
+01:22:27,743 --> 01:22:29,076
+And that's 'cause there's a lot people
+
+1780
+01:22:29,078 --> 01:22:31,979
+that are making Bitcoins
+with computers like that.
+
+1781
+01:22:31,981 --> 01:22:33,948
+<i>As my new units are arriving,</i>
+
+1782
+01:22:33,950 --> 01:22:35,549
+<i>I'm selling them for Bitcoins</i>
+
+1783
+01:22:35,551 --> 01:22:36,984
+<i>to try to recoup what I can.</i>
+
+1784
+01:22:36,986 --> 01:22:38,752
+If you don't mind grabbing
+those other cables,
+
+1785
+01:22:38,754 --> 01:22:40,521
+- I'm not coming back up.
+- <i> Okay.</i>
+
+1786
+01:22:41,957 --> 01:22:43,477
+<i>I'm taking a pretty big hit...</i>
+
+1787
+01:22:44,592 --> 01:22:46,260
+<i>But overall the mining experience</i>
+
+1788
+01:22:46,262 --> 01:22:47,528
+<i>has still been worth it.</i>
+
+1789
+01:22:51,833 --> 01:22:53,600
+<i>My mining days may be over,</i>
+
+1790
+01:22:53,602 --> 01:22:55,803
+<i>but I'm still very involved with Bitcoin.</i>
+
+1791
+01:22:55,805 --> 01:22:57,972
+With Bitcoin, it's a money system where
+
+1792
+01:22:57,974 --> 01:23:01,041
+it's backed by math.
+It's back by the laws of mathematics
+
+1793
+01:23:01,043 --> 01:23:02,743
+and by the rules of the protocol.
+
+1794
+01:23:02,745 --> 01:23:04,745
+I keep thinking that there's
+gotta be an easier way
+
+1795
+01:23:04,747 --> 01:23:06,447
+to just set up a secondary protocol
+
+1796
+01:23:06,449 --> 01:23:08,415
+to trade private keys.
+
+1797
+01:23:08,417 --> 01:23:10,751
+Every time I log on,
+I see another dot on China
+
+1798
+01:23:10,753 --> 01:23:13,420
+and I'm like, this is why right
+now the price has gone up.
+
+1799
+01:23:13,422 --> 01:23:16,557
+<i>The price is nearing 150 again.</i>
+
+1800
+01:23:16,559 --> 01:23:18,492
+<i>Many attribute it to the explosion</i>
+
+1801
+01:23:18,494 --> 01:23:20,894
+<i>of Bitcoin's popularity in China.</i>
+
+1802
+01:23:20,896 --> 01:23:22,663
+What's happened recently is Chinese people
+
+1803
+01:23:22,665 --> 01:23:23,998
+have really come and adopted Bitcoin.
+
+1804
+01:23:24,000 --> 01:23:26,834
+<i>As a culture, as a nation</i>
+
+1805
+01:23:26,836 --> 01:23:28,836
+<i>Chinese people are keen to learn about</i>
+
+1806
+01:23:28,838 --> 01:23:30,871
+<i>things that are on the Internet,</i>
+
+1807
+01:23:30,873 --> 01:23:32,606
+<i>things that involve math and science.</i>
+
+1808
+01:23:32,608 --> 01:23:35,409
+<i>We think that China can really
+contribute in this space</i>
+
+1809
+01:23:35,411 --> 01:23:37,644
+and help bring Bitcoin to the mainstream.
+
+1810
+01:23:37,646 --> 01:23:39,780
+<i>Germany's another part of the world</i>
+
+1811
+01:23:39,782 --> 01:23:41,415
+<i>where Bitcoin has found a home.</i>
+
+1812
+01:23:41,417 --> 01:23:43,884
+<i>It's starting to get normal
+if one person a day</i>
+
+1813
+01:23:43,886 --> 01:23:46,286
+<i>comes in and buys a coffee with Bitcoins.</i>
+
+1814
+01:23:46,288 --> 01:23:49,223
+People are looking for a new way of paying--
+
+1815
+01:23:49,225 --> 01:23:50,824
+Not through banks, not with Euros,
+
+1816
+01:23:50,826 --> 01:23:52,066
+not with dollars. Something new.
+
+1817
+01:23:53,795 --> 01:23:55,829
+<i>The German ministry of finance</i>
+
+1818
+01:23:55,831 --> 01:23:57,931
+<i>even became the first governing body</i>
+
+1819
+01:23:57,933 --> 01:24:00,567
+<i>to officially classify Bitcoin as
+"private money."</i>
+
+1820
+01:24:00,569 --> 01:24:02,703
+I believe if we want to get
+
+1821
+01:24:02,705 --> 01:24:04,772
+some justice back into our society,
+
+1822
+01:24:04,774 --> 01:24:07,741
+<i>we should reduce the
+importance of the banks.</i>
+
+1823
+01:24:07,743 --> 01:24:10,778
+<i>Bitcoin is banking without banks,</i>
+
+1824
+01:24:10,780 --> 01:24:11,780
+so here we go.
+
+1825
+01:24:15,083 --> 01:24:17,885
+The FBI today shut down what it's calling
+
+1826
+01:24:17,887 --> 01:24:20,187
+the most sophisticated Internet site
+
+1827
+01:24:20,189 --> 01:24:22,456
+<i>in the business of selling hard drugs,</i>
+
+1828
+01:24:22,458 --> 01:24:25,225
+<i>including heroin, cocaine and LSD.</i>
+
+1829
+01:24:25,227 --> 01:24:26,727
+<i>In the Sci-Fi section</i>
+
+1830
+01:24:26,729 --> 01:24:28,796
+<i>of a San Francisco public library,</i>
+
+1831
+01:24:28,798 --> 01:24:30,964
+<i>undercover agents surprised a young man</i>
+
+1832
+01:24:30,966 --> 01:24:33,467
+<i>quietly working on his laptop.</i>
+
+1833
+01:24:33,469 --> 01:24:36,236
+<i>They arrested a 29-year-old
+software engineer</i>
+
+1834
+01:24:36,238 --> 01:24:38,205
+<i>named Ross Albrecht</i>
+
+1835
+01:24:38,207 --> 01:24:40,140
+<i>and accused him of being the mastermind</i>
+
+1836
+01:24:40,142 --> 01:24:42,609
+<i>behind the silk road.</i>
+
+1837
+01:24:42,611 --> 01:24:44,311
+People have always tied the silk road to it.
+
+1838
+01:24:44,313 --> 01:24:46,213
+Media has always tied the silk road to it,
+
+1839
+01:24:46,215 --> 01:24:49,716
+as if silk road is Bitcoin, but it's not.
+
+1840
+01:24:49,718 --> 01:24:52,619
+<i>This may be a sign that
+Bitcoin is growing up.</i>
+
+1841
+01:24:52,621 --> 01:24:54,655
+It's funny. My friend
+just I.M.'D me and said,
+
+1842
+01:24:54,657 --> 01:24:55,989
+"silk road got raided
+
+1843
+01:24:55,991 --> 01:24:59,393
+and the government seized
+$3.6 million in Bitcoin.
+
+1844
+01:24:59,395 --> 01:25:02,262
+Is there a way to invalidate Bitcoins?"
+
+1845
+01:25:02,264 --> 01:25:04,131
+I replied, "no."
+
+1846
+01:25:11,573 --> 01:25:13,107
+People are starting to finally realize
+
+1847
+01:25:13,109 --> 01:25:15,909
+that Bitcoin has nothing to
+do with how people use it.
+
+1848
+01:25:15,911 --> 01:25:17,411
+It's just money. It's like gold.
+
+1849
+01:25:19,080 --> 01:25:20,781
+<i>Of course, not everyone thinks</i>
+
+1850
+01:25:20,783 --> 01:25:23,016
+<i>Bitcoin is the way of the future.</i>
+
+1851
+01:25:23,018 --> 01:25:24,751
+<i>Bitcoin will not be able</i>
+
+1852
+01:25:24,753 --> 01:25:27,554
+<i>to survive or thrive</i>
+
+1853
+01:25:27,556 --> 01:25:30,290
+without becoming legitimate.
+
+1854
+01:25:30,292 --> 01:25:31,558
+I don't see it
+
+1855
+01:25:31,560 --> 01:25:33,827
+having a serious place
+
+1856
+01:25:33,829 --> 01:25:34,995
+in our financial system.
+
+1857
+01:25:36,197 --> 01:25:37,431
+<i>There are really good reasons</i>
+
+1858
+01:25:37,433 --> 01:25:39,733
+<i>why we have central banks</i>
+
+1859
+01:25:39,735 --> 01:25:42,636
+<i>that have the power to put
+out financial fires</i>
+
+1860
+01:25:42,638 --> 01:25:44,104
+<i>by printing money.</i>
+
+1861
+01:25:44,106 --> 01:25:47,474
+I'm worried about the technology.
+
+1862
+01:25:47,476 --> 01:25:49,243
+<i>As Darth Vader once said,</i>
+
+1863
+01:25:49,245 --> 01:25:51,245
+<i>"don't put all your faith in technology."</i>
+
+1864
+01:25:51,247 --> 01:25:52,813
+<i>I think 10 years from now,</i>
+
+1865
+01:25:52,815 --> 01:25:54,915
+<i>we'll look back on this and
+just kind of chuckle</i>
+
+1866
+01:25:54,917 --> 01:25:57,284
+<i>at the Bitcoin fad.</i>
+
+1867
+01:25:57,286 --> 01:25:59,486
+"Oh yeah, I remember Bitcoin.
+
+1868
+01:25:59,488 --> 01:26:02,556
+Oh yeah, I remember that."
+
+1869
+01:26:02,558 --> 01:26:04,024
+It's financial freedom.
+
+1870
+01:26:04,026 --> 01:26:06,393
+Come on, bro. This is the new world, bro.
+
+1871
+01:26:06,395 --> 01:26:08,195
+<i>Others are more optimistic.</i>
+
+1872
+01:26:08,197 --> 01:26:09,963
+I think within 10 years,
+
+1873
+01:26:09,965 --> 01:26:12,065
+you're gonna have a lot
+of people using Bitcoin,
+
+1874
+01:26:12,067 --> 01:26:13,734
+but they're not gonna realize
+that they're using it,
+
+1875
+01:26:13,736 --> 01:26:15,802
+because it's gonna be a protocol
+that's imbedded underneath
+
+1876
+01:26:15,804 --> 01:26:17,971
+whatever financial service
+they're using today.
+
+1877
+01:26:17,973 --> 01:26:19,973
+<i>And by Bitcoin being open-source</i>
+
+1878
+01:26:19,975 --> 01:26:21,875
+<i>it's what can allow all these
+different mobile wallets</i>
+
+1879
+01:26:21,877 --> 01:26:23,443
+<i>and all these financial technologies</i>
+
+1880
+01:26:23,445 --> 01:26:24,645
+<i>to all talk to each other,</i>
+
+1881
+01:26:24,647 --> 01:26:27,047
+especially around the world.
+
+1882
+01:26:27,049 --> 01:26:28,649
+<i>Whoever the hell Satoshi was,</i>
+
+1883
+01:26:28,651 --> 01:26:31,084
+<i>he should go down in history as
+one of the greatest people</i>
+
+1884
+01:26:31,086 --> 01:26:32,719
+<i>or groups of people that ever existed.</i>
+
+1885
+01:26:32,721 --> 01:26:34,955
+This is a technology that mankind has needed
+
+1886
+01:26:34,957 --> 01:26:36,490
+for thousands of years.
+
+1887
+01:26:36,492 --> 01:26:38,825
+People have been dealing
+with monetary shenanigans
+
+1888
+01:26:38,827 --> 01:26:41,628
+since the Roman empire clipping gold coins.
+
+1889
+01:26:41,630 --> 01:26:43,897
+And finally people can escape it.
+
+1890
+01:26:43,899 --> 01:26:47,634
+I'm cautious to try to predict the future.
+
+1891
+01:26:47,636 --> 01:26:49,069
+<i>We don't really know.</i>
+
+1892
+01:26:49,071 --> 01:26:51,705
+<i>I tend to be a technological optimist.</i>
+
+1893
+01:26:51,707 --> 01:26:53,974
+I see the democratization of technology
+
+1894
+01:26:53,976 --> 01:26:55,709
+as being a really positive thing.
+
+1895
+01:26:55,711 --> 01:26:59,646
+<i>And I think that's a really powerful force</i>
+
+1896
+01:26:59,648 --> 01:27:01,515
+<i>that is really only just beginning.</i>
+
+1897
+01:27:26,007 --> 01:27:28,175
+Not bad. Oh!
+
+1898
+01:27:39,221 --> 01:27:42,356
+Recently, as the price has
+been floating around 200 again,
+
+1899
+01:27:42,358 --> 01:27:45,058
+I have a lot of friends that have asked me,
+
+1900
+01:27:45,060 --> 01:27:48,462
+"are you gonna cash out
+some of your Bitcoins now?
+
+1901
+01:27:48,464 --> 01:27:51,865
+The price is really high.
+You should get some dollars out of it."
+
+1902
+01:27:51,867 --> 01:27:54,935
+I kind of tell 'em, "no, don't you see it?"
+
+1903
+01:27:56,771 --> 01:27:58,572
+<i>I've met so many interesting people</i>
+
+1904
+01:27:58,574 --> 01:28:00,407
+and there seems to be one
+thing that kind of binds
+
+1905
+01:28:00,409 --> 01:28:02,709
+a lot of them together, and that is that
+
+1906
+01:28:02,711 --> 01:28:05,145
+they're willing to face opposition
+
+1907
+01:28:05,147 --> 01:28:07,267
+<i>and follow through on the ideas
+that they believe in.</i>
+
+1908
+01:28:08,483 --> 01:28:10,250
+<i>The people who try the crazy ideas</i>
+
+1909
+01:28:10,252 --> 01:28:12,919
+<i>often fail and then everybody likes
+to point their fingers</i>
+
+1910
+01:28:12,921 --> 01:28:15,055
+<i>and laugh and say,
+"that was such a stupid idea."</i>
+
+1911
+01:28:15,057 --> 01:28:17,557
+<i>But once in a while it works out.</i>
+
+1912
+01:28:17,559 --> 01:28:19,559
+<i>I think Bitcoin is proving to be</i>
+
+1913
+01:28:19,561 --> 01:28:20,961
+<i>one of those things.</i>
+
+1914
+01:28:28,102 --> 01:28:29,836
+The decision to bring virtual currency
+
+1915
+01:28:29,838 --> 01:28:31,938
+within the scope of our regulatory framework
+
+1916
+01:28:31,940 --> 01:28:33,073
+should be viewed as
+
+1917
+01:28:33,075 --> 01:28:34,941
+a positive development for this sector.
+
+1918
+01:28:34,943 --> 01:28:36,643
+I'm here to testify, because I believe
+
+1919
+01:28:36,645 --> 01:28:38,812
+that digital currency represents
+
+1920
+01:28:38,814 --> 01:28:40,714
+one of the most important technical
+
+1921
+01:28:40,716 --> 01:28:42,749
+and economic innovations of our time.
+
+1922
+01:28:42,751 --> 01:28:45,652
+We are enthusiastic about the potential
+
+1923
+01:28:45,654 --> 01:28:46,887
+of virtual currencies
+
+1924
+01:28:46,889 --> 01:28:48,989
+and the digital economy for social good.
+
+1925
+01:28:53,594 --> 01:28:56,196
+This latest generation of technology
+
+1926
+01:28:56,198 --> 01:28:57,731
+which we're talking about today
+
+1927
+01:28:57,733 --> 01:29:00,200
+takes things to a whole new level.
+
+1928
+01:29:00,202 --> 01:29:01,768
+There's a bit
+
+1929
+01:29:01,770 --> 01:29:03,136
+of a shared responsibility here
+
+1930
+01:29:03,138 --> 01:29:04,871
+in trying to figure out
+how to make this work.
+
+1931
+01:29:04,873 --> 01:29:07,541
+It is a little strange that Bitcoin--
+
+1932
+01:29:07,543 --> 01:29:08,809
+We don't know who the creator is
+
+1933
+01:29:08,811 --> 01:29:11,745
+and so that often
+
+1934
+01:29:11,747 --> 01:29:13,113
+conjures up the idea that there's
+
+1935
+01:29:13,115 --> 01:29:14,781
+some risk here that we have not--
+
+1936
+01:29:14,783 --> 01:29:16,183
+You don't think it was Al Gore, do you?
+
+1937
+01:29:19,787 --> 01:29:21,288
+If you think a little broadly,
+
+1938
+01:29:21,290 --> 01:29:23,757
+this could, again,
+have huge huge implications.
+
+1939
+01:29:33,935 --> 01:29:37,237
+<i>2013 was the year Bitcoin first
+entered the mainstream</i>
+
+1940
+01:29:37,239 --> 01:29:40,741
+<i>and 2014 got off to a dramatic start.</i>
+
+1941
+01:29:40,743 --> 01:29:43,243
+<i>Just as we were wrapping
+things up on our film,</i>
+
+1942
+01:29:43,245 --> 01:29:45,112
+<i>Charlie Shrem was arrested</i>
+
+1943
+01:29:45,114 --> 01:29:48,148
+<i>after returning from a Bitcoin
+conference in Amsterdam.</i>
+
+1944
+01:29:48,150 --> 01:29:51,151
+<i>He could be facing up to 30 years in prison</i>
+
+1945
+01:29:51,153 --> 01:29:53,787
+<i>on charges related to his
+activities at Bitlnstant.</i>
+
+1946
+01:29:57,925 --> 01:30:00,560
+In J.F.K., you walk right off the plane,
+
+1947
+01:30:00,562 --> 01:30:02,796
+and you go straight to customs.
+
+1948
+01:30:02,798 --> 01:30:04,698
+About three agents in front of me
+
+1949
+01:30:04,700 --> 01:30:06,800
+and then four agents behind me said,
+
+1950
+01:30:06,802 --> 01:30:08,702
+"Mr. Shrem, please come with us."
+
+1951
+01:30:08,704 --> 01:30:11,271
+<i>They took me to an interrogating room,</i>
+
+1952
+01:30:11,273 --> 01:30:12,873
+<i>told me that I'm being arrested</i>
+
+1953
+01:30:12,875 --> 01:30:15,108
+<i>on federal crimes of money laundering,</i>
+
+1954
+01:30:15,110 --> 01:30:17,110
+<i>running an unlicensed money
+transmission business</i>
+
+1955
+01:30:17,112 --> 01:30:20,781
+<i>and failing to file
+suspicious-activity reports.</i>
+
+1956
+01:30:20,783 --> 01:30:23,884
+<i>The indictment alleged that
+Charlie had sold Bitcoins</i>
+
+1957
+01:30:23,886 --> 01:30:26,520
+<i>to a reseller that operated
+on the silk road.</i>
+
+1958
+01:30:27,555 --> 01:30:29,623
+What sucks is the house arrest.
+
+1959
+01:30:29,625 --> 01:30:33,059
+I have to pretty much be here all the time,
+every day. I can't even go outside
+
+1960
+01:30:33,061 --> 01:30:35,822
+unless I'm going to my lawyer's office,
+which is once or twice a week.
+
+1961
+01:30:36,597 --> 01:30:38,365
+<i>I pretty much lost my freedom,</i>
+
+1962
+01:30:38,367 --> 01:30:40,447
+<i>lost everything that I've built
+over the past year.</i>
+
+1963
+01:30:43,204 --> 01:30:45,405
+<i>Charlie's arrest wasn't the only bad news</i>
+
+1964
+01:30:45,407 --> 01:30:48,074
+<i>that rocked the community in the new year.</i>
+
+1965
+01:30:48,076 --> 01:30:51,178
+<i>For months there had been rumors that Mt.
+Gox had become insolvent.</i>
+
+1966
+01:30:51,180 --> 01:30:54,881
+<i>And in February the site went offline.</i>
+
+1967
+01:30:57,352 --> 01:30:58,832
+Do you still have everyone's Bitcoins?
+
+1968
+01:31:01,856 --> 01:31:03,757
+I'm not touching you. I haven't touched you.
+
+1969
+01:31:03,759 --> 01:31:06,293
+Do you still have everyone's Bitcoins?
+
+1970
+01:31:14,036 --> 01:31:15,368
+<i>The rumors turned out to be true.</i>
+
+1971
+01:31:33,621 --> 01:31:35,889
+<i>Mt. Gox had reportedly been hacked</i>
+
+1972
+01:31:35,891 --> 01:31:38,892
+<i>and nearly half a billion dollars
+worth of Bitcoin were missing.</i>
+
+1973
+01:31:42,830 --> 01:31:45,632
+<i>Mark was forced to step down as C.E.O.</i>
+
+1974
+01:31:45,634 --> 01:31:47,801
+<i>And Mt. Gox went into bankruptcy.</i>
+
+1975
+01:31:54,375 --> 01:31:56,977
+A national magazine
+claims to have identified
+
+1976
+01:31:56,979 --> 01:31:58,712
+the mysterious founder of the worldwide
+
+1977
+01:31:58,714 --> 01:32:00,614
+digital currency called Bitcoin.
+
+1978
+01:32:00,616 --> 01:32:02,115
+<i>Tonight he is speaking out,</i>
+
+1979
+01:32:02,117 --> 01:32:03,450
+<i>but he says he has</i>
+
+1980
+01:32:03,452 --> 01:32:04,951
+<i>nothing whatsoever to do with Bitcoin.</i>
+
+1981
+01:32:04,953 --> 01:32:06,887
+<i>Why did you create Bitcoin, sir?</i>
+
+1982
+01:32:06,889 --> 01:32:07,954
+Okay.
+
+1983
+01:32:11,226 --> 01:32:12,792
+Man *2: <i>Sir, can we ask you about Bitcoin?</i>
+
+1984
+01:32:12,794 --> 01:32:14,027
+- No no no no no.
+- <i> Why were you involved in Bitcoin?</i>
+
+1985
+01:32:14,029 --> 01:32:17,564
+Okay, I'm not involved in Bitcoin, okay?
+
+1986
+01:32:17,566 --> 01:32:18,698
+- <i> Who's involved in it?</i>
+- Wait a minute.
+
+1987
+01:32:18,700 --> 01:32:19,966
+I want a free lunch first.
+
+1988
+01:32:19,968 --> 01:32:21,368
+I'm gonna go with this guy.
+
+1989
+01:32:22,737 --> 01:32:25,872
+I want a big one. Yeah.
+
+1990
+01:32:25,874 --> 01:32:27,908
+Oh, okay. Yeah, this will be good.
+
+1991
+01:32:27,910 --> 01:32:30,744
+- Oh jeez.
+- We have some water.
+
+1992
+01:32:30,746 --> 01:32:33,079
+Hey, where's yours?
+
+1993
+01:32:33,081 --> 01:32:36,182
+<i>"Newsweek" claimed the creator of Bitcoin</i>
+
+1994
+01:32:36,184 --> 01:32:38,218
+<i>had not used a pseudonym.</i>
+
+1995
+01:32:38,220 --> 01:32:39,953
+<i>They connected the dots</i>
+
+1996
+01:32:39,955 --> 01:32:41,955
+<i>to a 64-year-old Japanese man</i>
+
+1997
+01:32:41,957 --> 01:32:44,057
+<i>living in Los Angeles...</i>
+
+1998
+01:32:44,059 --> 01:32:47,527
+<i>Named Dorian Prentice Satoshi Nakamoto.</i>
+
+1999
+01:32:48,930 --> 01:32:51,464
+<i>Nakamoto immediately denied the allegations</i>
+
+2000
+01:32:51,466 --> 01:32:53,800
+<i>and said he'd tell his story
+to the first reporter</i>
+
+2001
+01:32:53,802 --> 01:32:55,602
+<i>who agreed to buy him lunch.</i>
+
+2002
+01:32:55,604 --> 01:32:57,437
+The main reason I'm here is
+
+2003
+01:32:57,439 --> 01:33:00,240
+to clear my name, that I have nothing
+
+2004
+01:33:00,242 --> 01:33:02,142
+- to do with Bitcoin...
+- Yup.
+
+2005
+01:33:02,144 --> 01:33:04,911
+...nothing to do with developing.
+
+2006
+01:33:04,913 --> 01:33:08,114
+I was just an engineer doing something else.
+
+2007
+01:33:08,116 --> 01:33:10,350
+<i>As the media frenzy escalated,</i>
+
+2008
+01:33:10,352 --> 01:33:13,186
+<i>"Newsweek's" claims started to unravel.</i>
+
+2009
+01:33:13,188 --> 01:33:15,922
+<i>Holes in the story led many to believe</i>
+
+2010
+01:33:15,924 --> 01:33:17,924
+<i>it was nothing more than
+sensational journalism.</i>
+
+2011
+01:33:19,393 --> 01:33:21,094
+<i>There was no conclusive evidence</i>
+
+2012
+01:33:21,096 --> 01:33:22,762
+<i>tying Dorian to Bitcoin.</i>
+
+2013
+01:33:24,365 --> 01:33:25,899
+<i>Amidst the uncertainty,</i>
+
+2014
+01:33:25,901 --> 01:33:27,334
+<i>on that same day...</i>
+
+2015
+01:33:28,469 --> 01:33:30,236
+<i>A comment suddenly appeared</i>
+
+2016
+01:33:30,238 --> 01:33:33,773
+<i>on Satoshi's long-dormant profile
+page which read...</i>
+
+2017
+01:33:42,416 --> 01:33:44,818
+<i>Maybe we'll never know who
+created Bitcoin...</i>
+
+2018
+01:33:46,020 --> 01:33:47,554
+<i>But the truth is</i>
+
+2019
+01:33:47,556 --> 01:33:49,122
+<i>it doesn't really matter.</i>
+
+2020
+01:33:50,858 --> 01:33:52,459
+<i>Bitcoin belongs to everyone.</i>
+
+2021
+01:33:53,594 --> 01:33:55,762
+<i>And the future is ours to build.</i>
+
+2022
+01:34:22,456 --> 01:34:24,958
+Put $100,000 on Market orders right now.
+
+2023
+01:34:24,960 --> 01:34:26,626
+- Why?
+- Let's do it. Let's do it. Come on.
+
+2024
+01:34:26,628 --> 01:34:28,595
+- Come on.
+- Why? What's gonna happen?
+
+2025
+01:34:28,597 --> 01:34:30,597
+Buy 100k worth of Bitcoins right now.
+
+2026
+01:34:30,599 --> 01:34:31,731
+- Why?
+- Do it.
+
+2027
+01:34:31,733 --> 01:34:33,099
+- I don't wanna do it.
+- Do it.
+
+2028
+01:34:33,101 --> 01:34:34,734
+You owe me $100,000. Do it.
+
+2029
+01:34:34,736 --> 01:34:36,636
+I'll send you $100,000 in Bitcoins.
+
+2030
+01:34:36,638 --> 01:34:38,204
+No, you buy it. But 100k right now.
+
+2031
+01:34:38,206 --> 01:34:40,874
+Dude, I can't. I need the
+floating Gox for volume.
+
+2032
+01:34:40,876 --> 01:34:44,044
+Closing bell for Satoshi square!
+
+2033
+01:34:44,046 --> 01:34:45,145
+All right, does this look right?
+
+2034
+01:34:45,147 --> 01:34:46,579
+1-n-p-w? Yup.
+
+2035
+01:34:46,581 --> 01:34:48,048
+Yup, okay.
+
+2036
+01:34:48,050 --> 01:34:49,050
+And I owe you 0.2?
+
+2037
+01:34:49,051 --> 01:34:51,317
+- Uh... 0.18.
+- 0.18.
+
+2038
+01:34:51,319 --> 01:34:54,654
+This is for Bitcoin t-shirt.
+
+2039
+01:34:54,656 --> 01:34:56,823
+I got 'em. A pleasure, sir.
+
+2040
+01:34:56,825 --> 01:34:58,324
+Great doing business with you.
+
+2041
+01:34:58,326 --> 01:35:00,427
+- Gonna wear your shirt proudly.
+- Do it.
+
+2042
+01:35:00,429 --> 01:35:02,128
+That's one thing that's
+interesting about Bitcoin.
+
+2043
+01:35:02,130 --> 01:35:04,197
+It's like, how do you declare losses?
+
+2044
+01:35:04,199 --> 01:35:06,766
+You point to two transactions
+that happened on the Internet
+
+2045
+01:35:06,768 --> 01:35:09,069
+and you tell the I.R.S. That you owned that?
+
+2046
+01:35:09,071 --> 01:35:11,438
+"Oh, I used to own that and
+I lost the private key."
+
+2047
+01:35:12,707 --> 01:35:14,374
+And then if you really do lose it,
+
+2048
+01:35:14,376 --> 01:35:16,376
+how do you write it off for taxes?
+
+2049
+01:35:16,378 --> 01:35:18,044
+Oh, that's gonna be interesting.
+
+2050
+01:35:22,283 --> 01:35:24,584
+We love Bitcoin.
+
+2051
+01:35:24,586 --> 01:35:27,020
+Okay, guys, we're gonna play a
+special version of hopscotch
+
+2052
+01:35:27,022 --> 01:35:30,290
+called "Bitcoin blockchain hopscotch."
+
+2053
+01:35:30,292 --> 01:35:33,126
+Oh, you lost all your Bitcoins!
+
+2054
+01:35:34,730 --> 01:35:36,596
+<i>Who is Satoshi Nakamoto?</i>
+
+2055
+01:35:38,266 --> 01:35:41,234
+I'd... rather not tell you,
+
+2056
+01:35:41,236 --> 01:35:42,602
+- but yeah.
+- <i> Oh, do you know?</i>
+
+2057
+01:35:42,604 --> 01:35:45,338
+Uh, maybe not, maybe.
+
+2058
+01:35:45,340 --> 01:35:46,906
+<i>Oh. </i>
+
+2059
+01:35:46,908 --> 01:35:49,776
+You know, I have a Bitcoin
+and a half myself now.
+
+2060
+01:35:49,778 --> 01:35:51,578
+Which I think probably in 10 years
+
+2061
+01:35:55,416 --> 01:35:57,083
+<i>When you think about it hard enough</i>
+
+2062
+01:35:57,085 --> 01:35:59,452
+<i>on a global scale, this is a
+net gain for humanity.</i>
