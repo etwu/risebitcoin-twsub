@@ -1,5 +1,7 @@
 # The Rise and Rise of Bitcoin 比特幣的崛起 正體中文電影字幕
 
+下載字幕請按此: https://github.com/etwu/risebitcoin-twsub/archive/master.zip
+
 電影官方網站： http://bitcoindoc.com
 
 Daniel 是一位住在Pittsburgh35歲的電腦工程師,在三個小孩,婚姻,與工作之餘,他幾乎把所有時間用在參與比特幣上.在2011年發現了比特幣之後,他對數位貨幣的愛與熱情從此誕生,在他眼前是一個嶄新且充滿無限可能的世界.
