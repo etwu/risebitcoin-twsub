@@ -11,5 +11,3 @@ Daniel 是一位住在Pittsburgh35歲的電腦工程師,在三個小孩,婚姻,�
 正體中文字幕初版翻譯:Abbygail ET Wu
 
 歡迎協助修正校對，請直接上傳到本站. 本站縮網址 http://bit.ly/trarobtws
-
-用比特幣感謝譯者： https://onename.com/lazurloner
